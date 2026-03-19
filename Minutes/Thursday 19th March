@@ -1,0 +1,18 @@
+Task breakdown
+
+	1) Location/spatial mapping (Nicole & Emeka)
+Match the resolution of the tree and air quality data.
+Take the continuous air data point and decide an appropriate radius (0.5km?) to generate air diffusion bubbles.
+Analyse diffusion bubbles to determine relationship between location of trees and the air quality. How does this change with different radi/is there an optimal length? Consider applying a weighting to different trees based off their proximity to the centre of the diffusion bubble.
+Experiment whether it is best to model on a tree by tree basis or looking at a cluster of trees, could this be a comparative point?
+
+	2) Crown size/leaf mass (Andreaa & Liv)
+Find most appropriate way to calculate/model these features for tree dataset
+Create an initial hypothesis (research relevant literature)
+Time series analysis to investigate how the volume increases/decreases over time
+Based off the crown size, how do the diffusion bubbles look/overlap?
+Explore visualisation techniques
+
+	1) Pollutant modelling (Rowan & Luciano)
+Explore how the different pollutants change over time and location using diffusion bubbles
+Are different groups of trees/different pollutants more susceptible? 
