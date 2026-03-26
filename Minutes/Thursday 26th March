@@ -1,0 +1,44 @@
+Where are we?
+
+Journey counts data:
+37 unique locations
+Data is recorded for vehicles - matched to number plates
+
+Tree data:
+Cleaned tree data for features we need
+Currently working on filling in missing values
+
+Wind data:
+CSVs for 2023 and 2024 on GitHub
+
+Air quality data:
+Map/spatial plotting of clean air zone overlaying Bristol
+
+General discussion points:
+Looking at nitrous oxide (NOx) data for pollutants for now - adding PM would involve an entirely different model for trees
+Because looking at NOx, need to consider the time of day for pollutant aborption however don't need to consider tree species as much
+Idea is to have 2 models (one on tree impacts on pollution and one for traffic causing pollution) and then measure their correlation against one another 
+Wind data to be used similarly (hopefully) on both the tree and traffic data
+
+Next actions:
+
+Journey counts data: (Luciano and Rowan) work split (1&2) (3)
+1) Find a way to account for electric cars (find % on cars in Bristol/South West/UK and divide the total number)
+2) Map the traffic data to the air quality sensors spatially 
+3) Research/find a mathematical model for how pollution propagates from the cars. How does the pollution diffuse over time and distance?
+
+Tree data: (Emeka and Andreaa)
+1) Interpolate the missing values
+2) Find an average date for when leaves start to fall and grow back
+3) Map the tree data to the air quality sensors (location)
+4) Create a feature for canopy area around the sensor location - define the canopy size (literature should be available to support this)
+5) Research the distribution bubble of trees - estimating their total impact
+
+Wind data: (Liv)
+1) Clean the csvs for for 2023 and 2024 for average and max speed and direction
+
+Time and date data: (Nicole)
+1) Use timeanddate to find create a dataset for the civil night and day timestamps for each day in Bristol - round these 
+times to be hourly to fit with the air quality/wind/traffic data resolutions
+
+Agreed to meet Monday March 30th to discuss progress with tasks.
