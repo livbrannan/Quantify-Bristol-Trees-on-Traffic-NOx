@@ -1,0 +1,381 @@
+date,Sunrise/Sunset Sunrise Sunrise,Sunrise/Sunset Sunset Sunset,Daylength Length Length,Daylength Diff. Diff.,Astronomical Twilight Start Start,Astronomical Twilight End End,Nautical Twilight Start Start,Nautical Twilight End End,Civil Twilight Start Start,Civil Twilight End End,Solar Noon Time Time,Solar Noon Mil. mi Mil. mi
+2024-01-01,8:15 am ↑ (128°),4:11 pm ↑ (232°),7:55:57,+1:03,6:12 am,6:15 pm,6:53 am,5:34 pm,7:35 am,4:51 pm,12:13 pm (15.6°),91.405
+2024-01-02,8:15 am ↑ (127°),4:12 pm ↑ (233°),7:57:07,+1:09,6:12 am,6:16 pm,6:53 am,5:35 pm,7:35 am,4:52 pm,12:14 pm (15.7°),91.404
+2024-01-03,8:15 am ↑ (127°),4:13 pm ↑ (233°),7:58:22,+1:15,6:12 am,6:16 pm,6:53 am,5:36 pm,7:35 am,4:53 pm,12:14 pm (15.8°),91.404
+2024-01-04,8:15 am ↑ (127°),4:15 pm ↑ (233°),7:59:43,+1:21,6:12 am,6:17 pm,6:52 am,5:37 pm,7:35 am,4:54 pm,12:15 pm (15.9°),91.405
+2024-01-05,8:15 am ↑ (127°),4:16 pm ↑ (233°),8:01:10,+1:26,6:12 am,6:18 pm,6:52 am,5:38 pm,7:35 am,4:55 pm,12:15 pm (16.0°),91.406
+2024-01-06,8:14 am ↑ (127°),4:17 pm ↑ (233°),8:02:42,+1:32,6:12 am,6:19 pm,6:52 am,5:39 pm,7:35 am,4:56 pm,12:15 pm (16.1°),91.407
+2024-01-07,8:14 am ↑ (126°),4:18 pm ↑ (234°),8:04:21,+1:38,6:12 am,6:21 pm,6:52 am,5:40 pm,7:34 am,4:58 pm,12:16 pm (16.2°),91.409
+2024-01-08,8:13 am ↑ (126°),4:20 pm ↑ (234°),8:06:04,+1:43,6:11 am,6:22 pm,6:52 am,5:41 pm,7:34 am,4:59 pm,12:16 pm (16.3°),91.411
+2024-01-09,8:13 am ↑ (126°),4:21 pm ↑ (234°),8:07:54,+1:49,6:11 am,6:23 pm,6:51 am,5:42 pm,7:34 am,5:00 pm,12:17 pm (16.5°),91.414
+2024-01-10,8:12 am ↑ (126°),4:22 pm ↑ (234°),8:09:48,+1:54,6:11 am,6:24 pm,6:51 am,5:44 pm,7:33 am,5:01 pm,12:17 pm (16.6°),91.416
+2024-01-11,8:12 am ↑ (125°),4:24 pm ↑ (235°),8:11:48,+1:59,6:11 am,6:25 pm,6:51 am,5:45 pm,7:33 am,5:03 pm,12:18 pm (16.8°),91.420
+2024-01-12,8:11 am ↑ (125°),4:25 pm ↑ (235°),8:13:52,+2:04,6:10 am,6:26 pm,6:50 am,5:46 pm,7:32 am,5:04 pm,12:18 pm (16.9°),91.423
+2024-01-13,8:11 am ↑ (125°),4:27 pm ↑ (235°),8:16:02,+2:09,6:10 am,6:27 pm,6:50 am,5:47 pm,7:32 am,5:05 pm,12:18 pm (17.1°),91.427
+2024-01-14,8:10 am ↑ (125°),4:28 pm ↑ (236°),8:18:16,+2:14,6:09 am,6:29 pm,6:49 am,5:49 pm,7:31 am,5:07 pm,12:19 pm (17.3°),91.432
+2024-01-15,8:09 am ↑ (124°),4:30 pm ↑ (236°),8:20:36,+2:19,6:09 am,6:30 pm,6:49 am,5:50 pm,7:31 am,5:08 pm,12:19 pm (17.4°),91.436
+2024-01-16,8:08 am ↑ (124°),4:31 pm ↑ (236°),8:22:59,+2:23,6:08 am,6:31 pm,6:48 am,5:51 pm,7:30 am,5:10 pm,12:19 pm (17.6°),91.441
+2024-01-17,8:07 am ↑ (124°),4:33 pm ↑ (237°),8:25:27,+2:27,6:08 am,6:32 pm,6:47 am,5:53 pm,7:29 am,5:11 pm,12:20 pm (17.8°),91.447
+2024-01-18,8:06 am ↑ (123°),4:34 pm ↑ (237°),8:27:59,+2:32,6:07 am,6:34 pm,6:47 am,5:54 pm,7:28 am,5:12 pm,12:20 pm (18.0°),91.452
+2024-01-19,8:05 am ↑ (123°),4:36 pm ↑ (237°),8:30:36,+2:36,6:06 am,6:35 pm,6:46 am,5:55 pm,7:27 am,5:14 pm,12:20 pm (18.2°),91.459
+2024-01-20,8:04 am ↑ (122°),4:38 pm ↑ (238°),8:33:16,+2:40,6:05 am,6:37 pm,6:45 am,5:57 pm,7:27 am,5:15 pm,12:21 pm (18.4°),91.466
+2024-01-21,8:03 am ↑ (122°),4:39 pm ↑ (238°),8:36:00,+2:44,6:05 am,6:38 pm,6:44 am,5:58 pm,7:26 am,5:17 pm,12:21 pm (18.6°),91.473
+2024-01-22,8:02 am ↑ (122°),4:41 pm ↑ (239°),8:38:48,+2:47,6:04 am,6:39 pm,6:43 am,6:00 pm,7:25 am,5:19 pm,12:21 pm (18.9°),91.481
+2024-01-23,8:01 am ↑ (121°),4:43 pm ↑ (239°),8:41:39,+2:51,6:03 am,6:41 pm,6:43 am,6:01 pm,7:24 am,5:20 pm,12:22 pm (19.1°),91.489
+2024-01-24,8:00 am ↑ (121°),4:44 pm ↑ (239°),8:44:34,+2:54,6:02 am,6:42 pm,6:42 am,6:03 pm,7:23 am,5:22 pm,12:22 pm (19.3°),91.498
+2024-01-25,7:59 am ↑ (120°),4:46 pm ↑ (240°),8:47:32,+2:58,6:01 am,6:44 pm,6:41 am,6:04 pm,7:21 am,5:23 pm,12:22 pm (19.6°),91.508
+2024-01-26,7:57 am ↑ (120°),4:48 pm ↑ (240°),8:50:34,+3:01,6:00 am,6:45 pm,6:40 am,6:06 pm,7:20 am,5:25 pm,12:22 pm (19.8°),91.518
+2024-01-27,7:56 am ↑ (120°),4:50 pm ↑ (241°),8:53:38,+3:04,5:59 am,6:46 pm,6:38 am,6:07 pm,7:19 am,5:26 pm,12:22 pm (20.1°),91.528
+2024-01-28,7:55 am ↑ (119°),4:51 pm ↑ (241°),8:56:45,+3:07,5:58 am,6:48 pm,6:37 am,6:09 pm,7:18 am,5:28 pm,12:23 pm (20.3°),91.540
+2024-01-29,7:53 am ↑ (119°),4:53 pm ↑ (242°),8:59:56,+3:10,5:57 am,6:49 pm,6:36 am,6:10 pm,7:17 am,5:30 pm,12:23 pm (20.6°),91.551
+2024-01-30,7:52 am ↑ (118°),4:55 pm ↑ (242°),9:03:09,+3:12,5:56 am,6:51 pm,6:35 am,6:12 pm,7:15 am,5:31 pm,12:23 pm (20.9°),91.564
+2024-01-31,7:50 am ↑ (118°),4:57 pm ↑ (243°),9:06:24,+3:15,5:55 am,6:52 pm,6:34 am,6:13 pm,7:14 am,5:33 pm,12:23 pm (21.1°),91.576
+,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-02-01,7:49 am ↑ (117°),4:59 pm ↑ (243°),9:09:42,+3:18,5:53 am,6:54 pm,6:32 am,6:15 pm,7:13 am,5:35 pm,12:23 pm (21.4°),91.589
+2024-02-02,7:47 am ↑ (117°),5:00 pm ↑ (244°),9:13:03,+3:20,5:52 am,6:55 pm,6:31 am,6:16 pm,7:11 am,5:36 pm,12:23 pm (21.7°),91.603
+2024-02-03,7:46 am ↑ (116°),5:02 pm ↑ (244°),9:16:26,+3:22,5:51 am,6:57 pm,6:30 am,6:18 pm,7:10 am,5:38 pm,12:24 pm (22.0°),91.617
+2024-02-04,7:44 am ↑ (116°),5:04 pm ↑ (245°),9:19:51,+3:25,5:50 am,6:59 pm,6:28 am,6:20 pm,7:08 am,5:40 pm,12:24 pm (22.3°),91.632
+2024-02-05,7:42 am ↑ (115°),5:06 pm ↑ (245°),9:23:18,+3:27,5:48 am,7:00 pm,6:27 am,6:21 pm,7:07 am,5:41 pm,12:24 pm (22.6°),91.646
+2024-02-06,7:41 am ↑ (115°),5:08 pm ↑ (246°),9:26:47,+3:29,5:47 am,7:02 pm,6:26 am,6:23 pm,7:05 am,5:43 pm,12:24 pm (22.9°),91.662
+2024-02-07,7:39 am ↑ (114°),5:09 pm ↑ (246°),9:30:18,+3:31,5:45 am,7:03 pm,6:24 am,6:25 pm,7:04 am,5:45 pm,12:24 pm (23.2°),91.677
+2024-02-08,7:37 am ↑ (114°),5:11 pm ↑ (247°),9:33:51,+3:32,5:44 am,7:05 pm,6:23 am,6:26 pm,7:02 am,5:47 pm,12:24 pm (23.5°),91.693
+2024-02-09,7:36 am ↑ (113°),5:13 pm ↑ (247°),9:37:25,+3:34,5:42 am,7:07 pm,6:21 am,6:28 pm,7:00 am,5:48 pm,12:24 pm (23.8°),91.709
+2024-02-10,7:34 am ↑ (113°),5:15 pm ↑ (248°),9:41:01,+3:36,5:41 am,7:08 pm,6:19 am,6:29 pm,6:59 am,5:50 pm,12:24 pm (24.2°),91.725
+2024-02-11,7:32 am ↑ (112°),5:17 pm ↑ (248°),9:44:39,+3:37,5:39 am,7:10 pm,6:18 am,6:31 pm,6:57 am,5:52 pm,12:24 pm (24.5°),91.741
+2024-02-12,7:30 am ↑ (111°),5:19 pm ↑ (249°),9:48:18,+3:39,5:38 am,7:11 pm,6:16 am,6:33 pm,6:55 am,5:53 pm,12:24 pm (24.8°),91.758
+2024-02-13,7:28 am ↑ (111°),5:20 pm ↑ (249°),9:51:59,+3:40,5:36 am,7:13 pm,6:15 am,6:34 pm,6:54 am,5:55 pm,12:24 pm (25.1°),91.775
+2024-02-14,7:27 am ↑ (110°),5:22 pm ↑ (250°),9:55:40,+3:41,5:34 am,7:15 pm,6:13 am,6:36 pm,6:52 am,5:57 pm,12:24 pm (25.5°),91.792
+2024-02-15,7:25 am ↑ (110°),5:24 pm ↑ (250°),9:59:23,+3:43,5:33 am,7:16 pm,6:11 am,6:38 pm,6:50 am,5:59 pm,12:24 pm (25.8°),91.809
+2024-02-16,7:23 am ↑ (109°),5:26 pm ↑ (251°),10:03:08,+3:44,5:31 am,7:18 pm,6:09 am,6:39 pm,6:48 am,6:00 pm,12:24 pm (26.2°),91.827
+2024-02-17,7:21 am ↑ (109°),5:28 pm ↑ (252°),10:06:53,+3:45,5:29 am,7:20 pm,6:08 am,6:41 pm,6:46 am,6:02 pm,12:24 pm (26.5°),91.845
+2024-02-18,7:19 am ↑ (108°),5:30 pm ↑ (252°),10:10:39,+3:46,5:27 am,7:21 pm,6:06 am,6:43 pm,6:45 am,6:04 pm,12:24 pm (26.9°),91.864
+2024-02-19,7:17 am ↑ (107°),5:31 pm ↑ (253°),10:14:26,+3:47,5:25 am,7:23 pm,6:04 am,6:44 pm,6:43 am,6:06 pm,12:24 pm (27.2°),91.882
+2024-02-20,7:15 am ↑ (107°),5:33 pm ↑ (253°),10:18:15,+3:48,5:24 am,7:25 pm,6:02 am,6:46 pm,6:41 am,6:07 pm,12:24 pm (27.6°),91.902
+2024-02-21,7:13 am ↑ (106°),5:35 pm ↑ (254°),10:22:03,+3:48,5:22 am,7:26 pm,6:00 am,6:48 pm,6:39 am,6:09 pm,12:23 pm (27.9°),91.921
+2024-02-22,7:11 am ↑ (106°),5:37 pm ↑ (255°),10:25:53,+3:49,5:20 am,7:28 pm,5:58 am,6:49 pm,6:37 am,6:11 pm,12:23 pm (28.3°),91.941
+2024-02-23,7:09 am ↑ (105°),5:39 pm ↑ (255°),10:29:44,+3:50,5:18 am,7:30 pm,5:56 am,6:51 pm,6:35 am,6:12 pm,12:23 pm (28.7°),91.962
+2024-02-24,7:07 am ↑ (104°),5:40 pm ↑ (256°),10:33:35,+3:51,5:16 am,7:31 pm,5:54 am,6:53 pm,6:33 am,6:14 pm,12:23 pm (29.0°),91.982
+2024-02-25,7:05 am ↑ (104°),5:42 pm ↑ (256°),10:37:27,+3:51,5:14 am,7:33 pm,5:52 am,6:55 pm,6:31 am,6:16 pm,12:23 pm (29.4°),92.004
+2024-02-26,7:03 am ↑ (103°),5:44 pm ↑ (257°),10:41:19,+3:52,5:12 am,7:35 pm,5:50 am,6:56 pm,6:29 am,6:18 pm,12:23 pm (29.8°),92.025
+2024-02-27,7:00 am ↑ (103°),5:46 pm ↑ (258°),10:45:12,+3:53,5:10 am,7:37 pm,5:48 am,6:58 pm,6:27 am,6:19 pm,12:23 pm (30.1°),92.047
+2024-02-28,6:58 am ↑ (102°),5:47 pm ↑ (258°),10:49:06,+3:53,5:08 am,7:38 pm,5:46 am,7:00 pm,6:25 am,6:21 pm,12:22 pm (30.5°),92.070
+2024-02-29,6:56 am ↑ (101°),5:49 pm ↑ (259°),10:53:00,+3:54,5:05 am,7:40 pm,5:44 am,7:01 pm,6:23 am,6:23 pm,12:22 pm (30.9°),92.092
+,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-03-01,6:54 am ↑ (101°),5:51 pm ↑ (259°),10:56:55,+3:54,5:03 am,7:42 pm,5:42 am,7:03 pm,6:21 am,6:24 pm,12:22 pm (31.3°),92.115
+2024-03-02,6:52 am ↑ (100°),5:53 pm ↑ (260°),11:00:50,+3:55,5:01 am,7:44 pm,5:40 am,7:05 pm,6:19 am,6:26 pm,12:22 pm (31.7°),92.139
+2024-03-03,6:50 am ↑ (100°),5:54 pm ↑ (261°),11:04:45,+3:55,4:59 am,7:46 pm,5:38 am,7:06 pm,6:16 am,6:28 pm,12:22 pm (32.0°),92.162
+2024-03-04,6:48 am ↑ (99°),5:56 pm ↑ (261°),11:08:41,+3:55,4:57 am,7:47 pm,5:36 am,7:08 pm,6:14 am,6:30 pm,12:21 pm (32.4°),92.186
+2024-03-05,6:45 am ↑ (98°),5:58 pm ↑ (262°),11:12:38,+3:56,4:55 am,7:49 pm,5:34 am,7:10 pm,6:12 am,6:31 pm,12:21 pm (32.8°),92.210
+2024-03-06,6:43 am ↑ (98°),6:00 pm ↑ (263°),11:16:34,+3:56,4:52 am,7:51 pm,5:31 am,7:12 pm,6:10 am,6:33 pm,12:21 pm (33.2°),92.234
+2024-03-07,6:41 am ↑ (97°),6:01 pm ↑ (263°),11:20:31,+3:56,4:50 am,7:53 pm,5:29 am,7:13 pm,6:08 am,6:35 pm,12:21 pm (33.6°),92.259
+2024-03-08,6:39 am ↑ (96°),6:03 pm ↑ (264°),11:24:28,+3:57,4:48 am,7:55 pm,5:27 am,7:15 pm,6:06 am,6:36 pm,12:20 pm (34.0°),92.283
+2024-03-09,6:36 am ↑ (96°),6:05 pm ↑ (264°),11:28:25,+3:57,4:45 am,7:56 pm,5:25 am,7:17 pm,6:03 am,6:38 pm,12:20 pm (34.4°),92.308
+2024-03-10,6:34 am ↑ (95°),6:07 pm ↑ (265°),11:32:23,+3:57,4:43 am,7:58 pm,5:22 am,7:19 pm,6:01 am,6:40 pm,12:20 pm (34.8°),92.332
+2024-03-11,6:32 am ↑ (95°),6:08 pm ↑ (266°),11:36:20,+3:57,4:41 am,8:00 pm,5:20 am,7:20 pm,5:59 am,6:42 pm,12:20 pm (35.2°),92.357
+2024-03-12,6:30 am ↑ (94°),6:10 pm ↑ (266°),11:40:18,+3:57,4:38 am,8:02 pm,5:18 am,7:22 pm,5:57 am,6:43 pm,12:19 pm (35.6°),92.381
+2024-03-13,6:28 am ↑ (93°),6:12 pm ↑ (267°),11:44:16,+3:57,4:36 am,8:04 pm,5:16 am,7:24 pm,5:54 am,6:45 pm,12:19 pm (35.9°),92.406
+2024-03-14,6:25 am ↑ (93°),6:14 pm ↑ (268°),11:48:14,+3:57,4:33 am,8:06 pm,5:13 am,7:26 pm,5:52 am,6:47 pm,12:19 pm (36.3°),92.431
+2024-03-15,6:23 am ↑ (92°),6:15 pm ↑ (268°),11:52:12,+3:58,4:31 am,8:08 pm,5:11 am,7:27 pm,5:50 am,6:48 pm,12:19 pm (36.7°),92.455
+2024-03-16,6:21 am ↑ (91°),6:17 pm ↑ (269°),11:56:10,+3:58,4:28 am,8:10 pm,5:09 am,7:29 pm,5:48 am,6:50 pm,12:18 pm (37.1°),92.480
+2024-03-17,6:18 am ↑ (91°),6:19 pm ↑ (270°),12:00:08,+3:58,4:26 am,8:12 pm,5:06 am,7:31 pm,5:45 am,6:52 pm,12:18 pm (37.5°),92.505
+2024-03-18,6:16 am ↑ (90°),6:20 pm ↑ (270°),12:04:06,+3:58,4:23 am,8:14 pm,5:04 am,7:33 pm,5:43 am,6:54 pm,12:18 pm (37.9°),92.530
+2024-03-19,6:14 am ↑ (90°),6:22 pm ↑ (271°),12:08:04,+3:58,4:21 am,8:16 pm,5:02 am,7:35 pm,5:41 am,6:55 pm,12:17 pm (38.3°),92.556
+2024-03-20,6:12 am ↑ (89°),6:24 pm ↑ (271°),12:12:02,+3:57,4:18 am,8:18 pm,4:59 am,7:36 pm,5:38 am,6:57 pm,12:17 pm (38.7°),92.581
+2024-03-21,6:09 am ↑ (88°),6:25 pm ↑ (272°),12:16:00,+3:57,4:16 am,8:20 pm,4:57 am,7:38 pm,5:36 am,6:59 pm,12:17 pm (39.1°),92.607
+2024-03-22,6:07 am ↑ (88°),6:27 pm ↑ (273°),12:19:58,+3:57,4:13 am,8:22 pm,4:54 am,7:40 pm,5:34 am,7:00 pm,12:17 pm (39.5°),92.632
+2024-03-23,6:05 am ↑ (87°),6:29 pm ↑ (273°),12:23:56,+3:57,4:10 am,8:24 pm,4:52 am,7:42 pm,5:31 am,7:02 pm,12:16 pm (39.9°),92.658
+2024-03-24,6:03 am ↑ (86°),6:30 pm ↑ (274°),12:27:53,+3:57,4:08 am,8:26 pm,4:49 am,7:44 pm,5:29 am,7:04 pm,12:16 pm (40.3°),92.685
+2024-03-25,6:00 am ↑ (86°),6:32 pm ↑ (275°),12:31:51,+3:57,4:05 am,8:28 pm,4:47 am,7:46 pm,5:27 am,7:06 pm,12:16 pm (40.7°),92.711
+2024-03-26,5:58 am ↑ (85°),6:34 pm ↑ (275°),12:35:48,+3:57,4:02 am,8:30 pm,4:45 am,7:48 pm,5:24 am,7:07 pm,12:15 pm (41.1°),92.737
+2024-03-27,5:56 am ↑ (84°),6:35 pm ↑ (276°),12:39:45,+3:57,4:00 am,8:32 pm,4:42 am,7:49 pm,5:22 am,7:09 pm,12:15 pm (41.5°),92.764
+2024-03-28,5:53 am ↑ (84°),6:37 pm ↑ (277°),12:43:42,+3:56,3:57 am,8:34 pm,4:40 am,7:51 pm,5:20 am,7:11 pm,12:15 pm (41.9°),92.791
+2024-03-29,5:51 am ↑ (83°),6:39 pm ↑ (277°),12:47:39,+3:56,3:54 am,8:36 pm,4:37 am,7:53 pm,5:17 am,7:13 pm,12:14 pm (42.2°),92.818
+2024-03-30,5:49 am ↑ (83°),6:40 pm ↑ (278°),12:51:35,+3:56,3:51 am,8:39 pm,4:35 am,7:55 pm,5:15 am,7:14 pm,12:14 pm (42.6°),92.845
+2024-03-01,Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details),Note: hours shift because clocks change forward 1 hour. (See the note below this table for details)
+2024-03-31,6:47 am ↑ (82°),7:42 pm ↑ (278°),12:55:31,+3:56,4:49 am,9:41 pm,5:32 am,8:57 pm,6:13 am,8:16 pm,1:14 pm (43.0°),92.872
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-04-01,6:44 am ↑ (81°),7:44 pm ↑ (279°),12:59:27,+3:55,4:46 am,9:43 pm,5:30 am,8:59 pm,6:10 am,8:18 pm,1:14 pm (43.4°),92.900
+2024-04-02,6:42 am ↑ (81°),7:45 pm ↑ (280°),13:03:23,+3:55,4:43 am,9:45 pm,5:27 am,9:01 pm,6:08 am,8:20 pm,1:13 pm (43.8°),92.927
+2024-04-03,6:40 am ↑ (80°),7:47 pm ↑ (280°),13:07:18,+3:55,4:40 am,9:48 pm,5:25 am,9:03 pm,6:06 am,8:21 pm,1:13 pm (44.2°),92.954
+2024-04-04,6:38 am ↑ (79°),7:49 pm ↑ (281°),13:11:13,+3:55,4:37 am,9:50 pm,5:22 am,9:05 pm,6:03 am,8:23 pm,1:13 pm (44.5°),92.981
+2024-04-05,6:35 am ↑ (79°),7:51 pm ↑ (281°),13:15:08,+3:54,4:35 am,9:52 pm,5:20 am,9:07 pm,6:01 am,8:25 pm,1:12 pm (44.9°),93.009
+2024-04-06,6:33 am ↑ (78°),7:52 pm ↑ (282°),13:19:02,+3:54,4:32 am,9:54 pm,5:17 am,9:09 pm,5:59 am,8:27 pm,1:12 pm (45.3°),93.036
+2024-04-07,6:31 am ↑ (78°),7:54 pm ↑ (283°),13:22:56,+3:53,4:29 am,9:57 pm,5:15 am,9:11 pm,5:56 am,8:28 pm,1:12 pm (45.7°),93.062
+2024-04-08,6:29 am ↑ (77°),7:56 pm ↑ (283°),13:26:50,+3:53,4:26 am,9:59 pm,5:12 am,9:13 pm,5:54 am,8:30 pm,1:12 pm (46.1°),93.089
+2024-04-09,6:26 am ↑ (76°),7:57 pm ↑ (284°),13:30:43,+3:52,4:23 am,10:02 pm,5:09 am,9:15 pm,5:52 am,8:32 pm,1:11 pm (46.4°),93.116
+2024-04-10,6:24 am ↑ (76°),7:59 pm ↑ (285°),13:34:35,+3:52,4:20 am,10:04 pm,5:07 am,9:17 pm,5:49 am,8:34 pm,1:11 pm (46.8°),93.142
+2024-04-11,6:22 am ↑ (75°),8:01 pm ↑ (285°),13:38:27,+3:51,4:17 am,10:07 pm,5:04 am,9:19 pm,5:47 am,8:36 pm,1:11 pm (47.2°),93.168
+2024-04-12,6:20 am ↑ (75°),8:02 pm ↑ (286°),13:42:18,+3:51,4:14 am,10:09 pm,5:02 am,9:21 pm,5:45 am,8:37 pm,1:11 pm (47.5°),93.194
+2024-04-13,6:18 am ↑ (74°),8:04 pm ↑ (286°),13:46:08,+3:50,4:11 am,10:12 pm,4:59 am,9:23 pm,5:43 am,8:39 pm,1:10 pm (47.9°),93.220
+2024-04-14,6:16 am ↑ (73°),8:06 pm ↑ (287°),13:49:58,+3:49,4:08 am,10:14 pm,4:57 am,9:25 pm,5:40 am,8:41 pm,1:10 pm (48.2°),93.245
+2024-04-15,6:13 am ↑ (73°),8:07 pm ↑ (288°),13:53:47,+3:49,4:05 am,10:17 pm,4:54 am,9:27 pm,5:38 am,8:43 pm,1:10 pm (48.6°),93.271
+2024-04-16,6:11 am ↑ (72°),8:09 pm ↑ (288°),13:57:35,+3:48,4:02 am,10:20 pm,4:52 am,9:29 pm,5:36 am,8:45 pm,1:10 pm (49.0°),93.296
+2024-04-17,6:09 am ↑ (72°),8:11 pm ↑ (289°),14:01:23,+3:47,3:59 am,10:22 pm,4:49 am,9:31 pm,5:33 am,8:46 pm,1:09 pm (49.3°),93.322
+2024-04-18,6:07 am ↑ (71°),8:12 pm ↑ (289°),14:05:09,+3:46,3:55 am,10:25 pm,4:46 am,9:33 pm,5:31 am,8:48 pm,1:09 pm (49.7°),93.347
+2024-04-19,6:05 am ↑ (70°),8:14 pm ↑ (290°),14:08:55,+3:45,3:52 am,10:28 pm,4:44 am,9:36 pm,5:29 am,8:50 pm,1:09 pm (50.0°),93.372
+2024-04-20,6:03 am ↑ (70°),8:16 pm ↑ (290°),14:12:40,+3:44,3:49 am,10:31 pm,4:41 am,9:38 pm,5:27 am,8:52 pm,1:09 pm (50.3°),93.397
+2024-04-21,6:01 am ↑ (69°),8:17 pm ↑ (291°),14:16:23,+3:43,3:46 am,10:33 pm,4:39 am,9:40 pm,5:24 am,8:54 pm,1:08 pm (50.7°),93.422
+2024-04-22,5:59 am ↑ (69°),8:19 pm ↑ (292°),14:20:06,+3:42,3:43 am,10:36 pm,4:36 am,9:42 pm,5:22 am,8:56 pm,1:08 pm (51.0°),93.447
+2024-04-23,5:57 am ↑ (68°),8:21 pm ↑ (292°),14:23:48,+3:41,3:39 am,10:39 pm,4:34 am,9:44 pm,5:20 am,8:57 pm,1:08 pm (51.3°),93.472
+2024-04-24,5:55 am ↑ (68°),8:22 pm ↑ (293°),14:27:28,+3:40,3:36 am,10:42 pm,4:31 am,9:46 pm,5:18 am,8:59 pm,1:08 pm (51.7°),93.497
+2024-04-25,5:53 am ↑ (67°),8:24 pm ↑ (293°),14:31:07,+3:39,3:33 am,10:45 pm,4:29 am,9:49 pm,5:16 am,9:01 pm,1:08 pm (52.0°),93.522
+2024-04-26,5:51 am ↑ (67°),8:25 pm ↑ (294°),14:34:45,+3:37,3:29 am,10:48 pm,4:26 am,9:51 pm,5:13 am,9:03 pm,1:08 pm (52.3°),93.547
+2024-04-27,5:49 am ↑ (66°),8:27 pm ↑ (294°),14:38:21,+3:36,3:26 am,10:52 pm,4:23 am,9:53 pm,5:11 am,9:05 pm,1:07 pm (52.6°),93.571
+2024-04-28,5:47 am ↑ (66°),8:29 pm ↑ (295°),14:41:57,+3:35,3:23 am,10:55 pm,4:21 am,9:55 pm,5:09 am,9:07 pm,1:07 pm (53.0°),93.596
+2024-04-29,5:45 am ↑ (65°),8:30 pm ↑ (295°),14:45:30,+3:33,3:19 am,10:58 pm,4:18 am,9:58 pm,5:07 am,9:08 pm,1:07 pm (53.3°),93.621
+2024-04-30,5:43 am ↑ (64°),8:32 pm ↑ (296°),14:49:03,+3:32,3:16 am,11:01 pm,4:16 am,10:00 pm,5:05 am,9:10 pm,1:07 pm (53.6°),93.645
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-05-01,5:41 am ↑ (64°),8:34 pm ↑ (296°),14:52:33,+3:30,3:12 am,11:05 pm,4:13 am,10:02 pm,5:03 am,9:12 pm,1:07 pm (53.9°),93.669
+2024-05-02,5:39 am ↑ (63°),8:35 pm ↑ (297°),14:56:02,+3:28,3:08 am,11:08 pm,4:11 am,10:04 pm,5:01 am,9:14 pm,1:07 pm (54.2°),93.693
+2024-05-03,5:37 am ↑ (63°),8:37 pm ↑ (297°),14:59:29,+3:27,3:05 am,11:12 pm,4:08 am,10:07 pm,4:59 am,9:16 pm,1:07 pm (54.5°),93.717
+2024-05-04,5:36 am ↑ (62°),8:39 pm ↑ (298°),15:02:54,+3:25,3:01 am,11:15 pm,4:06 am,10:09 pm,4:57 am,9:18 pm,1:07 pm (54.7°),93.741
+2024-05-05,5:34 am ↑ (62°),8:40 pm ↑ (298°),15:06:18,+3:23,2:57 am,11:19 pm,4:03 am,10:11 pm,4:55 am,9:20 pm,1:07 pm (55.0°),93.764
+2024-05-06,5:32 am ↑ (61°),8:42 pm ↑ (299°),15:09:39,+3:21,2:54 am,11:22 pm,4:01 am,10:14 pm,4:53 am,9:21 pm,1:06 pm (55.3°),93.787
+2024-05-07,5:30 am ↑ (61°),8:43 pm ↑ (299°),15:12:58,+3:19,2:50 am,11:26 pm,3:59 am,10:16 pm,4:51 am,9:23 pm,1:06 pm (55.6°),93.809
+2024-05-08,5:29 am ↑ (60°),8:45 pm ↑ (300°),15:16:16,+3:17,2:46 am,11:30 pm,3:56 am,10:18 pm,4:49 am,9:25 pm,1:06 pm (55.9°),93.831
+2024-05-09,5:27 am ↑ (60°),8:47 pm ↑ (300°),15:19:30,+3:14,2:42 am,11:34 pm,3:54 am,10:21 pm,4:47 am,9:27 pm,1:06 pm (56.1°),93.853
+2024-05-10,5:25 am ↑ (60°),8:48 pm ↑ (301°),15:22:43,+3:12,2:38 am,11:38 pm,3:51 am,10:23 pm,4:45 am,9:29 pm,1:06 pm (56.4°),93.874
+2024-05-11,5:24 am ↑ (59°),8:50 pm ↑ (301°),15:25:52,+3:09,2:33 am,11:43 pm,3:49 am,10:25 pm,4:43 am,9:30 pm,1:06 pm (56.6°),93.895
+2024-05-12,5:22 am ↑ (59°),8:51 pm ↑ (302°),15:29:00,+3:07,2:29 am,11:47 pm,3:47 am,10:28 pm,4:41 am,9:32 pm,1:06 pm (56.9°),93.915
+2024-05-13,5:21 am ↑ (58°),8:53 pm ↑ (302°),15:32:04,+3:04,2:25 am,11:52 pm,3:44 am,10:30 pm,4:40 am,9:34 pm,1:06 pm (57.1°),93.935
+2024-05-14,5:19 am ↑ (58°),8:54 pm ↑ (303°),15:35:06,+3:01,2:20 am,11:57 pm,3:42 am,10:32 pm,4:38 am,9:36 pm,1:06 pm (57.4°),93.955
+2024-05-15,5:18 am ↑ (57°),8:56 pm ↑ (303°),15:38:05,+2:58,2:15 am,-,3:40 am,10:35 pm,4:36 am,9:37 pm,1:06 pm (57.6°),93.975
+2024-05-16,5:16 am ↑ (57°),8:57 pm ↑ (303°),15:41:00,+2:55,- 2:10 am,12:02 am -,3:37 am,10:37 pm,4:35 am,9:39 pm,1:06 pm (57.8°),93.994
+2024-05-17,5:15 am ↑ (56°),8:59 pm ↑ (304°),15:43:53,+2:52,- 2:05 am,12:08 am -,3:35 am,10:39 pm,4:33 am,9:41 pm,1:06 pm (58.1°),94.013
+2024-05-18,5:13 am ↑ (56°),9:00 pm ↑ (304°),15:46:42,+2:49,- 1:59 am,12:13 am -,3:33 am,10:41 pm,4:31 am,9:43 pm,1:06 pm (58.3°),94.031
+2024-05-19,5:12 am ↑ (56°),9:02 pm ↑ (305°),15:49:28,+2:46,- 1:52 am,12:20 am -,3:31 am,10:44 pm,4:30 am,9:44 pm,1:06 pm (58.5°),94.050
+2024-05-20,5:11 am ↑ (55°),9:03 pm ↑ (305°),15:52:11,+2:42,- 1:45 am,12:27 am -,3:29 am,10:46 pm,4:28 am,9:46 pm,1:06 pm (58.7°),94.068
+2024-05-21,5:10 am ↑ (55°),9:04 pm ↑ (305°),15:54:50,+2:38,- 1:36 am,12:36 am -,3:27 am,10:48 pm,4:27 am,9:48 pm,1:06 pm (58.9°),94.086
+2024-05-22,5:08 am ↑ (55°),9:06 pm ↑ (306°),15:57:25,+2:35,- 1:24 am,12:49 am -,3:24 am,10:50 pm,4:25 am,9:49 pm,1:07 pm (59.1°),94.104
+2024-05-23,5:07 am ↑ (54°),9:07 pm ↑ (306°),15:59:56,+2:31,Rest of night,Rest of night,3:22 am,10:53 pm,4:24 am,9:51 pm,1:07 pm (59.3°),94.121
+2024-05-24,5:06 am ↑ (54°),9:08 pm ↑ (306°),16:02:24,+2:27,Rest of night,Rest of night,3:20 am,10:55 pm,4:22 am,9:52 pm,1:07 pm (59.5°),94.138
+2024-05-25,5:05 am ↑ (54°),9:10 pm ↑ (307°),16:04:48,+2:23,Rest of night,Rest of night,3:18 am,10:57 pm,4:21 am,9:54 pm,1:07 pm (59.6°),94.155
+2024-05-26,5:04 am ↑ (53°),9:11 pm ↑ (307°),16:07:07,+2:19,Rest of night,Rest of night,3:16 am,10:59 pm,4:20 am,9:55 pm,1:07 pm (59.8°),94.172
+2024-05-27,5:03 am ↑ (53°),9:12 pm ↑ (307°),16:09:22,+2:15,Rest of night,Rest of night,3:15 am,11:01 pm,4:18 am,9:57 pm,1:07 pm (60.0°),94.189
+2024-05-28,5:02 am ↑ (53°),9:13 pm ↑ (308°),16:11:33,+2:10,Rest of night,Rest of night,3:13 am,11:03 pm,4:17 am,9:58 pm,1:07 pm (60.1°),94.205
+2024-05-29,5:01 am ↑ (52°),9:15 pm ↑ (308°),16:13:39,+2:06,Rest of night,Rest of night,3:11 am,11:05 pm,4:16 am,10:00 pm,1:07 pm (60.3°),94.221
+2024-05-30,5:00 am ↑ (52°),9:16 pm ↑ (308°),16:15:41,+2:01,Rest of night,Rest of night,3:09 am,11:07 pm,4:15 am,10:01 pm,1:07 pm (60.4°),94.237
+2024-05-31,4:59 am ↑ (52°),9:17 pm ↑ (308°),16:17:38,+1:57,Rest of night,Rest of night,3:08 am,11:09 pm,4:14 am,10:02 pm,1:08 pm (60.6°),94.252
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-06-01,4:58 am ↑ (52°),9:18 pm ↑ (309°),16:19:31,+1:52,Rest of night,Rest of night,3:06 am,11:11 pm,4:13 am,10:03 pm,1:08 pm (60.7°),94.267
+2024-06-02,4:58 am ↑ (51°),9:19 pm ↑ (309°),16:21:18,+1:47,Rest of night,Rest of night,3:04 am,11:13 pm,4:12 am,10:05 pm,1:08 pm (60.8°),94.281
+2024-06-03,4:57 am ↑ (51°),9:20 pm ↑ (309°),16:23:00,+1:42,Rest of night,Rest of night,3:03 am,11:15 pm,4:11 am,10:06 pm,1:08 pm (61.0°),94.295
+2024-06-04,4:56 am ↑ (51°),9:21 pm ↑ (309°),16:24:37,+1:37,Rest of night,Rest of night,3:01 am,11:16 pm,4:10 am,10:07 pm,1:08 pm (61.1°),94.309
+2024-06-05,4:56 am ↑ (51°),9:22 pm ↑ (310°),16:26:09,+1:31,Rest of night,Rest of night,3:00 am,11:18 pm,4:09 am,10:08 pm,1:08 pm (61.2°),94.322
+2024-06-06,4:55 am ↑ (50°),9:23 pm ↑ (310°),16:27:36,+1:26,Rest of night,Rest of night,2:59 am,11:20 pm,4:09 am,10:09 pm,1:09 pm (61.3°),94.334
+2024-06-07,4:55 am ↑ (50°),9:24 pm ↑ (310°),16:28:57,+1:21,Rest of night,Rest of night,2:58 am,11:21 pm,4:08 am,10:10 pm,1:09 pm (61.4°),94.346
+2024-06-08,4:54 am ↑ (50°),9:24 pm ↑ (310°),16:30:13,+1:15,Rest of night,Rest of night,2:57 am,11:23 pm,4:07 am,10:11 pm,1:09 pm (61.5°),94.358
+2024-06-09,4:54 am ↑ (50°),9:25 pm ↑ (310°),16:31:23,+1:10,Rest of night,Rest of night,2:56 am,11:24 pm,4:07 am,10:12 pm,1:09 pm (61.5°),94.369
+2024-06-10,4:53 am ↑ (50°),9:26 pm ↑ (310°),16:32:27,+1:04,Rest of night,Rest of night,2:55 am,11:25 pm,4:06 am,10:13 pm,1:09 pm (61.6°),94.379
+2024-06-11,4:53 am ↑ (50°),9:27 pm ↑ (310°),16:33:26,+0:58,Rest of night,Rest of night,2:54 am,11:26 pm,4:06 am,10:14 pm,1:10 pm (61.7°),94.389
+2024-06-12,4:53 am ↑ (49°),9:27 pm ↑ (311°),16:34:19,+0:52,Rest of night,Rest of night,2:53 am,11:27 pm,4:06 am,10:14 pm,1:10 pm (61.7°),94.398
+2024-06-13,4:53 am ↑ (49°),9:28 pm ↑ (311°),16:35:06,+0:47,Rest of night,Rest of night,2:52 am,11:28 pm,4:05 am,10:15 pm,1:10 pm (61.8°),94.407
+2024-06-14,4:52 am ↑ (49°),9:28 pm ↑ (311°),16:35:47,+0:41,Rest of night,Rest of night,2:52 am,11:29 pm,4:05 am,10:16 pm,1:10 pm (61.8°),94.416
+2024-06-15,4:52 am ↑ (49°),9:29 pm ↑ (311°),16:36:22,+0:35,Rest of night,Rest of night,2:51 am,11:30 pm,4:05 am,10:16 pm,1:10 pm (61.9°),94.424
+2024-06-16,4:52 am ↑ (49°),9:29 pm ↑ (311°),16:36:52,+0:29,Rest of night,Rest of night,2:51 am,11:31 pm,4:05 am,10:17 pm,1:11 pm (61.9°),94.432
+2024-06-17,4:52 am ↑ (49°),9:30 pm ↑ (311°),16:37:15,+0:23,Rest of night,Rest of night,2:51 am,11:31 pm,4:05 am,10:17 pm,1:11 pm (61.9°),94.439
+2024-06-18,4:52 am ↑ (49°),9:30 pm ↑ (311°),16:37:32,+0:17,Rest of night,Rest of night,2:51 am,11:32 pm,4:05 am,10:18 pm,1:11 pm (62.0°),94.446
+2024-06-19,4:53 am ↑ (49°),9:30 pm ↑ (311°),16:37:43,+0:11,Rest of night,Rest of night,2:51 am,11:32 pm,4:05 am,10:18 pm,1:11 pm (62.0°),94.453
+2024-06-20,4:53 am ↑ (49°),9:30 pm ↑ (311°),16:37:48,+0:05,Rest of night,Rest of night,2:51 am,11:32 pm,4:05 am,10:18 pm,1:12 pm (62.0°),94.459
+2024-06-21,4:53 am ↑ (49°),9:31 pm ↑ (311°),16:37:48,< 1s,Rest of night,Rest of night,2:51 am,11:33 pm,4:05 am,10:18 pm,1:12 pm (62.0°),94.465
+2024-06-22,4:53 am ↑ (49°),9:31 pm ↑ (311°),16:37:41,−0:06,Rest of night,Rest of night,2:51 am,11:33 pm,4:05 am,10:18 pm,1:12 pm (62.0°),94.471
+2024-06-23,4:53 am ↑ (49°),9:31 pm ↑ (311°),16:37:28,−0:12,Rest of night,Rest of night,2:52 am,11:33 pm,4:06 am,10:19 pm,1:12 pm (62.0°),94.476
+2024-06-24,4:54 am ↑ (49°),9:31 pm ↑ (311°),16:37:09,−0:18,Rest of night,Rest of night,2:52 am,11:32 pm,4:06 am,10:19 pm,1:12 pm (61.9°),94.481
+2024-06-25,4:54 am ↑ (49°),9:31 pm ↑ (311°),16:36:44,−0:24,Rest of night,Rest of night,2:53 am,11:32 pm,4:07 am,10:18 pm,1:13 pm (61.9°),94.486
+2024-06-26,4:55 am ↑ (49°),9:31 pm ↑ (311°),16:36:13,−0:30,Rest of night,Rest of night,2:53 am,11:32 pm,4:07 am,10:18 pm,1:13 pm (61.9°),94.491
+2024-06-27,4:55 am ↑ (49°),9:31 pm ↑ (311°),16:35:36,−0:36,Rest of night,Rest of night,2:54 am,11:31 pm,4:08 am,10:18 pm,1:13 pm (61.8°),94.495
+2024-06-28,4:56 am ↑ (49°),9:31 pm ↑ (311°),16:34:53,−0:42,Rest of night,Rest of night,2:55 am,11:31 pm,4:08 am,10:18 pm,1:13 pm (61.8°),94.498
+2024-06-29,4:56 am ↑ (49°),9:30 pm ↑ (310°),16:34:05,−0:48,Rest of night,Rest of night,2:56 am,11:30 pm,4:09 am,10:18 pm,1:13 pm (61.7°),94.502
+2024-06-30,4:57 am ↑ (50°),9:30 pm ↑ (310°),16:33:10,−0:54,Rest of night,Rest of night,2:57 am,11:29 pm,4:10 am,10:17 pm,1:14 pm (61.7°),94.504
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-07-01,4:58 am ↑ (50°),9:30 pm ↑ (310°),16:32:10,−1:00,Rest of night,Rest of night,2:58 am,11:28 pm,4:11 am,10:17 pm,1:14 pm (61.6°),94.507
+2024-07-02,4:58 am ↑ (50°),9:29 pm ↑ (310°),16:31:04,−1:05,Rest of night,Rest of night,3:00 am,11:27 pm,4:11 am,10:16 pm,1:14 pm (61.5°),94.508
+2024-07-03,4:59 am ↑ (50°),9:29 pm ↑ (310°),16:29:53,−1:11,Rest of night,Rest of night,3:01 am,11:26 pm,4:12 am,10:16 pm,1:14 pm (61.4°),94.510
+2024-07-04,5:00 am ↑ (50°),9:28 pm ↑ (310°),16:28:36,−1:16,Rest of night,Rest of night,3:02 am,11:25 pm,4:13 am,10:15 pm,1:14 pm (61.4°),94.510
+2024-07-05,5:01 am ↑ (50°),9:28 pm ↑ (310°),16:27:14,−1:22,Rest of night,Rest of night,3:04 am,11:24 pm,4:14 am,10:14 pm,1:15 pm (61.3°),94.511
+2024-07-06,5:02 am ↑ (51°),9:27 pm ↑ (309°),16:25:46,−1:27,Rest of night,Rest of night,3:06 am,11:23 pm,4:15 am,10:14 pm,1:15 pm (61.2°),94.510
+2024-07-07,5:03 am ↑ (51°),9:27 pm ↑ (309°),16:24:13,−1:32,Rest of night,Rest of night,3:07 am,11:21 pm,4:16 am,10:13 pm,1:15 pm (61.0°),94.509
+2024-07-08,5:03 am ↑ (51°),9:26 pm ↑ (309°),16:22:35,−1:38,Rest of night,Rest of night,3:09 am,11:20 pm,4:17 am,10:12 pm,1:15 pm (60.9°),94.507
+2024-07-09,5:04 am ↑ (51°),9:25 pm ↑ (309°),16:20:52,−1:43,Rest of night,Rest of night,3:11 am,11:18 pm,4:19 am,10:11 pm,1:15 pm (60.8°),94.505
+2024-07-10,5:05 am ↑ (51°),9:25 pm ↑ (308°),16:19:04,−1:47,Rest of night,Rest of night,3:12 am,11:17 pm,4:20 am,10:10 pm,1:15 pm (60.7°),94.503
+2024-07-11,5:07 am ↑ (52°),9:24 pm ↑ (308°),16:17:11,−1:52,Rest of night,Rest of night,3:14 am,11:15 pm,4:21 am,10:09 pm,1:15 pm (60.5°),94.499
+2024-07-12,5:08 am ↑ (52°),9:23 pm ↑ (308°),16:15:14,−1:57,Rest of night,Rest of night,3:16 am,11:13 pm,4:22 am,10:08 pm,1:16 pm (60.4°),94.496
+2024-07-13,5:09 am ↑ (52°),9:22 pm ↑ (308°),16:13:11,−2:02,Rest of night,Rest of night,3:18 am,11:12 pm,4:24 am,10:07 pm,1:16 pm (60.3°),94.492
+2024-07-14,5:10 am ↑ (52°),9:21 pm ↑ (307°),16:11:05,−2:06,Rest of night,Rest of night,3:20 am,11:10 pm,4:25 am,10:06 pm,1:16 pm (60.1°),94.487
+2024-07-15,5:11 am ↑ (53°),9:20 pm ↑ (307°),16:08:54,−2:11,Rest of night,Rest of night,3:22 am,11:08 pm,4:27 am,10:04 pm,1:16 pm (59.9°),94.482
+2024-07-16,5:12 am ↑ (53°),9:19 pm ↑ (307°),16:06:38,−2:15,Rest of night,Rest of night,3:24 am,11:06 pm,4:28 am,10:03 pm,1:16 pm (59.8°),94.477
+2024-07-17,5:14 am ↑ (53°),9:18 pm ↑ (306°),16:04:19,−2:19,Rest of night,Rest of night,3:26 am,11:04 pm,4:29 am,10:02 pm,1:16 pm (59.6°),94.471
+2024-07-18,5:15 am ↑ (54°),9:17 pm ↑ (306°),16:01:56,−2:23,Rest of night,Rest of night,3:28 am,11:02 pm,4:31 am,10:00 pm,1:16 pm (59.4°),94.465
+2024-07-19,5:16 am ↑ (54°),9:16 pm ↑ (306°),15:59:28,−2:27,Rest of night,Rest of night,3:31 am,11:00 pm,4:32 am,9:59 pm,1:16 pm (59.2°),94.458
+2024-07-20,5:17 am ↑ (54°),9:14 pm ↑ (305°),15:56:57,−2:31,Rest of night,Rest of night,3:33 am,10:58 pm,4:34 am,9:57 pm,1:16 pm (59.1°),94.451
+2024-07-21,5:19 am ↑ (55°),9:13 pm ↑ (305°),15:54:22,−2:34,- 1:37 am,12:56 am -,3:35 am,10:56 pm,4:36 am,9:56 pm,1:16 pm (58.9°),94.444
+2024-07-22,5:20 am ↑ (55°),9:12 pm ↑ (305°),15:51:44,−2:38,- 1:48 am,12:45 am -,3:37 am,10:54 pm,4:37 am,9:54 pm,1:16 pm (58.7°),94.437
+2024-07-23,5:21 am ↑ (56°),9:10 pm ↑ (304°),15:49:02,−2:41,- 1:57 am,12:37 am -,3:39 am,10:52 pm,4:39 am,9:53 pm,1:16 pm (58.5°),94.429
+2024-07-24,5:23 am ↑ (56°),9:09 pm ↑ (304°),15:46:17,−2:45,- 2:04 am,12:30 am -,3:42 am,10:49 pm,4:40 am,9:51 pm,1:16 pm (58.2°),94.421
+2024-07-25,5:24 am ↑ (56°),9:08 pm ↑ (303°),15:43:29,−2:48,- 2:10 am,12:23 am -,3:44 am,10:47 pm,4:42 am,9:50 pm,1:16 pm (58.0°),94.413
+2024-07-26,5:26 am ↑ (57°),9:06 pm ↑ (303°),15:40:37,−2:51,- 2:16 am,12:17 am -,3:46 am,10:45 pm,4:44 am,9:48 pm,1:16 pm (57.8°),94.404
+2024-07-27,5:27 am ↑ (57°),9:05 pm ↑ (303°),15:37:43,−2:54,- 2:21 am,12:12 am -,3:48 am,10:43 pm,4:45 am,9:46 pm,1:16 pm (57.6°),94.395
+2024-07-28,5:28 am ↑ (58°),9:03 pm ↑ (302°),15:34:45,−2:57,- 2:26 am,12:07 am -,3:51 am,10:40 pm,4:47 am,9:44 pm,1:16 pm (57.3°),94.386
+2024-07-29,5:30 am ↑ (58°),9:02 pm ↑ (302°),15:31:45,−3:00,- 2:31 am,12:02 am - 11:58 pm,3:53 am,10:38 pm,4:49 am,9:43 pm,1:16 pm (57.1°),94.376
+2024-07-30,5:31 am ↑ (58°),9:00 pm ↑ (301°),15:28:42,−3:03,2:36 am,11:53 pm,3:55 am,10:36 pm,4:50 am,9:41 pm,1:16 pm (56.9°),94.366
+2024-07-31,5:33 am ↑ (59°),8:59 pm ↑ (301°),15:25:37,−3:05,2:40 am,11:49 pm,3:57 am,10:33 pm,4:52 am,9:39 pm,1:16 pm (56.6°),94.355
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-08-01,5:34 am ↑ (59°),8:57 pm ↑ (300°),15:22:28,−3:08,2:44 am,11:44 pm,4:00 am,10:31 pm,4:54 am,9:37 pm,1:16 pm (56.4°),94.344
+2024-08-02,5:36 am ↑ (60°),8:55 pm ↑ (300°),15:19:18,−3:10,2:48 am,11:40 pm,4:02 am,10:28 pm,4:56 am,9:35 pm,1:16 pm (56.1°),94.332
+2024-08-03,5:37 am ↑ (60°),8:54 pm ↑ (300°),15:16:05,−3:12,2:52 am,11:36 pm,4:04 am,10:26 pm,4:57 am,9:33 pm,1:16 pm (55.8°),94.320
+2024-08-04,5:39 am ↑ (61°),8:52 pm ↑ (299°),15:12:50,−3:15,2:56 am,11:32 pm,4:06 am,10:24 pm,4:59 am,9:31 pm,1:16 pm (55.6°),94.307
+2024-08-05,5:41 am ↑ (61°),8:50 pm ↑ (299°),15:09:33,−3:17,3:00 am,11:29 pm,4:09 am,10:21 pm,5:01 am,9:29 pm,1:16 pm (55.3°),94.294
+2024-08-06,5:42 am ↑ (62°),8:48 pm ↑ (298°),15:06:14,−3:19,3:04 am,11:25 pm,4:11 am,10:19 pm,5:03 am,9:27 pm,1:16 pm (55.0°),94.280
+2024-08-07,5:44 am ↑ (62°),8:47 pm ↑ (298°),15:02:52,−3:21,3:07 am,11:21 pm,4:13 am,10:16 pm,5:04 am,9:25 pm,1:16 pm (54.7°),94.266
+2024-08-08,5:45 am ↑ (63°),8:45 pm ↑ (297°),14:59:29,−3:23,3:11 am,11:17 pm,4:15 am,10:14 pm,5:06 am,9:23 pm,1:15 pm (54.5°),94.251
+2024-08-09,5:47 am ↑ (63°),8:43 pm ↑ (297°),14:56:05,−3:24,3:14 am,11:14 pm,4:18 am,10:11 pm,5:08 am,9:21 pm,1:15 pm (54.2°),94.236
+2024-08-10,5:48 am ↑ (64°),8:41 pm ↑ (296°),14:52:38,−3:26,3:17 am,11:10 pm,4:20 am,10:09 pm,5:10 am,9:19 pm,1:15 pm (53.9°),94.220
+2024-08-11,5:50 am ↑ (64°),8:39 pm ↑ (296°),14:49:10,−3:28,3:21 am,11:07 pm,4:22 am,10:06 pm,5:12 am,9:17 pm,1:15 pm (53.6°),94.204
+2024-08-12,5:51 am ↑ (65°),8:37 pm ↑ (295°),14:45:40,−3:29,3:24 am,11:03 pm,4:24 am,10:04 pm,5:13 am,9:15 pm,1:15 pm (53.3°),94.188
+2024-08-13,5:53 am ↑ (65°),8:35 pm ↑ (295°),14:42:09,−3:31,3:27 am,11:00 pm,4:26 am,10:01 pm,5:15 am,9:13 pm,1:15 pm (53.0°),94.171
+2024-08-14,5:55 am ↑ (66°),8:33 pm ↑ (294°),14:38:37,−3:32,3:30 am,10:56 pm,4:29 am,9:59 pm,5:17 am,9:11 pm,1:14 pm (52.7°),94.154
+2024-08-15,5:56 am ↑ (66°),8:31 pm ↑ (293°),14:35:03,−3:33,3:33 am,10:53 pm,4:31 am,9:56 pm,5:19 am,9:09 pm,1:14 pm (52.4°),94.137
+2024-08-16,5:58 am ↑ (67°),8:29 pm ↑ (293°),14:31:28,−3:35,3:36 am,10:49 pm,4:33 am,9:53 pm,5:20 am,9:06 pm,1:14 pm (52.0°),94.119
+2024-08-17,5:59 am ↑ (67°),8:27 pm ↑ (292°),14:27:52,−3:36,3:39 am,10:46 pm,4:35 am,9:51 pm,5:22 am,9:04 pm,1:14 pm (51.7°),94.101
+2024-08-18,6:01 am ↑ (68°),8:25 pm ↑ (292°),14:24:14,−3:37,3:42 am,10:43 pm,4:37 am,9:48 pm,5:24 am,9:02 pm,1:14 pm (51.4°),94.083
+2024-08-19,6:03 am ↑ (68°),8:23 pm ↑ (291°),14:20:36,−3:38,3:45 am,10:40 pm,4:39 am,9:46 pm,5:26 am,9:00 pm,1:13 pm (51.1°),94.064
+2024-08-20,6:04 am ↑ (69°),8:21 pm ↑ (291°),14:16:56,−3:39,3:48 am,10:36 pm,4:41 am,9:43 pm,5:28 am,8:57 pm,1:13 pm (50.7°),94.046
+2024-08-21,6:06 am ↑ (69°),8:19 pm ↑ (290°),14:13:16,−3:40,3:50 am,10:33 pm,4:43 am,9:41 pm,5:29 am,8:55 pm,1:13 pm (50.4°),94.027
+2024-08-22,6:07 am ↑ (70°),8:17 pm ↑ (290°),14:09:34,−3:41,3:53 am,10:30 pm,4:46 am,9:38 pm,5:31 am,8:53 pm,1:13 pm (50.1°),94.008
+2024-08-23,6:09 am ↑ (71°),8:15 pm ↑ (289°),14:05:52,−3:42,3:56 am,10:27 pm,4:48 am,9:35 pm,5:33 am,8:51 pm,1:12 pm (49.7°),93.989
+2024-08-24,6:10 am ↑ (71°),8:13 pm ↑ (288°),14:02:08,−3:43,3:58 am,10:23 pm,4:50 am,9:33 pm,5:35 am,8:48 pm,1:12 pm (49.4°),93.970
+2024-08-25,6:12 am ↑ (72°),8:10 pm ↑ (288°),13:58:24,−3:44,4:01 am,10:20 pm,4:52 am,9:30 pm,5:36 am,8:46 pm,1:12 pm (49.0°),93.950
+2024-08-26,6:14 am ↑ (72°),8:08 pm ↑ (287°),13:54:39,−3:44,4:04 am,10:17 pm,4:54 am,9:28 pm,5:38 am,8:44 pm,1:12 pm (48.7°),93.931
+2024-08-27,6:15 am ↑ (73°),8:06 pm ↑ (287°),13:50:54,−3:45,4:06 am,10:14 pm,4:56 am,9:25 pm,5:40 am,8:41 pm,1:11 pm (48.3°),93.911
+2024-08-28,6:17 am ↑ (74°),8:04 pm ↑ (286°),13:47:07,−3:46,4:09 am,10:11 pm,4:58 am,9:23 pm,5:41 am,8:39 pm,1:11 pm (48.0°),93.890
+2024-08-29,6:18 am ↑ (74°),8:02 pm ↑ (286°),13:43:20,−3:47,4:11 am,10:08 pm,5:00 am,9:20 pm,5:43 am,8:37 pm,1:11 pm (47.6°),93.869
+2024-08-30,6:20 am ↑ (75°),8:00 pm ↑ (285°),13:39:33,−3:47,4:14 am,10:05 pm,5:02 am,9:17 pm,5:45 am,8:35 pm,1:10 pm (47.3°),93.848
+2024-08-31,6:22 am ↑ (75°),7:57 pm ↑ (284°),13:35:44,−3:48,4:16 am,10:02 pm,5:04 am,9:15 pm,5:47 am,8:32 pm,1:10 pm (46.9°),93.827
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-09-01,6:23 am ↑ (76°),7:55 pm ↑ (284°),13:31:56,−3:48,4:18 am,9:59 pm,5:06 am,9:12 pm,5:48 am,8:30 pm,1:10 pm (46.5°),93.805
+2024-09-02,6:25 am ↑ (76°),7:53 pm ↑ (283°),13:28:06,−3:49,4:21 am,9:56 pm,5:08 am,9:10 pm,5:50 am,8:27 pm,1:09 pm (46.2°),93.783
+2024-09-03,6:26 am ↑ (77°),7:51 pm ↑ (283°),13:24:17,−3:49,4:23 am,9:53 pm,5:09 am,9:07 pm,5:52 am,8:25 pm,1:09 pm (45.8°),93.760
+2024-09-04,6:28 am ↑ (78°),7:48 pm ↑ (282°),13:20:26,−3:50,4:25 am,9:50 pm,5:11 am,9:05 pm,5:53 am,8:23 pm,1:09 pm (45.4°),93.738
+2024-09-05,6:30 am ↑ (78°),7:46 pm ↑ (281°),13:16:36,−3:50,4:28 am,9:47 pm,5:13 am,9:02 pm,5:55 am,8:20 pm,1:08 pm (45.1°),93.714
+2024-09-06,6:31 am ↑ (79°),7:44 pm ↑ (281°),13:12:45,−3:51,4:30 am,9:44 pm,5:15 am,9:00 pm,5:57 am,8:18 pm,1:08 pm (44.7°),93.691
+2024-09-07,6:33 am ↑ (79°),7:42 pm ↑ (280°),13:08:53,−3:51,4:32 am,9:41 pm,5:17 am,8:57 pm,5:58 am,8:16 pm,1:08 pm (44.3°),93.667
+2024-09-08,6:34 am ↑ (80°),7:39 pm ↑ (280°),13:05:01,−3:51,4:34 am,9:39 pm,5:19 am,8:54 pm,6:00 am,8:13 pm,1:07 pm (44.0°),93.643
+2024-09-09,6:36 am ↑ (81°),7:37 pm ↑ (279°),13:01:09,−3:52,4:36 am,9:36 pm,5:21 am,8:52 pm,6:02 am,8:11 pm,1:07 pm (43.6°),93.618
+2024-09-10,6:37 am ↑ (81°),7:35 pm ↑ (278°),12:57:17,−3:52,4:39 am,9:33 pm,5:23 am,8:49 pm,6:04 am,8:09 pm,1:07 pm (43.2°),93.594
+2024-09-11,6:39 am ↑ (82°),7:32 pm ↑ (278°),12:53:24,−3:52,4:41 am,9:30 pm,5:24 am,8:47 pm,6:05 am,8:06 pm,1:06 pm (42.8°),93.569
+2024-09-12,6:41 am ↑ (83°),7:30 pm ↑ (277°),12:49:32,−3:52,4:43 am,9:27 pm,5:26 am,8:44 pm,6:07 am,8:04 pm,1:06 pm (42.4°),93.544
+2024-09-13,6:42 am ↑ (83°),7:28 pm ↑ (276°),12:45:39,−3:53,4:45 am,9:25 pm,5:28 am,8:42 pm,6:08 am,8:02 pm,1:06 pm (42.0°),93.519
+2024-09-14,6:44 am ↑ (84°),7:26 pm ↑ (276°),12:41:45,−3:53,4:47 am,9:22 pm,5:30 am,8:39 pm,6:10 am,7:59 pm,1:05 pm (41.7°),93.493
+2024-09-15,6:45 am ↑ (84°),7:23 pm ↑ (275°),12:37:52,−3:53,4:49 am,9:19 pm,5:32 am,8:37 pm,6:12 am,7:57 pm,1:05 pm (41.3°),93.468
+2024-09-16,6:47 am ↑ (85°),7:21 pm ↑ (275°),12:33:58,−3:53,4:51 am,9:16 pm,5:33 am,8:34 pm,6:13 am,7:54 pm,1:05 pm (40.9°),93.442
+2024-09-17,6:49 am ↑ (86°),7:19 pm ↑ (274°),12:30:05,−3:53,4:53 am,9:14 pm,5:35 am,8:32 pm,6:15 am,7:52 pm,1:04 pm (40.5°),93.417
+2024-09-18,6:50 am ↑ (86°),7:16 pm ↑ (273°),12:26:11,−3:53,4:55 am,9:11 pm,5:37 am,8:29 pm,6:17 am,7:50 pm,1:04 pm (40.1°),93.392
+2024-09-19,6:52 am ↑ (87°),7:14 pm ↑ (273°),12:22:17,−3:53,4:57 am,9:08 pm,5:39 am,8:27 pm,6:18 am,7:47 pm,1:03 pm (39.7°),93.366
+2024-09-20,6:53 am ↑ (88°),7:12 pm ↑ (272°),12:18:23,−3:54,4:59 am,9:06 pm,5:40 am,8:25 pm,6:20 am,7:45 pm,1:03 pm (39.3°),93.341
+2024-09-21,6:55 am ↑ (88°),7:09 pm ↑ (272°),12:14:29,−3:54,5:01 am,9:03 pm,5:42 am,8:22 pm,6:22 am,7:43 pm,1:03 pm (39.0°),93.315
+2024-09-22,6:57 am ↑ (89°),7:07 pm ↑ (271°),12:10:35,−3:54,5:03 am,9:00 pm,5:44 am,8:20 pm,6:23 am,7:40 pm,1:02 pm (38.6°),93.290
+2024-09-23,6:58 am ↑ (89°),7:05 pm ↑ (270°),12:06:40,−3:54,5:05 am,8:58 pm,5:46 am,8:17 pm,6:25 am,7:38 pm,1:02 pm (38.2°),93.264
+2024-09-24,7:00 am ↑ (90°),7:03 pm ↑ (270°),12:02:46,−3:54,5:07 am,8:55 pm,5:47 am,8:15 pm,6:27 am,7:36 pm,1:02 pm (37.8°),93.239
+2024-09-25,7:01 am ↑ (91°),7:00 pm ↑ (269°),11:58:52,−3:54,5:08 am,8:53 pm,5:49 am,8:12 pm,6:28 am,7:33 pm,1:01 pm (37.4°),93.213
+2024-09-26,7:03 am ↑ (91°),6:58 pm ↑ (268°),11:54:57,−3:54,5:10 am,8:50 pm,5:51 am,8:10 pm,6:30 am,7:31 pm,1:01 pm (37.0°),93.187
+2024-09-27,7:05 am ↑ (92°),6:56 pm ↑ (268°),11:51:03,−3:54,5:12 am,8:48 pm,5:52 am,8:08 pm,6:31 am,7:29 pm,1:01 pm (36.6°),93.162
+2024-09-28,7:06 am ↑ (93°),6:53 pm ↑ (267°),11:47:08,−3:54,5:14 am,8:45 pm,5:54 am,8:05 pm,6:33 am,7:27 pm,1:00 pm (36.2°),93.136
+2024-09-29,7:08 am ↑ (93°),6:51 pm ↑ (267°),11:43:14,−3:54,5:16 am,8:43 pm,5:56 am,8:03 pm,6:35 am,7:24 pm,1:00 pm (35.8°),93.110
+2024-09-30,7:10 am ↑ (94°),6:49 pm ↑ (266°),11:39:20,−3:54,5:18 am,8:40 pm,5:57 am,8:01 pm,6:36 am,7:22 pm,1:00 pm (35.5°),93.083
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-10-01,7:11 am ↑ (94°),6:47 pm ↑ (265°),11:35:26,−3:54,5:19 am,8:38 pm,5:59 am,7:58 pm,6:38 am,7:20 pm,12:59 pm (35.1°),93.057
+2024-10-02,7:13 am ↑ (95°),6:44 pm ↑ (265°),11:31:32,−3:54,5:21 am,8:36 pm,6:01 am,7:56 pm,6:40 am,7:17 pm,12:59 pm (34.7°),93.030
+2024-10-03,7:14 am ↑ (96°),6:42 pm ↑ (264°),11:27:38,−3:53,5:23 am,8:33 pm,6:02 am,7:54 pm,6:41 am,7:15 pm,12:59 pm (34.3°),93.004
+2024-10-04,7:16 am ↑ (96°),6:40 pm ↑ (263°),11:23:44,−3:53,5:25 am,8:31 pm,6:04 am,7:52 pm,6:43 am,7:13 pm,12:58 pm (33.9°),92.977
+2024-10-05,7:18 am ↑ (97°),6:38 pm ↑ (263°),11:19:51,−3:53,5:26 am,8:29 pm,6:06 am,7:49 pm,6:44 am,7:11 pm,12:58 pm (33.5°),92.950
+2024-10-06,7:19 am ↑ (98°),6:35 pm ↑ (262°),11:15:57,−3:53,5:28 am,8:26 pm,6:07 am,7:47 pm,6:46 am,7:09 pm,12:58 pm (33.1°),92.923
+2024-10-07,7:21 am ↑ (98°),6:33 pm ↑ (262°),11:12:04,−3:52,5:30 am,8:24 pm,6:09 am,7:45 pm,6:48 am,7:06 pm,12:58 pm (32.8°),92.896
+2024-10-08,7:23 am ↑ (99°),6:31 pm ↑ (261°),11:08:12,−3:52,5:32 am,8:22 pm,6:11 am,7:43 pm,6:49 am,7:04 pm,12:57 pm (32.4°),92.868
+2024-10-09,7:24 am ↑ (99°),6:29 pm ↑ (260°),11:04:19,−3:52,5:33 am,8:19 pm,6:12 am,7:41 pm,6:51 am,7:02 pm,12:57 pm (32.0°),92.841
+2024-10-10,7:26 am ↑ (100°),6:27 pm ↑ (260°),11:00:27,−3:52,5:35 am,8:17 pm,6:14 am,7:38 pm,6:53 am,7:00 pm,12:57 pm (31.6°),92.814
+2024-10-11,7:28 am ↑ (101°),6:24 pm ↑ (259°),10:56:36,−3:51,5:37 am,8:15 pm,6:16 am,7:36 pm,6:54 am,6:58 pm,12:56 pm (31.3°),92.787
+2024-10-12,7:29 am ↑ (101°),6:22 pm ↑ (259°),10:52:44,−3:51,5:38 am,8:13 pm,6:17 am,7:34 pm,6:56 am,6:56 pm,12:56 pm (30.9°),92.759
+2024-10-13,7:31 am ↑ (102°),6:20 pm ↑ (258°),10:48:54,−3:50,5:40 am,8:11 pm,6:19 am,7:32 pm,6:57 am,6:54 pm,12:56 pm (30.5°),92.732
+2024-10-14,7:33 am ↑ (102°),6:18 pm ↑ (257°),10:45:03,−3:50,5:42 am,8:09 pm,6:21 am,7:30 pm,6:59 am,6:51 pm,12:56 pm (30.1°),92.705
+2024-10-15,7:34 am ↑ (103°),6:16 pm ↑ (257°),10:41:14,−3:49,5:43 am,8:07 pm,6:22 am,7:28 pm,7:01 am,6:49 pm,12:56 pm (29.8°),92.679
+2024-10-16,7:36 am ↑ (104°),6:14 pm ↑ (256°),10:37:24,−3:49,5:45 am,8:04 pm,6:24 am,7:26 pm,7:02 am,6:47 pm,12:55 pm (29.4°),92.652
+2024-10-17,7:38 am ↑ (104°),6:11 pm ↑ (256°),10:33:36,−3:48,5:47 am,8:02 pm,6:25 am,7:24 pm,7:04 am,6:45 pm,12:55 pm (29.0°),92.626
+2024-10-18,7:40 am ↑ (105°),6:09 pm ↑ (255°),10:29:48,−3:48,5:48 am,8:00 pm,6:27 am,7:22 pm,7:06 am,6:43 pm,12:55 pm (28.7°),92.600
+2024-10-19,7:41 am ↑ (105°),6:07 pm ↑ (254°),10:26:01,−3:47,5:50 am,7:58 pm,6:29 am,7:20 pm,7:07 am,6:41 pm,12:55 pm (28.3°),92.574
+2024-10-20,7:43 am ↑ (106°),6:05 pm ↑ (254°),10:22:14,−3:46,5:52 am,7:56 pm,6:30 am,7:18 pm,7:09 am,6:39 pm,12:55 pm (28.0°),92.548
+2024-10-21,7:45 am ↑ (107°),6:03 pm ↑ (253°),10:18:28,−3:45,5:53 am,7:55 pm,6:32 am,7:16 pm,7:11 am,6:37 pm,12:54 pm (27.6°),92.523
+2024-10-22,7:46 am ↑ (107°),6:01 pm ↑ (253°),10:14:43,−3:45,5:55 am,7:53 pm,6:33 am,7:14 pm,7:12 am,6:35 pm,12:54 pm (27.3°),92.498
+2024-10-23,7:48 am ↑ (108°),5:59 pm ↑ (252°),10:10:59,−3:44,5:56 am,7:51 pm,6:35 am,7:12 pm,7:14 am,6:33 pm,12:54 pm (26.9°),92.473
+2024-10-24,7:50 am ↑ (108°),5:57 pm ↑ (251°),10:07:15,−3:43,5:58 am,7:49 pm,6:37 am,7:10 pm,7:16 am,6:32 pm,12:54 pm (26.6°),92.448
+2024-10-25,7:52 am ↑ (109°),5:55 pm ↑ (251°),10:03:33,−3:42,6:00 am,7:47 pm,6:38 am,7:09 pm,7:17 am,6:30 pm,12:54 pm (26.2°),92.423
+2024-10-26,7:53 am ↑ (109°),5:53 pm ↑ (250°),9:59:51,−3:41,6:01 am,7:45 pm,6:40 am,7:07 pm,7:19 am,6:28 pm,12:54 pm (25.9°),92.398
+2024-10-01,Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details),Note: hours shift because clocks change backward 1 hour. (See the note below this table for details)
+2024-10-27,6:55 am ↑ (110°),4:51 pm ↑ (250°),9:56:11,−3:40,5:03 am,6:44 pm,5:41 am,6:05 pm,6:21 am,5:26 pm,11:54 am (25.5°),92.374
+2024-10-28,6:57 am ↑ (111°),4:49 pm ↑ (249°),9:52:32,−3:39,5:04 am,6:42 pm,5:43 am,6:03 pm,6:22 am,5:24 pm,11:54 am (25.2°),92.350
+2024-10-29,6:59 am ↑ (111°),4:48 pm ↑ (249°),9:48:54,−3:37,5:06 am,6:40 pm,5:45 am,6:02 pm,6:24 am,5:22 pm,11:54 am (24.9°),92.325
+2024-10-30,7:00 am ↑ (112°),4:46 pm ↑ (248°),9:45:17,−3:36,5:07 am,6:39 pm,5:46 am,6:00 pm,6:25 am,5:21 pm,11:53 am (24.5°),92.301
+2024-10-31,7:02 am ↑ (112°),4:44 pm ↑ (248°),9:41:42,−3:35,5:09 am,6:37 pm,5:48 am,5:58 pm,6:27 am,5:19 pm,11:53 am (24.2°),92.277
+,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. Time is adjusted for DST when applicable. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-11-01,7:04 am ↑ (113°),4:42 pm ↑ (247°),9:38:08,−3:33,5:11 am,6:35 pm,5:49 am,5:57 pm,6:29 am,5:17 pm,11:53 am (23.9°),92.253
+2024-11-02,7:06 am ↑ (113°),4:40 pm ↑ (247°),9:34:35,−3:32,5:12 am,6:34 pm,5:51 am,5:55 pm,6:30 am,5:16 pm,11:53 am (23.6°),92.229
+2024-11-03,7:08 am ↑ (114°),4:39 pm ↑ (246°),9:31:05,−3:30,5:14 am,6:32 pm,5:52 am,5:54 pm,6:32 am,5:14 pm,11:53 am (23.3°),92.205
+2024-11-04,7:09 am ↑ (114°),4:37 pm ↑ (245°),9:27:36,−3:29,5:15 am,6:31 pm,5:54 am,5:52 pm,6:34 am,5:12 pm,11:53 am (23.0°),92.181
+2024-11-05,7:11 am ↑ (115°),4:35 pm ↑ (245°),9:24:08,−3:27,5:17 am,6:29 pm,5:56 am,5:51 pm,6:35 am,5:11 pm,11:53 am (22.7°),92.158
+2024-11-06,7:13 am ↑ (115°),4:34 pm ↑ (244°),9:20:43,−3:25,5:18 am,6:28 pm,5:57 am,5:49 pm,6:37 am,5:09 pm,11:53 am (22.4°),92.134
+2024-11-07,7:15 am ↑ (116°),4:32 pm ↑ (244°),9:17:20,−3:23,5:20 am,6:27 pm,5:59 am,5:48 pm,6:39 am,5:08 pm,11:54 am (22.1°),92.111
+2024-11-08,7:16 am ↑ (116°),4:30 pm ↑ (243°),9:13:58,−3:21,5:21 am,6:25 pm,6:00 am,5:46 pm,6:40 am,5:06 pm,11:54 am (21.8°),92.088
+2024-11-09,7:18 am ↑ (117°),4:29 pm ↑ (243°),9:10:39,−3:19,5:23 am,6:24 pm,6:02 am,5:45 pm,6:42 am,5:05 pm,11:54 am (21.5°),92.065
+2024-11-10,7:20 am ↑ (117°),4:27 pm ↑ (242°),9:07:22,−3:16,5:24 am,6:23 pm,6:03 am,5:44 pm,6:44 am,5:03 pm,11:54 am (21.2°),92.043
+2024-11-11,7:22 am ↑ (118°),4:26 pm ↑ (242°),9:04:08,−3:14,5:26 am,6:21 pm,6:05 am,5:42 pm,6:45 am,5:02 pm,11:54 am (21.0°),92.020
+2024-11-12,7:23 am ↑ (118°),4:24 pm ↑ (242°),9:00:56,−3:11,5:27 am,6:20 pm,6:06 am,5:41 pm,6:47 am,5:01 pm,11:54 am (20.7°),91.998
+2024-11-13,7:25 am ↑ (119°),4:23 pm ↑ (241°),8:57:47,−3:09,5:29 am,6:19 pm,6:08 am,5:40 pm,6:48 am,4:59 pm,11:54 am (20.4°),91.977
+2024-11-14,7:27 am ↑ (119°),4:21 pm ↑ (241°),8:54:40,−3:06,5:30 am,6:18 pm,6:09 am,5:39 pm,6:50 am,4:58 pm,11:54 am (20.2°),91.956
+2024-11-15,7:28 am ↑ (120°),4:20 pm ↑ (240°),8:51:37,−3:03,5:31 am,6:17 pm,6:11 am,5:38 pm,6:51 am,4:57 pm,11:55 am (19.9°),91.935
+2024-11-16,7:30 am ↑ (120°),4:19 pm ↑ (240°),8:48:36,−3:00,5:33 am,6:16 pm,6:12 am,5:37 pm,6:53 am,4:56 pm,11:55 am (19.7°),91.915
+2024-11-17,7:32 am ↑ (120°),4:17 pm ↑ (239°),8:45:38,−2:57,5:34 am,6:15 pm,6:14 am,5:36 pm,6:55 am,4:55 pm,11:55 am (19.4°),91.895
+2024-11-18,7:33 am ↑ (121°),4:16 pm ↑ (239°),8:42:44,−2:54,5:36 am,6:14 pm,6:15 am,5:35 pm,6:56 am,4:54 pm,11:55 am (19.2°),91.876
+2024-11-19,7:35 am ↑ (121°),4:15 pm ↑ (239°),8:39:52,−2:51,5:37 am,6:13 pm,6:16 am,5:34 pm,6:58 am,4:53 pm,11:55 am (19.0°),91.857
+2024-11-20,7:37 am ↑ (122°),4:14 pm ↑ (238°),8:37:04,−2:47,5:38 am,6:12 pm,6:18 am,5:33 pm,6:59 am,4:51 pm,11:56 am (18.7°),91.838
+2024-11-21,7:38 am ↑ (122°),4:13 pm ↑ (238°),8:34:20,−2:44,5:40 am,6:11 pm,6:19 am,5:32 pm,7:01 am,4:51 pm,11:56 am (18.5°),91.820
+2024-11-22,7:40 am ↑ (123°),4:12 pm ↑ (237°),8:31:40,−2:40,5:41 am,6:11 pm,6:21 am,5:31 pm,7:02 am,4:50 pm,11:56 am (18.3°),91.802
+2024-11-23,7:42 am ↑ (123°),4:11 pm ↑ (237°),8:29:03,−2:36,5:42 am,6:10 pm,6:22 am,5:30 pm,7:04 am,4:49 pm,11:56 am (18.1°),91.785
+2024-11-24,7:43 am ↑ (123°),4:10 pm ↑ (237°),8:26:30,−2:32,5:44 am,6:09 pm,6:23 am,5:29 pm,7:05 am,4:48 pm,11:57 am (17.9°),91.768
+2024-11-25,7:45 am ↑ (124°),4:09 pm ↑ (236°),8:24:01,−2:28,5:45 am,6:09 pm,6:25 am,5:29 pm,7:06 am,4:47 pm,11:57 am (17.7°),91.751
+2024-11-26,7:46 am ↑ (124°),4:08 pm ↑ (236°),8:21:37,−2:24,5:46 am,6:08 pm,6:26 am,5:28 pm,7:08 am,4:46 pm,11:57 am (17.5°),91.735
+2024-11-27,7:48 am ↑ (124°),4:07 pm ↑ (236°),8:19:17,−2:20,5:47 am,6:07 pm,6:27 am,5:27 pm,7:09 am,4:46 pm,11:58 am (17.3°),91.719
+2024-11-28,7:49 am ↑ (125°),4:06 pm ↑ (235°),8:17:01,−2:15,5:48 am,6:07 pm,6:29 am,5:27 pm,7:11 am,4:45 pm,11:58 am (17.2°),91.703
+2024-11-29,7:51 am ↑ (125°),4:06 pm ↑ (235°),8:14:50,−2:11,5:50 am,6:07 pm,6:30 am,5:26 pm,7:12 am,4:44 pm,11:58 am (17.0°),91.688
+2024-11-30,7:52 am ↑ (125°),4:05 pm ↑ (235°),8:12:44,−2:06,5:51 am,6:06 pm,6:31 am,5:26 pm,7:13 am,4:44 pm,11:59 am (16.8°),91.672
+,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.
+2024-12-01,7:54 am ↑ (125°),4:04 pm ↑ (234°),8:10:42,−2:01,5:52 am,6:06 pm,6:32 am,5:25 pm,7:14 am,4:43 pm,11:59 am (16.7°),91.657
+2024-12-02,7:55 am ↑ (126°),4:04 pm ↑ (234°),8:08:46,−1:56,5:53 am,6:05 pm,6:33 am,5:25 pm,7:16 am,4:43 pm,11:59 am (16.5°),91.643
+2024-12-03,7:56 am ↑ (126°),4:03 pm ↑ (234°),8:06:55,−1:51,5:54 am,6:05 pm,6:35 am,5:25 pm,7:17 am,4:42 pm,12:00 pm (16.4°),91.628
+2024-12-04,7:58 am ↑ (126°),4:03 pm ↑ (234°),8:05:09,−1:45,5:55 am,6:05 pm,6:36 am,5:24 pm,7:18 am,4:42 pm,12:00 pm (16.3°),91.614
+2024-12-05,7:59 am ↑ (126°),4:02 pm ↑ (233°),8:03:28,−1:40,5:56 am,6:05 pm,6:37 am,5:24 pm,7:19 am,4:42 pm,12:01 pm (16.1°),91.600
+2024-12-06,8:00 am ↑ (127°),4:02 pm ↑ (233°),8:01:53,−1:34,5:57 am,6:04 pm,6:38 am,5:24 pm,7:20 am,4:41 pm,12:01 pm (16.0°),91.587
+2024-12-07,8:01 am ↑ (127°),4:02 pm ↑ (233°),8:00:24,−1:29,5:58 am,6:04 pm,6:39 am,5:24 pm,7:22 am,4:41 pm,12:02 pm (15.9°),91.574
+2024-12-08,8:02 am ↑ (127°),4:01 pm ↑ (233°),7:59:00,−1:23,5:59 am,6:04 pm,6:40 am,5:24 pm,7:23 am,4:41 pm,12:02 pm (15.8°),91.561
+2024-12-09,8:03 am ↑ (127°),4:01 pm ↑ (233°),7:57:43,−1:17,6:00 am,6:04 pm,6:41 am,5:24 pm,7:24 am,4:41 pm,12:02 pm (15.7°),91.549
+2024-12-10,8:04 am ↑ (127°),4:01 pm ↑ (233°),7:56:31,−1:11,6:01 am,6:04 pm,6:42 am,5:24 pm,7:25 am,4:41 pm,12:03 pm (15.6°),91.537
+2024-12-11,8:06 am ↑ (128°),4:01 pm ↑ (232°),7:55:25,−1:05,6:02 am,6:04 pm,6:43 am,5:24 pm,7:26 am,4:41 pm,12:03 pm (15.5°),91.526
+2024-12-12,8:06 am ↑ (128°),4:01 pm ↑ (232°),7:54:25,−0:59,6:03 am,6:05 pm,6:44 am,5:24 pm,7:26 am,4:41 pm,12:04 pm (15.5°),91.515
+2024-12-13,8:07 am ↑ (128°),4:01 pm ↑ (232°),7:53:32,−0:53,6:04 am,6:05 pm,6:44 am,5:24 pm,7:27 am,4:41 pm,12:04 pm (15.4°),91.505
+2024-12-14,8:08 am ↑ (128°),4:01 pm ↑ (232°),7:52:44,−0:47,6:04 am,6:05 pm,6:45 am,5:24 pm,7:28 am,4:41 pm,12:05 pm (15.3°),91.495
+2024-12-15,8:09 am ↑ (128°),4:01 pm ↑ (232°),7:52:03,−0:41,6:05 am,6:05 pm,6:46 am,5:24 pm,7:29 am,4:41 pm,12:05 pm (15.3°),91.486
+2024-12-16,8:10 am ↑ (128°),4:01 pm ↑ (232°),7:51:28,−0:34,6:06 am,6:05 pm,6:47 am,5:25 pm,7:30 am,4:42 pm,12:06 pm (15.3°),91.477
+2024-12-17,8:11 am ↑ (128°),4:02 pm ↑ (232°),7:51:00,−0:28,6:07 am,6:06 pm,6:47 am,5:25 pm,7:30 am,4:42 pm,12:06 pm (15.2°),91.469
+2024-12-18,8:11 am ↑ (128°),4:02 pm ↑ (232°),7:50:38,−0:21,6:07 am,6:06 pm,6:48 am,5:25 pm,7:31 am,4:42 pm,12:07 pm (15.2°),91.462
+2024-12-19,8:12 am ↑ (128°),4:02 pm ↑ (232°),7:50:23,−0:15,6:08 am,6:06 pm,6:49 am,5:26 pm,7:32 am,4:43 pm,12:07 pm (15.2°),91.455
+2024-12-20,8:13 am ↑ (128°),4:03 pm ↑ (232°),7:50:14,−0:09,6:08 am,6:07 pm,6:49 am,5:26 pm,7:32 am,4:43 pm,12:08 pm (15.2°),91.449
+2024-12-21,8:13 am ↑ (128°),4:03 pm ↑ (232°),7:50:11,−0:02,6:09 am,6:07 pm,6:50 am,5:27 pm,7:33 am,4:43 pm,12:08 pm (15.2°),91.443
+2024-12-22,8:14 am ↑ (128°),4:04 pm ↑ (232°),7:50:15,+0:04,6:09 am,6:08 pm,6:50 am,5:27 pm,7:33 am,4:44 pm,12:09 pm (15.2°),91.438
+2024-12-23,8:14 am ↑ (128°),4:04 pm ↑ (232°),7:50:26,+0:10,6:10 am,6:09 pm,6:51 am,5:28 pm,7:34 am,4:45 pm,12:09 pm (15.2°),91.433
+2024-12-24,8:14 am ↑ (128°),4:05 pm ↑ (232°),7:50:43,+0:17,6:10 am,6:09 pm,6:51 am,5:28 pm,7:34 am,4:45 pm,12:10 pm (15.2°),91.428
+2024-12-25,8:15 am ↑ (128°),4:06 pm ↑ (232°),7:51:06,+0:23,6:11 am,6:10 pm,6:51 am,5:29 pm,7:34 am,4:46 pm,12:10 pm (15.2°),91.424
+2024-12-26,8:15 am ↑ (128°),4:06 pm ↑ (232°),7:51:36,+0:29,6:11 am,6:10 pm,6:52 am,5:30 pm,7:35 am,4:47 pm,12:11 pm (15.3°),91.421
+2024-12-27,8:15 am ↑ (128°),4:07 pm ↑ (232°),7:52:13,+0:36,6:11 am,6:11 pm,6:52 am,5:30 pm,7:35 am,4:47 pm,12:11 pm (15.3°),91.418
+2024-12-28,8:15 am ↑ (128°),4:08 pm ↑ (232°),7:52:55,+0:42,6:11 am,6:12 pm,6:52 am,5:31 pm,7:35 am,4:48 pm,12:12 pm (15.4°),91.415
+2024-12-29,8:15 am ↑ (128°),4:09 pm ↑ (232°),7:53:45,+0:49,6:12 am,6:13 pm,6:52 am,5:32 pm,7:35 am,4:49 pm,12:12 pm (15.4°),91.413
+2024-12-30,8:15 am ↑ (128°),4:10 pm ↑ (232°),7:54:40,+0:55,6:12 am,6:14 pm,6:52 am,5:33 pm,7:35 am,4:50 pm,12:13 pm (15.5°),91.411
+2024-12-31,8:15 am ↑ (128°),4:11 pm ↑ (232°),7:55:41,+1:01,6:12 am,6:14 pm,6:53 am,5:34 pm,7:35 am,4:51 pm,12:13 pm (15.6°),91.409
+,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.,* All times are local time for Bristol. They take into account refraction. Dates are based on the Gregorian calendar.
