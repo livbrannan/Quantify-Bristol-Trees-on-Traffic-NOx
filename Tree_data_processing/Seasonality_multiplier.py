@@ -7,9 +7,10 @@ data to allow for the sigmoid 0-1 multiplier to be used for
 calculating the effective crown volume
 """
 
-# Use you own path t run thid file
+# Use you own path to run this file
 trees = pd.read_csv(r"C:\Users\emyan\Applied Data Science\ADS_group\Tree_data_processing\trees_within_radius.csv")
 air = pd.read_csv(r"C:\Users\emyan\Applied Data Science\ADS_group\Traffic Data\continuous_air_quality_2324.csv")
+sun = pd.read_csv(r"C:\Users\emyan\Applied Data Science\ADS_group\sunrise and sunset data\bristol_sun_2023.csv")
 
 # Some trees seem to have overlapping sensors so I'm splitting them up into duplicates
 trees["SENSOR_ID"] = trees["SENSOR_ID"].astype(str).str.replace(" ", "", regex=False)
@@ -55,12 +56,73 @@ I do not have the crown volume calculation so you gusy
 can add that here once you've got it
 """
 
-# Takig the datetime from the air data and merging it with tree data
+# Taking the datetime from the air data and merging it with tree data
 air["DATE_TIME"] = pd.to_datetime(air["DATE_TIME"], errors="coerce")
 air = air.dropna(subset=["DATE_TIME"])
 air["day_of_year"] = air["DATE_TIME"].dt.dayofyear
 air["month"] = air["DATE_TIME"].dt.month
 air["hour"] = air["DATE_TIME"].dt.hour
+air["date"] = air["DATE_TIME"].dt.normalize()
+
+# Sun data
+sun["date"] = pd.to_datetime(sun["date"], errors="coerce")
+
+sun["Sunrise_clean"] = (
+    sun["Sunrise/Sunset Sunrise Sunrise"]
+    .astype(str)
+    .str.extract(r"(\d{1,2}:\d{2}\s*[ap]m)", expand=False)
+    .str.upper()
+)
+sun["Sunset_clean"] = (
+    sun["Sunrise/Sunset Sunset Sunset"]
+    .astype(str)
+    .str.extract(r"(\d{1,2}:\d{2}\s*[ap]m)", expand=False)
+    .str.upper()
+)
+
+sun["sunrise_dt"] = pd.to_datetime(
+    sun["date"].dt.strftime("%Y-%m-%d") + " " + sun["Sunrise_clean"],
+    format="%Y-%m-%d %I:%M %p",
+    errors="coerce"
+)
+
+sun["sunset_dt"] = pd.to_datetime(
+    sun["date"].dt.strftime("%Y-%m-%d") + " " + sun["Sunset_clean"],
+    format="%Y-%m-%d %I:%M %p",
+    errors="coerce"
+)
+
+air = air.merge(
+    sun[["date", "sunrise_dt", "sunset_dt"]],
+    on="date",
+    how="left"
+)
+
+air["hour_start"] = air["DATE_TIME"]
+air["hour_end"] = air["DATE_TIME"] + pd.Timedelta(hours=1)
+
+def daylight_fraction(row):
+    start = row["hour_start"]
+    end = row["hour_end"]
+    sunrise = row["sunrise_dt"]
+    sunset = row["sunset_dt"]
+
+    # Completely dark
+    if end <= sunrise or start >= sunset:
+        return 0.0
+    # Fully daylight
+    if start >= sunrise and end <= sunset:
+        return 1.0
+    # Sunrise hour
+    if start < sunrise < end:
+        return (end - sunrise).total_seconds() / 3600
+    # Sunset hour
+    if start < sunset < end:
+        return (sunset - start).total_seconds() / 3600
+
+    return 0.0
+
+air["sun_multiplier"] = air.apply(daylight_fraction, axis=1)
 
 merged = air.merge(
     trees,
@@ -106,9 +168,10 @@ merged["leaf_multiplier"] = merged.apply(
 
 """
 Effective crown volume calculation, can be uncommented once we have it.
-After this the summed tree effect can be apllied to each sensor per hour.
+After this the summed tree effect can be appllied to each sensor per hour.
 Lmk if you want me to do that after, it can be added once we have the crown volume.
 Name the csv file whatever but please make sure it works because I cant check it.
 """
 # merged["effective_crown_volume"] = merged["crown_volume"] * merged["leaf_multiplier"]
+# merged["effective_daylight_crown_volume"] =  merged["crown_volume"] * merged["leaf_multiplier"] * merged["sun_multiplier"]
 # merged.to_csv(r"")
