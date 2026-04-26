@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "sensors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": 203, "EASTING": 361178, "NORTHING": 171566 }, "geometry": { "type": "Point", "coordinates": [ 361178.0, 171566.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 215, "EASTING": 358042, "NORTHING": 170582 }, "geometry": { "type": "Point", "coordinates": [ 358042.0, 170582.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 270, "EASTING": 360903, "NORTHING": 170024 }, "geometry": { "type": "Point", "coordinates": [ 360903.0, 170024.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 452, "EASTING": 359488, "NORTHING": 173924 }, "geometry": { "type": "Point", "coordinates": [ 359488.0, 173924.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 463, "EASTING": 362926, "NORTHING": 175590 }, "geometry": { "type": "Point", "coordinates": [ 362926.0, 175590.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 500, "EASTING": 359522, "NORTHING": 173381 }, "geometry": { "type": "Point", "coordinates": [ 359522.0, 173381.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 501, "EASTING": 358640, "NORTHING": 173090 }, "geometry": { "type": "Point", "coordinates": [ 358640.0, 173090.0 ] } },
+{ "type": "Feature", "properties": { "SITE_ID": 672, "EASTING": 358728, "NORTHING": 173520 }, "geometry": { "type": "Point", "coordinates": [ 358728.0, 173520.0 ] } }
+]
+}

@@ -1,0 +1,1398 @@
+,OBJECTID,X,Y,LATIN_NAME,COMMON_NAME,FULL_COMMON_NAME,TREE_SPECIES,DBH,tree_group,CROWN_AREA_COMPLETE,CROWN_VOLUME
+130,26609482,358778.42,173631.65,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,3.593896579522947,8.579590388482538
+131,26609483,358769.66,173620.75,Betula utilis,Birch,Himalayan birch,Betula utilis,0.32,deciduous,10.0,53.33333333333333
+391,26609746,359249.26,173476.59,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.5,deciduous,150.05,1400.4666666666667
+392,26609747,359262.25,173477.53,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.4,deciduous,60.05,480.3999999999999
+393,26609748,359276.98,173478.16,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.4,deciduous,60.05,480.3999999999999
+394,26609749,359292.48,173473.61,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.45,deciduous,60.05,520.4333333333333
+395,26609750,359311.79,173474.07,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.18,deciduous,11.273816250283572,67.64289750170143
+519,26609878,358736.57,173486.55,Alnus cordata,Alder,Italian alder,Alnus cordata,0.42,deciduous,60.05,600.5
+520,26609879,358751.57,173478.42,Alnus cordata,Alder,Italian alder,Alnus cordata,0.43,deciduous,60.05,520.4333333333333
+521,26609880,358870.91,173402.56,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.3,deciduous,60.05,280.2333333333333
+522,26609881,358866.54,173768.98,Alnus cordata,Alder,Italian alder,Alnus cordata,0.42,deciduous,60.05,440.3666666666666
+523,26609882,358863.71,173766.55,Alnus incana,Alder,Grey alder,Alnus incana,0.23,deciduous,60.05,320.26666666666665
+524,26609883,358856.52,173759.85,Alnus incana,Alder,Grey alder,Alnus incana,0.41,deciduous,60.05,400.3333333333333
+615,26609974,359441.34,174079.3,Alnus - Species Unknown,Alder,Alder species,Alnus - Species Unknown,0.68,deciduous,275.05,2750.5
+621,26609980,358633.46,173790.13,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.41,deciduous,60.05,320.26666666666665
+623,26609982,358634.28,173791.51,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,1.270951453170266,2.1676543620783213
+742,26610102,357985.12,170493.56,Acer platanoides,Maple,Norway maple,Acer platanoides,0.24,deciduous,60.05,280.2333333333333
+743,26610103,357989.47,170485.29,Acer platanoides,Maple,Norway maple,Acer platanoides,0.34,deciduous,60.05,480.3999999999999
+744,26610104,358037.5,170408.39,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.06,deciduous,2.4152713188738577,4.099666834014899
+1395,26610765,358473.5,173026.95,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.54,deciduous,150.05,1800.6
+1396,26610766,358469.53,173024.01,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.55,deciduous,275.05,3300.6000000000004
+1397,26610767,358382.3,172963.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.66,deciduous,275.05,3117.2333333333336
+1398,26610768,358427.95,172978.88,Acer platanoides,Maple,Norway maple,Acer platanoides,0.41,deciduous,150.05,1400.4666666666667
+1399,26610769,358422.67,172975.34,Acer platanoides,Maple,Norway maple,Acer platanoides,0.33,deciduous,150.05,1400.4666666666667
+1400,26610770,358386.45,172964.19,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8,deciduous,528.55,7399.699999999999
+1403,26610773,358488.58,173040.21,Platanus x acerifolia,Plane,,Platanus x acerifolia,0.65,deciduous,263.567163990786,2811.383082568384
+1559,26610931,361162.02,171571.83,Ulmus 'New Horizon',Elm,Elm ' New Horizon',Ulmus 'New Horizon',0.23,deciduous,10.0,53.33333333333333
+1560,26610932,361173.4,171565.53,Ulmus 'New Horizon',Elm,Elm ' New Horizon',Ulmus 'New Horizon',0.23,deciduous,10.0,53.33333333333333
+2110,26611489,358520.5,173525.13,Alnus cordata,Alder,Italian alder,Alnus cordata,0.47,deciduous,150.05,1500.5
+2111,26611490,358525.56,173499.36,Alnus cordata,Alder,Italian alder,Alnus cordata,0.3,deciduous,60.05,520.4333333333333
+2112,26611491,358527.0,173492.2,Alnus cordata,Alder,Italian alder,Alnus cordata,0.42,deciduous,150.05,1500.5
+2113,26611492,358531.73,173468.52,Alnus cordata,Alder,Italian alder,Alnus cordata,0.5,deciduous,150.05,1500.5
+2114,26611493,358534.48,173454.21,Alnus cordata,Alder,Italian alder,Alnus cordata,0.38,deciduous,60.05,440.3666666666666
+2115,26611494,358525.81,173623.92,Sorbus aucuparia Fastigiata,Rowan,Fastigiate rowan,Sorbus aucuparia Fastigiata,0.1368239355581127,deciduous,27.504157630096167,80.73246829457594
+2229,26611611,358763.16,173337.85,Ulmus Dodoens,Elm,Hybrid elm,Ulmus Dodoens,0.3,deciduous,60.05,320.26666666666665
+2230,26611612,358677.05,173254.38,Acer campestre,Field Maple,Field maple,Acer campestre,0.15,deciduous,10.0,26.666666666666664
+2231,26611613,358685.34,173262.79,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.63,deciduous,275.05,2933.866666666667
+2232,26611614,358694.35,173274.37,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6,deciduous,275.05,2750.5
+2233,26611615,358747.89,173329.32,Ulmus 'New Horizon',Elm,Elm ' New Horizon',Ulmus 'New Horizon',0.3,deciduous,60.05,360.29999999999995
+2234,26611616,358753.89,173331.49,Ulmus Dodoens,Elm,Hybrid elm,Ulmus Dodoens,0.3,deciduous,60.05,320.26666666666665
+2235,26611617,358758.96,173334.4,Ulmus Dodoens,Elm,Hybrid elm,Ulmus Dodoens,0.06,deciduous,3.59389657952302,6.019939002326155
+2236,26611618,358781.35,173344.56,Alnus cordata,Alder,Italian alder,Alnus cordata,0.06,deciduous,3.581549018704922,4.602610234662795
+2573,26611963,358047.91,170304.96,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,60.05,320.26666666666665
+2581,26611971,358046.63,170311.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,60.05,320.26666666666665
+2582,26611972,358046.16,170316.25,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.3,deciduous,60.05,320.26666666666665
+2918,26612319,359576.09,173152.78,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.48,deciduous,60.05,440.3666666666666
+2919,26612320,359587.43,173108.19,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8300000000000001,deciduous,337.89963270559093,4730.594857878273
+2920,26612321,359587.34,173098.62,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8300000000000001,deciduous,337.89963270559093,4730.594857878273
+2927,26612332,358712.44,173245.32,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.3,deciduous,150.05,1200.4
+2928,26612333,358729.67,173253.59,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.45,deciduous,150.05,1400.4666666666667
+2929,26612334,358712.73,173252.04,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.5,deciduous,150.05,1500.5
+2930,26612335,358708.92,173271.53,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.47,deciduous,60.05,440.3666666666666
+2941,26612346,358694.74,173235.39,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.28,deciduous,60.05,400.3333333333333
+2942,26612347,358700.26,173232.45,Acer platanoides,Maple,Norway maple,Acer platanoides,0.06,deciduous,2.9820718587587507,2.954573154021368
+3012,26612417,359530.66,174134.27,Broussonetia papyrifera,Paper Mulberry,Paper mulberry,Broussonetia papyrifera,0.05,deciduous,10.0,20.0
+3597,26613018,358053.89,170596.44,Tilia x europea,Lime,European lime,Tilia x europea,0.4,deciduous,60.05,360.29999999999995
+3607,26613028,358229.56,170727.71,Tilia x europea,Lime,European lime,Tilia x europea,0.42,deciduous,60.05,360.29999999999995
+3608,26613029,358069.29,170607.55,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.4169710075284318,deciduous,112.41959917091911,771.4856652423352
+3609,26613030,358038.2,170585.31,Tilia x europea,Lime,European lime,Tilia x europea,0.47,deciduous,60.05,360.29999999999995
+3610,26613031,358023.06,170574.39,Tilia x europea,Lime,European lime,Tilia x europea,0.49,deciduous,60.05,400.3333333333333
+3611,26613032,357996.78,170555.96,Tilia x europea,Lime,European lime,Tilia x europea,0.47,deciduous,60.05,400.3333333333333
+3612,26613033,357919.61,170513.01,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.05,deciduous,10.0,20.0
+3613,26613034,357812.52,170494.51,Tilia x europea,Lime,European lime,Tilia x europea,0.52,deciduous,60.05,440.3666666666666
+3614,26613035,357795.07,170491.49,Tilia x europea,Lime,European lime,Tilia x europea,0.5,deciduous,60.05,360.29999999999995
+3615,26613036,357776.91,170488.46,Tilia x europea,Lime,European lime,Tilia x europea,0.46,deciduous,60.05,360.29999999999995
+3616,26613037,357759.81,170485.55,Tilia x europea,Lime,European lime,Tilia x europea,0.38,deciduous,60.05,320.26666666666665
+3619,26613040,358086.3,170619.57,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.05,deciduous,10.0,20.0
+3624,26613045,357758.06,170495.89,Tilia x europea,Lime,European lime,Tilia x europea,0.4,deciduous,60.05,440.3666666666666
+3625,26613046,357794.3,170502.13,Tilia x europea,Lime,European lime,Tilia x europea,0.43,deciduous,60.05,400.3333333333333
+3626,26613047,357905.44,170521.74,Acer platanoides,Maple,Norway maple,Acer platanoides,0.06,deciduous,10.0,20.0
+3627,26613048,357922.3,170524.81,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.38,deciduous,150.05,1400.4666666666667
+3628,26613049,357927.7,170541.44,Acer platanoides,Maple,Norway maple,Acer platanoides,0.06,deciduous,10.0,20.0
+3629,26613050,357932.15,170531.17,Acer platanoides,Maple,Norway maple,Acer platanoides,0.32,deciduous,60.05,280.2333333333333
+3630,26613051,357974.21,170552.14,Tilia x europea,Lime,European lime,Tilia x europea,0.52,deciduous,60.05,400.3333333333333
+3631,26613052,357991.48,170564.33,Tilia x europea,Lime,European lime,Tilia x europea,0.44,deciduous,60.05,360.29999999999995
+3632,26613053,358017.54,170582.66,Tilia x europea,Lime,European lime,Tilia x europea,0.51,deciduous,60.05,360.29999999999995
+3633,26613054,358032.59,170593.26,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,480.3999999999999
+3634,26613055,358047.53,170603.53,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,400.3333333333333
+3635,26613056,358062.89,170614.66,Tilia x europea,Lime,European lime,Tilia x europea,0.5700000000000001,deciduous,60.05,480.3999999999999
+3636,26613057,358092.56,170635.0,Tilia x europea,Lime,European lime,Tilia x europea,0.54,deciduous,60.05,480.3999999999999
+3637,26613058,358206.57,170722.41,Tilia x europea,Lime,European lime,Tilia x europea,0.52,deciduous,60.05,360.29999999999995
+3638,26613059,358262.08,170770.94,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,440.3666666666666
+3639,26613060,358221.82,170734.7,Tilia x europea,Lime,European lime,Tilia x europea,0.4,deciduous,60.05,360.29999999999995
+3640,26613061,358236.65,170747.73,Tilia x europea,Lime,European lime,Tilia x europea,0.43,deciduous,60.05,360.29999999999995
+3641,26613062,358248.21,170758.33,Tilia x europea,Lime,European lime,Tilia x europea,0.45,deciduous,60.05,320.26666666666665
+3703,26613124,359560.24,174026.1,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.31,deciduous,60.05,280.2333333333333
+3706,26613127,359589.03,174051.32,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.08,deciduous,10.0,26.666666666666664
+3707,26613128,359574.94,174038.81,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.38,deciduous,60.05,360.29999999999995
+3708,26613129,359569.38,174033.84,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.21,deciduous,10.0,26.666666666666664
+3709,26613130,359543.88,174011.18,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.09,deciduous,60.05,160.13333333333333
+3710,26613131,359529.47,173994.53,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.1,deciduous,60.05,160.13333333333333
+3711,26613132,359534.44,174001.28,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.1,deciduous,60.05,160.13333333333333
+3712,26613133,359520.14,173985.8,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.08,deciduous,10.0,26.666666666666664
+3867,26613290,362930.22,175834.3,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.63,deciduous,285.933966964309,2287.471735714472
+3868,26613291,362925.75,175831.44,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.73,deciduous,354.4432860877336,2835.5462887018684
+3869,26613292,362919.06,175827.37,Sambucus nigra,Elder,Elder,Sambucus nigra,0.2483333333333333,deciduous,36.1595549228223,96.4254797941928
+3870,26613293,362913.55,175824.4,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,101.5422573046714,406.1690292186855
+3871,26613294,362898.67,175812.16,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,101.5422573046714,665.5127523413325
+3876,26613299,362907.81,175819.98,Acer platanoides,Maple,Norway maple,Acer platanoides,0.1,deciduous,8.258969412236617,27.529898040788723
+4762,26614198,363044.65,175456.66,Tilia x europea,Lime,European lime,Tilia x europea,0.41,deciduous,60.05,280.2333333333333
+4763,26614199,363035.34,175443.46,Tilia x europea,Lime,European lime,Tilia x europea,0.37,deciduous,60.05,320.26666666666665
+4764,26614200,363023.91,175437.95,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.05,deciduous,10.0,20.0
+4765,26614201,362976.48,175424.83,Tilia x europea,Lime,European lime,Tilia x europea,0.32,deciduous,60.05,320.26666666666665
+4983,26614424,359360.42,173341.29,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4984,26614425,359369.38,173343.6,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4985,26614426,359340.58,173409.29,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4986,26614427,359307.5,173466.17,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4987,26614428,359370.58,173313.8,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4988,26614429,359374.27,173329.11,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4989,26614430,359320.3,173438.85,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4990,26614431,359367.46,173321.35,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+4992,26614433,359314.92,173452.04,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+5061,26614505,360962.4,170294.69,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.12,deciduous,60.05,240.19999999999996
+5063,26614507,360918.88,170235.69,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.12,deciduous,10.0,20.0
+5064,26614508,360927.06,170246.93,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.12,deciduous,10.0,6.666666666666666
+5065,26614509,360926.78,170247.13,Prunus Snow Goose,Cherry,Cherry,Prunus Snow Goose,0.06,deciduous,3.5711940284285486,5.939568080153556
+5066,26614510,360935.5,170259.52,Prunus Snow Goose,Cherry,Cherry,Prunus Snow Goose,0.06,deciduous,3.5711940284285486,5.939568080153556
+5067,26614511,360969.9,170305.04,Prunus shimidsu sakura,Cherry,Cherry,Prunus shimidsu sakura,0.09,deciduous,10.0,33.33333333333333
+5074,26614518,360974.72,170292.4,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.32,deciduous,60.05,200.16666666666666
+5075,26614519,360962.72,170276.05,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.33,deciduous,10.0,33.33333333333333
+5076,26614520,360952.78,170263.17,Prunus shimidsu sakura,Cherry,Cherry,Prunus shimidsu sakura,0.06,deciduous,10.0,20.0
+5077,26614521,360931.54,170234.38,Prunus sargentii,Cherry,Sargent's cherry,Prunus sargentii,0.29,deciduous,60.05,520.4333333333333
+5078,26614522,360945.13,170251.23,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.08,deciduous,10.0,13.333333333333332
+5079,26614523,360986.77,170308.62,Prunus shimidsu sakura,Cherry,Cherry,Prunus shimidsu sakura,0.06,deciduous,3.5711940284285486,5.939568080153556
+5291,26614743,358614.51,173312.57,Alnus cordata,Alder,Italian alder,Alnus cordata,0.35,deciduous,150.05,1100.3666666666668
+5433,26614887,359334.69,173550.08,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5436,26614890,359358.03,173543.34,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5437,26614891,359349.86,173545.85,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5438,26614892,359342.93,173547.98,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5439,26614893,359327.69,173552.11,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5440,26614894,359319.21,173554.85,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+5450,26614904,359274.61,173525.31,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,33.33333333333333
+5451,26614905,359318.16,173519.35,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.44,deciduous,150.05,1500.5
+5452,26614906,359501.87,173166.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.79,deciduous,528.55,7399.699999999999
+5453,26614907,359480.1,173232.27,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.43,deciduous,60.05,600.5
+5454,26614908,359457.18,173294.92,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.06,deciduous,2.397266962874267,0.5229092203502509
+5455,26614909,359483.55,173215.99,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.68,deciduous,275.05,3117.2333333333336
+5456,26614910,359343.35,173519.64,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,40.48457351912706,242.90744111476238
+5457,26614911,359544.31,173180.6,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.64,deciduous,150.05,1300.4333333333334
+5458,26614912,359529.88,173544.06,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,85.66616469526356,571.1077646350903
+5459,26614913,359334.25,173521.05,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.15,deciduous,14.85019823923634,89.10118943541804
+5460,26614914,359365.97,173516.46,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.21,deciduous,28.81285031376284,172.87710188257702
+5461,26614915,359382.97,173513.99,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.26,deciduous,43.68396782244248,262.10380693465487
+5462,26614916,359418.75,173512.81,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.21,deciduous,28.81285031376284,153.66853500673514
+5463,26614917,359428.14,173514.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.21,deciduous,28.81285031376284,153.66853500673514
+5464,26614918,359433.43,173515.81,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,19.0169858420842,101.42392449111573
+5465,26614919,359443.25,173518.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,19.0169858420842,101.42392449111573
+5466,26614920,359451.12,173521.12,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,19.0169858420842,101.42392449111573
+5467,26614921,359461.86,173526.26,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,19.0169858420842,114.1019150525052
+5468,26614922,359465.66,173348.28,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,40.48457351912706,242.90744111476238
+5469,26614923,359519.39,173456.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,40.48457351912706,242.90744111476238
+5470,26614924,359521.66,173463.28,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,40.48457351912706,242.90744111476238
+5471,26614925,359533.3,173530.02,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,85.66616469526356,571.1077646350903
+5472,26614926,359537.99,173517.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,85.66616469526356,571.1077646350903
+5473,26614927,359549.26,173519.21,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,85.66616469526356,571.1077646350903
+5474,26614928,359554.94,173464.57,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,85.66616469526356,571.1077646350903
+5488,26614942,358609.58,172792.65,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.31,deciduous,10.0,66.66666666666666
+5619,26615076,358926.67,173044.49,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.43,deciduous,60.05,520.4333333333333
+5632,26615089,358902.53,173064.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.73,deciduous,150.05,1600.5333333333333
+5633,26615090,358911.52,173071.83,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.61,deciduous,275.05,3300.6000000000004
+5634,26615091,358920.63,173074.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.76,deciduous,150.05,1800.6
+5639,26615096,358930.11,173054.95,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.43,deciduous,150.05,1400.4666666666667
+5951,26615410,361109.23,170145.69,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5953,26615412,361142.94,170168.2,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5955,26615414,361134.09,170161.42,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5958,26615417,361125.89,170157.18,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5960,26615419,361162.08,170155.69,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.08,deciduous,4.978244283460784,9.728948461019652
+5963,26615422,361119.55,170128.97,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.08,deciduous,4.978244283460784,9.728948461019652
+5965,26615424,361146.24,170146.14,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.08,deciduous,4.978244283460784,9.728948461019652
+5966,26615425,361118.99,170151.65,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5968,26615427,361103.95,170118.15,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.08,deciduous,4.978244283460784,9.728948461019652
+5978,26615437,361152.64,170172.9,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+5980,26615439,361133.0,170137.99,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.08,deciduous,4.978244283460784,9.728948461019652
+5983,26615442,361099.59,170139.08,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.08,deciduous,4.978244283460784,9.728948461019652
+6111,26615570,358510.54,173177.61,Alnus cordata,Alder,Italian alder,Alnus cordata,0.35,deciduous,60.05,480.3999999999999
+6117,26615576,358503.25,173171.84,Alnus cordata,Alder,Italian alder,Alnus cordata,0.04,deciduous,60.05,80.06666666666666
+6118,26615577,358505.68,173173.85,Alnus cordata,Alder,Italian alder,Alnus cordata,0.35,deciduous,60.05,440.3666666666666
+6119,26615578,358515.96,173182.27,Alnus cordata,Alder,Italian alder,Alnus cordata,0.5,deciduous,150.05,1400.4666666666667
+6120,26615579,358527.9,173195.35,Alnus cordata,Alder,Italian alder,Alnus cordata,0.36,deciduous,60.05,400.3333333333333
+6121,26615580,358533.2,173200.64,Alnus cordata,Alder,Italian alder,Alnus cordata,0.26,deciduous,60.05,360.29999999999995
+6122,26615581,358537.16,173204.99,Alnus cordata,Alder,Italian alder,Alnus cordata,0.35,deciduous,60.05,360.29999999999995
+6123,26615582,358547.18,173217.84,Alnus cordata,Alder,Italian alder,Alnus cordata,0.33,deciduous,60.05,360.29999999999995
+6124,26615583,358551.43,173223.6,Alnus cordata,Alder,Italian alder,Alnus cordata,0.3,deciduous,60.05,400.3333333333333
+6125,26615584,358554.55,173227.1,Alnus cordata,Alder,Italian alder,Alnus cordata,0.35,deciduous,60.05,520.4333333333333
+6254,26615714,358007.07,170405.09,Betula utilis,Birch,Himalayan birch,Betula utilis,0.06,deciduous,3.584910945524932,6.461429192405113
+6255,26615715,358000.23,170401.58,Betula utilis,Birch,Himalayan birch,Betula utilis,0.06,deciduous,3.584910945524932,6.461429192405113
+6256,26615716,357993.24,170397.64,Betula utilis,Birch,Himalayan birch,Betula utilis,0.06,deciduous,3.584910945524932,6.461429192405113
+6257,26615717,357987.15,170392.46,Betula utilis,Birch,Himalayan birch,Betula utilis,0.06,deciduous,3.584910945524932,6.461429192405113
+6258,26615718,357978.01,170388.43,Betula utilis,Birch,Himalayan birch,Betula utilis,0.06,deciduous,3.584910945524932,6.461429192405113
+6796,26616269,359297.07,173564.23,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.08,deciduous,5.536172809128897,14.76312749101039
+6797,26616270,359296.33,173569.61,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.09,deciduous,6.999417778435053,18.665114075826807
+6854,26616329,358843.58,173629.37,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.38,deciduous,60.05,480.3999999999999
+6855,26616330,358841.15,173624.65,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.38,deciduous,60.05,480.3999999999999
+6856,26616331,358840.12,173618.16,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.38,deciduous,60.05,480.3999999999999
+6857,26616332,358896.27,173693.18,Acer platanoides,Maple,Norway maple,Acer platanoides,0.46,deciduous,159.39298660531577,1275.1438928425262
+7086,26616563,358076.98,170289.61,Alnus glutinosa,Alder,Black alder,Alnus glutinosa,0.2644132397191575,deciduous,62.61372874474624,328.08642444462174
+7168,26616646,359481.21,173111.37,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.11,deciduous,8.052066934759967,25.53544365946053
+7186,26616664,358624.54,172912.91,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.52,deciduous,150.05,1200.4
+7187,26616665,358685.33,172925.05,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.65,deciduous,275.05,3300.6000000000004
+7264,26616742,359518.19,173406.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+7265,26616743,359472.23,173296.35,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7266,26616744,359499.41,173319.7,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7267,26616745,359484.93,173285.47,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7268,26616746,359524.08,173418.1,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,56.23876009251879
+7269,26616747,359473.55,173285.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7270,26616748,359455.56,173298.04,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7271,26616749,359508.5,173386.44,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,56.23876009251879
+7272,26616750,359489.26,173394.47,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.06,deciduous,2.397266962874267,0.5229092203502509
+7273,26616751,359452.76,173309.27,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7274,26616752,359536.8,173212.87,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.1,deciduous,8.631197432815318,23.016526487507512
+7275,26616753,359523.97,173225.55,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.1,deciduous,8.631197432815318,23.016526487507512
+7276,26616754,359517.85,173239.61,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.1,deciduous,8.631197432815318,23.016526487507512
+7279,26616757,359473.3,173312.57,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7280,26616758,359484.5,173327.47,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7281,26616759,359490.45,173347.27,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7282,26616760,359538.55,173447.79,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+7283,26616761,359500.32,173328.74,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.27,deciduous,46.99255671998079,125.31348458661543
+7284,26616762,359534.02,173218.58,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.1,deciduous,8.631197432815318,28.770658109384392
+7285,26616763,359513.03,173249.6,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.1,deciduous,8.631197432815318,23.016526487507512
+7532,26617017,359278.35,173405.6,Carpinus betulus Frans Fontane,Hornbeam,Hornbeam 'Frans Fontaine',Carpinus betulus Frans Fontane,0.06,deciduous,3.581549018757343,8.420511533991956
+7724,26617209,359627.39,173325.21,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.18,deciduous,528.55,9866.266666666665
+7727,26617212,359660.17,173312.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8200000000000001,deciduous,528.55,9161.533333333333
+7728,26617213,359649.84,173316.54,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.95,deciduous,528.55,9513.899999999998
+7729,26617214,359639.64,173320.24,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.05,deciduous,528.55,9866.266666666665
+7730,26617215,359611.83,173331.2,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.35,deciduous,528.55,10570.999999999998
+7731,26617216,359576.76,173344.85,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.15,deciduous,528.55,11628.099999999999
+7732,26617217,359566.68,173346.64,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.74,deciduous,275.05,3483.9666666666662
+7733,26617218,359542.32,173355.95,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.15,deciduous,528.55,10923.366666666665
+7734,26617219,359625.22,173336.05,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.89,deciduous,528.55,10218.633333333331
+7735,26617220,359640.53,173330.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.05,deciduous,528.55,10923.366666666665
+7736,26617221,359660.05,173322.54,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.25,deciduous,528.55,9866.266666666665
+7737,26617222,359605.03,173347.5,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.71,deciduous,267.5942010038907,4816.695618070033
+8013,26617507,359623.97,173248.99,Betula nigra,Birch,River birch,Betula nigra,0.16,deciduous,10.0,40.0
+8014,26617508,359607.12,173243.97,Betula nigra,Birch,River birch,Betula nigra,0.15,deciduous,10.0,40.0
+8015,26617509,359603.41,173242.83,Betula nigra,Birch,River birch,Betula nigra,0.15,deciduous,10.0,40.0
+8016,26617510,359596.65,173240.26,Betula nigra,Birch,River birch,Betula nigra,0.25,deciduous,10.0,46.666666666666664
+8017,26617511,359599.58,173241.52,Betula nigra,Birch,River birch,Betula nigra,0.1,deciduous,10.0,33.33333333333333
+8024,26617518,359550.1,173593.2,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8025,26617519,359576.77,173602.68,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8026,26617520,359605.26,173615.23,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8027,26617521,359563.14,173601.73,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8028,26617522,359580.15,173606.35,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8029,26617523,359589.67,173619.62,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8030,26617524,359538.74,173586.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8031,26617525,359576.56,173612.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8032,26617526,359605.99,173630.2,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8081,26617575,359339.74,173534.17,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8082,26617576,359425.31,173527.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8083,26617577,359609.29,173619.05,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8084,26617578,359460.21,173541.03,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8085,26617579,359596.28,173609.99,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8086,26617580,359569.77,173607.39,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8087,26617581,359568.23,173605.79,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8088,26617582,359599.92,173626.74,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,16.871628027755637,44.99100807401503
+8232,26617731,358530.77,172988.56,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.09,deciduous,6.294688040588049,14.669601925508566
+8235,26617735,358542.13,173007.61,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.11,deciduous,9.382473192398928,27.878923529402897
+8236,26617736,358484.19,172998.63,Acer rubrum,Maple,Red maple,Acer rubrum,0.06,deciduous,10.0,13.333333333333332
+8362,26617862,361387.16,171550.54,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.35,deciduous,103.3591683516621,551.2488978755312
+8440,26617942,359712.22,173422.53,Sorbus intermedia,Whitebeam,Swedish whitebeam,Sorbus intermedia,0.4,deciduous,60.05,320.26666666666665
+8441,26617943,359738.87,173457.86,Alnus incana,Alder,Grey alder,Alnus incana,0.4,deciduous,60.05,520.4333333333333
+8442,26617944,359740.53,173453.14,Malus tschonoskii,Apple,Pillar apple,Malus tschonoskii,0.3,deciduous,60.05,360.29999999999995
+8443,26617945,359754.88,173471.31,Acer griseum,Maple,Paperbark maple,Acer griseum,0.06,deciduous,2.9820718587587507,2.954573154021368
+8552,26618058,360881.57,169967.63,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.45,deciduous,150.05,1600.5333333333333
+8553,26618059,360878.78,169973.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.42,deciduous,150.05,1400.4666666666667
+8554,26618060,360872.87,169973.42,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.42,deciduous,150.05,1600.5333333333333
+8556,26618062,360652.09,169899.11,Sophora japonica,Pagoda Tree,Pagoda Tree,Sophora japonica,0.06,deciduous,2.8045902645908924,2.861496001911473
+8557,26618063,360744.0,169935.17,Sophora japonica,Pagoda Tree,Pagoda Tree,Sophora japonica,0.06,deciduous,2.8045902645908924,2.861496001911473
+8558,26618064,360669.29,169905.13,Sophora japonica,Pagoda Tree,Pagoda Tree,Sophora japonica,0.06,deciduous,2.8045902645908924,2.861496001911473
+8559,26618065,360684.92,169911.06,Sophora japonica,Pagoda Tree,Pagoda Tree,Sophora japonica,0.06,deciduous,2.8045902645908924,2.861496001911473
+8565,26618071,360868.0,169967.79,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.48,deciduous,60.05,440.3666666666666
+8566,26618072,360861.74,169966.62,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,60.05,440.3666666666666
+8567,26618073,360861.06,169969.16,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.19,deciduous,60.05,280.2333333333333
+8568,26618074,360848.25,169964.95,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.19,deciduous,60.05,320.26666666666665
+8569,26618075,360703.92,169890.15,Prunus avium,Cherry,Wild cherry,Prunus avium,0.28,deciduous,60.05,240.19999999999996
+8570,26618076,360700.99,169888.68,Prunus avium,Cherry,Wild cherry,Prunus avium,0.28,deciduous,60.05,240.19999999999996
+8571,26618077,360697.85,169887.41,Prunus avium,Cherry,Wild cherry,Prunus avium,0.28,deciduous,60.05,240.19999999999996
+8574,26618080,360736.01,169931.7,Sophora japonica,Pagoda Tree,Pagoda Tree,Sophora japonica,0.06,deciduous,2.8045902645908924,2.861496001911473
+8576,26618082,360845.9,169962.22,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,150.05,1200.4
+8577,26618083,360834.95,169957.13,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,60.05,240.19999999999996
+8578,26618084,360736.58,169908.53,Populus nigra - Unkown Species,Poplar,Unidentified black poplar,Populus nigra - Unkown Species,0.5403364269141531,deciduous,60.05,360.29999999999995
+8579,26618085,360732.08,169907.06,Populus nigra - Unkown Species,Poplar,Unidentified black poplar,Populus nigra - Unkown Species,0.28,deciduous,60.05,360.29999999999995
+8580,26618086,360712.52,169894.84,Alnus cordata,Alder,Italian alder,Alnus cordata,0.28,deciduous,60.05,480.3999999999999
+8581,26618087,360711.35,169894.06,Alnus cordata,Alder,Italian alder,Alnus cordata,0.28,deciduous,60.05,480.3999999999999
+8699,26618208,359292.75,174005.0,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.36,deciduous,150.05,1000.3333333333333
+8700,26618209,359296.65,173999.61,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.26,deciduous,60.05,400.3333333333333
+8701,26618210,359300.41,173994.8,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.17,deciduous,10.0,26.666666666666664
+8731,26618240,359563.71,173291.83,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.29,deciduous,528.55,7399.699999999999
+8949,26618458,359669.48,173463.06,Prunus padus,Cherry,Bird cherry,Prunus padus,0.15,deciduous,10.0,40.0
+8950,26618459,359702.66,173500.75,Prunus padus,Cherry,Bird cherry,Prunus padus,0.18,deciduous,10.0,46.666666666666664
+8951,26618460,359699.31,173495.78,Prunus padus,Cherry,Bird cherry,Prunus padus,0.24,deciduous,10.0,53.33333333333333
+8952,26618461,359672.2,173465.59,Prunus padus,Cherry,Bird cherry,Prunus padus,0.16,deciduous,10.0,46.666666666666664
+8953,26618462,359667.57,173461.48,Prunus padus,Cherry,Bird cherry,Prunus padus,0.25,deciduous,10.0,46.666666666666664
+8954,26618463,359628.14,173431.12,Prunus padus,Cherry,Bird cherry,Prunus padus,0.11,deciduous,10.0,33.33333333333333
+8955,26618464,359704.58,173504.47,Prunus padus,Cherry,Bird cherry,Prunus padus,0.23,deciduous,10.0,53.33333333333333
+9223,26618736,360724.0,169824.23,Broussonetia papyrifera,Paper Mulberry,Paper mulberry,Broussonetia papyrifera,0.05,deciduous,10.0,20.0
+9224,26618737,360719.7,169828.76,Broussonetia papyrifera,Paper Mulberry,Paper mulberry,Broussonetia papyrifera,0.05,deciduous,10.0,20.0
+9225,26618738,360697.06,169818.91,Broussonetia papyrifera,Paper Mulberry,Paper mulberry,Broussonetia papyrifera,0.05,deciduous,10.0,20.0
+9226,26618739,360697.06,169819.14,Broussonetia papyrifera,Paper Mulberry,Paper mulberry,Broussonetia papyrifera,0.06,deciduous,2.8045902645908924,2.861496001911473
+9302,26618816,359756.72,173291.88,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5,deciduous,150.05,1800.6
+9303,26618817,359766.68,173296.32,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5,deciduous,150.05,1800.6
+9304,26618818,359765.58,173285.89,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.54,deciduous,150.05,1800.6
+9485,26619002,363056.32,175357.11,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.51,deciduous,150.05,1000.3333333333333
+9486,26619003,363060.4,175377.01,Tilia x europea,Lime,European lime,Tilia x europea,0.42,deciduous,60.05,280.2333333333333
+9487,26619004,363051.8,175379.25,Tilia x europea,Lime,European lime,Tilia x europea,0.39,deciduous,60.05,320.26666666666665
+9488,26619005,363062.44,175387.41,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.49,deciduous,150.05,1100.3666666666668
+9489,26619006,363064.55,175397.73,Tilia x europea,Lime,European lime,Tilia x europea,0.31,deciduous,60.05,280.2333333333333
+9490,26619007,363066.65,175408.26,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.48,deciduous,150.05,1000.3333333333333
+9491,26619008,363068.62,175418.21,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6,deciduous,150.05,1000.3333333333333
+9492,26619009,363060.15,175419.8,Tilia x europea,Lime,European lime,Tilia x europea,0.37,deciduous,60.05,280.2333333333333
+9493,26619010,363064.86,175443.39,Tilia x europea,Lime,European lime,Tilia x europea,0.37,deciduous,60.05,280.2333333333333
+9494,26619011,363072.84,175439.06,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.56,deciduous,150.05,1100.3666666666668
+10159,26619679,359600.26,173350.1,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.74,deciduous,285.2629311762836,5324.90804862396
+10160,26619680,359592.98,173352.49,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.74,deciduous,285.2629311762836,5324.90804862396
+10161,26619681,359587.72,173355.42,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.71,deciduous,267.5942010038907,4995.091752072626
+10162,26619682,359562.31,173367.08,Platanus x acerifolia,Plane,,Platanus x acerifolia,0.65,deciduous,263.567163990786,3865.651738531528
+10163,26619683,359586.09,173386.8,Platanus x acerifolia,Plane,,Platanus x acerifolia,1.0,deciduous,472.6242082168155,7877.070136946924
+10164,26619684,359599.46,173399.81,Platanus x acerifolia,Plane,,Platanus x acerifolia,0.9,deciduous,417.91935308138096,6129.4838451935875
+10175,26619695,359515.35,173359.34,Platanus x acerifolia,Plane,,Platanus x acerifolia,0.9,deciduous,417.91935308138096,6965.322551356349
+10176,26619696,359509.46,173352.93,Platanus x acerifolia,Plane,,Platanus x acerifolia,0.86,deciduous,394.5530519310743,6049.813462943139
+10380,26619903,362820.21,175492.98,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,785.2307115947926
+10402,26619926,362695.53,175438.09,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,400.3333333333333
+10403,26619927,362938.99,175598.77,Prunus Kanzan,Cherry,Kanzan cherry,Prunus Kanzan,0.06,deciduous,3.5711940284285486,5.939568080153556
+10404,26619928,362942.77,175600.77,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.17,deciduous,60.05,200.16666666666666
+10405,26619929,362948.44,175604.55,Prunus Kanzan,Cherry,Kanzan cherry,Prunus Kanzan,0.14,deciduous,60.05,200.16666666666666
+10406,26619930,362951.27,175606.68,Prunus Kanzan,Cherry,Kanzan cherry,Prunus Kanzan,0.16,deciduous,10.0,26.666666666666664
+10407,26619931,363175.43,175735.58,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6900000000000001,deciduous,150.05,1400.4666666666667
+10442,26619966,362898.19,175550.54,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,10.0,40.0
+10443,26619967,362891.95,175547.0,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,10.0,40.0
+10444,26619968,362885.36,175541.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,10.0,40.0
+10445,26619969,362875.58,175534.64,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,785.2307115947926
+10446,26619970,362865.23,175528.18,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,785.2307115947926
+10447,26619971,362854.9,175521.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,654.3589263289939
+10448,26619972,362842.81,175514.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,785.2307115947926
+10449,26619973,362832.62,175507.83,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,196.3076778986982,523.4871410631952
+11360,26620902,359524.1,173136.5,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.21,deciduous,10.0,40.0
+11368,26620910,359533.22,173104.24,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.19,deciduous,10.0,40.0
+11369,26620911,359525.47,173111.36,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.2,deciduous,10.0,40.0
+11370,26620912,359521.28,173126.02,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.2,deciduous,10.0,40.0
+11371,26620913,359527.03,173137.45,Arbutus unedo,Strawberry Tree,Strawberry tree,Arbutus unedo,0.12,evergreen,10.0,13.333333333333332
+11372,26620914,359552.15,173144.92,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.21,deciduous,10.0,33.33333333333333
+11373,26620915,359555.95,173135.67,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.2,deciduous,10.0,40.0
+11374,26620916,359558.88,173118.79,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.2,deciduous,10.0,40.0
+11375,26620917,359560.66,173111.05,Prunus serrula cv,Cherry,Japanese cherry cultivar,Prunus serrula cv,0.2,deciduous,10.0,40.0
+11376,26620918,359560.34,173165.34,Ulmus - Species Unknown,Elm,Unidentified elm,Ulmus - Species Unknown,0.13,deciduous,16.766054262376944,44.70947803300518
+11377,26620919,359563.93,173161.98,Ulmus - Species Unknown,Elm,Unidentified elm,Ulmus - Species Unknown,0.13,deciduous,16.766054262376944,44.70947803300518
+11535,26621079,359238.25,173389.88,Acer platanoides,Maple,Norway maple,Acer platanoides,0.6,deciduous,150.05,1000.3333333333333
+11536,26621080,359246.17,173393.4,Acer platanoides,Maple,Norway maple,Acer platanoides,0.6,deciduous,150.05,1200.4
+11537,26621081,359253.98,173396.48,Acer platanoides,Maple,Norway maple,Acer platanoides,0.62,deciduous,150.05,1300.4333333333334
+11538,26621082,359297.26,173409.1,Acer platanoides,Maple,Norway maple,Acer platanoides,0.66,deciduous,275.05,2933.866666666667
+11654,26621200,358831.86,172896.0,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6,deciduous,60.05,480.3999999999999
+11660,26621206,358797.6,172892.1,Acer platanoides,Maple,Norway maple,Acer platanoides,0.5,deciduous,150.05,1200.4
+11661,26621207,358824.1,172893.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.58,deciduous,60.05,440.3666666666666
+12003,26621557,359746.56,173339.06,Crataegus crus-gallii,Hawthorn,Cockspur thorn,Crataegus crus-gallii,0.24,deciduous,60.05,200.16666666666666
+12008,26621562,359746.9,173346.98,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.4,deciduous,150.05,1000.3333333333333
+12009,26621564,359754.94,173317.28,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.06,deciduous,2.8045902645908924,5.035577441077952
+12011,26621566,359714.91,173332.56,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.79,deciduous,275.05,2933.866666666667
+12012,26621567,359707.17,173361.18,Juniperus communis,Juniper,Common juniper,Juniperus communis,0.15,evergreen,60.05,160.13333333333333
+12013,26621568,359724.07,173325.9,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.91,deciduous,275.05,2750.5
+12357,26621916,358714.88,173503.79,Alnus cordata,Alder,Italian alder,Alnus cordata,0.4,deciduous,60.05,560.4666666666666
+12358,26621917,358692.76,173444.36,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.41,deciduous,60.05,520.4333333333333
+12359,26621918,358688.13,173435.17,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.3,deciduous,60.05,480.3999999999999
+12360,26621919,358686.44,173431.6,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.5,deciduous,150.05,1500.5
+12361,26621920,358679.25,173421.97,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.46,deciduous,60.05,560.4666666666666
+12428,26621987,359655.37,173966.69,Trachycarpus fortunei,Chusan Palm,Chusan palm,Trachycarpus fortunei,0.1,evergreen,5.490313132578437,7.342665074318561
+12487,26622046,359022.97,173479.1,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.7000000000000001,deciduous,275.05,3483.9666666666662
+12488,26622047,358999.88,173446.74,Alnus incana,Alder,Grey alder,Alnus incana,0.35,deciduous,60.05,360.29999999999995
+12489,26622048,358993.16,173436.56,Alnus incana,Alder,Grey alder,Alnus incana,0.36,deciduous,60.05,400.3333333333333
+12490,26622049,358989.88,173432.92,Alnus incana,Alder,Grey alder,Alnus incana,0.25,deciduous,60.05,360.29999999999995
+12491,26622050,358924.91,173377.14,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.5,deciduous,150.05,1000.3333333333333
+12492,26622051,358916.92,173376.51,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.55,deciduous,150.05,1100.3666666666668
+12493,26622052,358900.94,173373.85,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.25,deciduous,60.05,320.26666666666665
+12494,26622053,359001.96,173490.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.65,deciduous,275.05,3300.6000000000004
+12537,26622097,361096.23,170113.05,Acer platanoides,Maple,Norway maple,Acer platanoides,0.37,deciduous,150.05,1200.4
+12538,26622098,361094.95,170109.46,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.29,deciduous,60.05,400.3333333333333
+12539,26622099,361090.78,170107.95,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.24,deciduous,60.05,360.29999999999995
+12540,26622100,361090.55,170104.01,Acer platanoides,Maple,Norway maple,Acer platanoides,0.31,deciduous,150.05,1400.4666666666667
+12541,26622101,361070.95,170100.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.49,deciduous,275.05,3117.2333333333336
+12542,26622102,361048.57,170085.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5,deciduous,275.05,3117.2333333333336
+12543,26622103,361034.76,170075.83,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.48,deciduous,275.05,3117.2333333333336
+12544,26622104,361025.75,170069.67,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,10.0,66.66666666666666
+12545,26622105,361017.62,170064.37,Platanus x acerifolia Pyramida,Plane,London plane cultivar,Platanus x acerifolia Pyramida,0.23,deciduous,10.0,33.33333333333333
+12546,26622106,360922.28,170000.8,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.49,deciduous,150.05,1600.5333333333333
+12547,26622107,360912.07,169985.37,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.42,deciduous,150.05,1400.4666666666667
+12548,26622108,360905.11,169983.74,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.44,deciduous,150.05,1500.5
+12549,26622109,360905.0,169976.09,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.35,deciduous,60.05,360.29999999999995
+12550,26622110,360912.65,170022.6,Tilia x euchlora,Lime,Crimean lime,Tilia x euchlora,0.28,deciduous,60.05,280.2333333333333
+12551,26622111,360918.34,170022.36,Tilia x euchlora,Lime,Crimean lime,Tilia x euchlora,0.26,deciduous,60.05,360.29999999999995
+13523,26623098,359010.09,173581.17,Acer platanoides,Maple,Norway maple,Acer platanoides,0.4,deciduous,60.05,440.3666666666666
+13524,26623099,358965.66,173597.47,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.31,deciduous,60.05,400.3333333333333
+13525,26623100,358963.47,173592.8,Acer platanoides,Maple,Norway maple,Acer platanoides,0.42,deciduous,60.05,440.3666666666666
+13526,26623101,358918.66,173595.35,Acer platanoides,Maple,Norway maple,Acer platanoides,0.5,deciduous,150.05,1200.4
+13527,26623102,358808.84,173578.08,Alnus incana Laciniata,Alder,Cutleaf grey alder,Alnus incana Laciniata,0.21,deciduous,10.0,60.0
+13528,26623103,358792.01,173568.1,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.62,deciduous,275.05,1650.3000000000002
+13529,26623104,358850.11,173581.79,Alnus glutinosa Laciniata,Alder,Cutleaf black alder,Alnus glutinosa Laciniata,0.23,deciduous,49.09629465278378,98.19258930556755
+13530,26623105,358924.34,173576.07,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.18,deciduous,21.14698317127688,42.29396634255376
+13531,26623106,358954.59,173592.22,Acer platanoides,Maple,Norway maple,Acer platanoides,0.4,deciduous,60.05,440.3666666666666
+13534,26623109,358867.68,173578.63,Acer platanoides,Maple,Norway maple,Acer platanoides,0.3540132486889318,deciduous,89.5033695459115,544.3434436376498
+14856,26624436,359369.39,174059.84,Tilia x euchlora,Lime,Crimean lime,Tilia x euchlora,0.28,deciduous,60.05,320.26666666666665
+14857,26624437,359304.58,174145.14,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.17,deciduous,10.0,20.0
+14858,26624438,359303.94,174146.83,Betula pendula 'Fastigiata Joe,Silver Birch,,Betula pendula 'Fastigiata Joe,0.06,deciduous,2.8045902645908924,2.9041047316020596
+15741,26625327,358432.76,173475.79,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.4,deciduous,60.05,520.4333333333333
+15742,26625328,358437.74,173468.51,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.65,deciduous,60.05,600.5
+15783,26625369,360668.05,170162.03,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.06,deciduous,2.4152713188738577,4.099666834014899
+15786,26625372,360657.3,170140.86,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,360.29999999999995
+15787,26625373,360639.33,170125.47,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,320.26666666666665
+15788,26625374,360626.06,170113.25,Tilia x europea,Lime,European lime,Tilia x europea,0.5700000000000001,deciduous,60.05,360.29999999999995
+15791,26625377,360630.17,170131.11,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.05,deciduous,10.0,40.0
+15792,26625378,360652.48,170150.6,Tilia x europea,Lime,European lime,Tilia x europea,0.53,deciduous,60.05,360.29999999999995
+15793,26625379,360683.01,170170.69,Tilia x europea,Lime,European lime,Tilia x europea,0.59,deciduous,60.05,360.29999999999995
+15794,26625380,360699.22,170178.2,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,60.05,400.3333333333333
+15795,26625381,360718.07,170185.78,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.16,deciduous,10.0,33.33333333333333
+15796,26625382,360784.48,170209.56,Tilia x europea,Lime,European lime,Tilia x europea,0.45,deciduous,60.05,280.2333333333333
+15797,26625383,360794.19,170214.33,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.17,deciduous,10.0,26.666666666666664
+15800,26625386,360753.25,170186.77,Tilia x europea,Lime,European lime,Tilia x europea,0.51,deciduous,60.05,320.26666666666665
+15801,26625387,360739.03,170181.85,Tilia x europea,Lime,European lime,Tilia x europea,0.53,deciduous,60.05,320.26666666666665
+15802,26625388,360721.3,170176.21,Tilia x europea,Lime,European lime,Tilia x europea,0.5700000000000001,deciduous,60.05,320.26666666666665
+15803,26625389,360704.04,170168.92,Tilia x europea,Lime,European lime,Tilia x europea,0.5700000000000001,deciduous,60.05,360.29999999999995
+15804,26625390,360687.95,170161.52,Tilia x europea,Lime,European lime,Tilia x europea,0.6,deciduous,60.05,360.29999999999995
+15805,26625391,360671.39,170151.77,Tilia x europea,Lime,European lime,Tilia x europea,0.55,deciduous,60.05,360.29999999999995
+15844,26625431,360788.12,170199.81,Tilia x europea,Lime,European lime,Tilia x europea,0.46,deciduous,60.05,280.2333333333333
+15845,26625432,360772.74,170193.23,Tilia x europea,Lime,European lime,Tilia x europea,0.45,deciduous,60.05,280.2333333333333
+15931,26625520,357867.01,170593.64,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.05,deciduous,10.0,20.0
+15932,26625521,357870.47,170597.6,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.28,deciduous,60.05,280.2333333333333
+15933,26625522,357864.19,170607.35,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.05,deciduous,10.0,20.0
+18730,26628332,361119.57,170072.58,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.95,deciduous,445.9854894232007,5351.825873078408
+18826,26628428,360618.21,170021.94,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.24,deciduous,60.05,160.13333333333333
+18827,26628429,360636.59,170031.94,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.47,deciduous,60.05,320.26666666666665
+18828,26628430,360641.01,170034.16,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.38,deciduous,60.05,320.26666666666665
+22505,26632134,359644.27,173651.68,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,150.05,900.3
+24568,26634219,359570.83,173918.47,Platanus x acerifolia,Plane,Unidentified plane,Platanus x acerifolia,0.8300000000000001,deciduous,275.05,2567.133333333333
+24569,26634220,359570.0,173941.94,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.12,deciduous,60.05,240.19999999999996
+24570,26634221,359571.94,173941.23,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.12,deciduous,10.0,20.0
+24571,26634222,359566.13,173938.09,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.12,deciduous,10.0,26.666666666666664
+24888,26634540,359437.24,173550.85,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24889,26634541,359426.53,173544.61,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24890,26634542,359417.71,173540.96,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24891,26634543,359531.06,173571.96,No Code Allocated,,,No Code Allocated,0.305455333429082,deciduous,82.17740537522903,445.46452042512533
+24892,26634544,359505.99,173562.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.35,deciduous,77.16706664805207,514.4471109870137
+24893,26634545,359496.15,173557.46,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.35,deciduous,77.16706664805207,514.4471109870137
+24896,26634548,359542.22,173542.51,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.06,deciduous,2.397266962874267,0.5229092203502509
+24897,26634549,359555.5,173616.8,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24898,26634550,359547.02,173610.91,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24899,26634551,359538.77,173605.45,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24900,26634552,359479.93,173566.72,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24901,26634553,359465.4,173558.92,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+24902,26634554,359562.57,173623.69,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.08,deciduous,10.0,26.666666666666664
+25544,26635199,358714.44,172970.64,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.32,deciduous,60.05,240.19999999999996
+25545,26635200,358707.54,172964.83,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.39,deciduous,150.05,1600.5333333333333
+25546,26635201,358699.43,172961.65,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.53,deciduous,150.05,1700.5666666666668
+25547,26635202,358693.08,172957.93,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.36,deciduous,60.05,240.19999999999996
+25548,26635203,358688.33,172961.62,Taxus baccata,Yew,Yew,Taxus baccata,0.1,evergreen,3.6993034976464174,4.471921340435745
+25549,26635204,358684.31,172963.08,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.32,deciduous,60.05,400.3333333333333
+25550,26635205,358682.56,172968.88,Taxus baccata,Yew,Yew,Taxus baccata,0.2,evergreen,60.05,100.08333333333333
+25551,26635206,358696.36,172966.36,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.35,deciduous,60.05,400.3333333333333
+27543,26637226,363118.56,175729.2,X Cupressocyparis l. Castlewel,Cypress,Leylandcypress cultivar,X Cupressocyparis l. Castlewel,0.41,evergreen,60.05,200.16666666666666
+27544,26637227,363055.75,175803.45,Malus John Downie,Apple,Crabapple,Malus John Downie,0.18,deciduous,10.0,26.666666666666664
+27545,26637228,363072.87,175790.07,Acer campestre,Field Maple,Field maple,Acer campestre,0.17,deciduous,60.05,200.16666666666666
+27546,26637230,363095.22,175752.71,Morus nigra,Mulberry,Black mulberry,Morus nigra,0.15,deciduous,60.05,240.19999999999996
+27547,26637231,363113.81,175743.2,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.29,deciduous,60.05,280.2333333333333
+27548,26637232,363118.31,175725.58,X Cupressocyparis l. Castlewel,Cypress,Leylandcypress cultivar,X Cupressocyparis l. Castlewel,0.27,evergreen,60.05,200.16666666666666
+27549,26637233,363120.96,175723.77,Chamaecyparis lawsoniana cv,Cypress,Lawson's cypress cultivar,Chamaecyparis lawsoniana cv,0.25,evergreen,60.05,160.13333333333333
+27550,26637234,363099.75,175723.29,Prunus avium,Cherry,Wild cherry,Prunus avium,0.36,deciduous,60.05,320.26666666666665
+27551,26637236,363112.89,175717.62,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.05,deciduous,10.0,26.666666666666664
+27552,26637237,363109.15,175711.11,Corylus colurna,Hazel,Turkish hazel,Corylus colurna,0.06,deciduous,10.0,33.33333333333333
+27553,26637238,363106.5,175714.97,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.09,deciduous,10.0,26.666666666666664
+27554,26637239,363104.93,175711.71,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.04,deciduous,10.0,20.0
+27555,26637240,363103.12,175702.91,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.88,deciduous,150.05,1300.4333333333334
+27556,26637241,363096.62,175701.47,Fagus sylvatica Pendula,Weeping Beech,Weeping beech,Fagus sylvatica Pendula,0.3,deciduous,60.05,320.26666666666665
+27557,26637242,363076.37,175688.81,Quercus ilex,Oak,Holm oak,Quercus ilex,0.84,deciduous,150.05,1200.4
+27558,26637243,363055.87,175715.93,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.21,deciduous,60.05,480.3999999999999
+27559,26637244,363053.1,175725.82,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.14,deciduous,60.05,400.3333333333333
+27560,26637245,363052.13,175729.8,Acer platanoides,Maple,Norway maple,Acer platanoides,0.17,deciduous,60.05,200.16666666666666
+27561,26637246,363037.67,175733.66,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.11,deciduous,60.05,240.19999999999996
+27562,26637247,363033.81,175732.69,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.13,deciduous,60.05,240.19999999999996
+27563,26637248,363029.24,175731.61,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.11,deciduous,60.05,240.19999999999996
+27564,26637249,363024.05,175730.28,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.1,deciduous,10.0,33.33333333333333
+27565,26637250,363000.67,175732.33,Sorbus - Species Unknown,Sorbus,Unidentified Sorbus,Sorbus - Species Unknown,0.1,deciduous,10.0,20.0
+27566,26637251,363001.88,175728.78,Mixed Species Group,,,Mixed Species Group,0.305455333429082,deciduous,79.50364575536493,212.00972201430648
+27567,26637252,362991.99,175789.1,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.19,deciduous,60.05,360.29999999999995
+27568,26637253,363017.3,175803.33,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.07,deciduous,60.05,160.13333333333333
+27569,26637254,363036.71,175796.7,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.15,deciduous,60.05,200.16666666666666
+27570,26637255,363035.62,175811.04,Acer campestre,Field Maple,Field maple,Acer campestre,0.15,deciduous,60.05,200.16666666666666
+27571,26637256,363046.47,175810.8,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.1,deciduous,60.05,240.19999999999996
+27572,26637257,363050.57,175807.3,Mixed Species Group,,,Mixed Species Group,0.19,deciduous,60.05,160.13333333333333
+27573,26637258,363051.29,175802.73,Malus John Downie,Apple,Crabapple,Malus John Downie,0.17,deciduous,60.05,160.13333333333333
+27574,26637259,363019.83,175729.8,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.1,deciduous,10.0,33.33333333333333
+27575,26637260,363034.05,175808.38,Acer campestre,Field Maple,Field maple,Acer campestre,0.15,deciduous,60.05,240.19999999999996
+27576,26637261,363105.36,175747.64,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.11,deciduous,10.0,20.0
+27577,26637262,363112.4,175712.44,Acer platanoides,Maple,Norway maple,Acer platanoides,0.06,deciduous,10.0,33.33333333333333
+27578,26637263,363082.51,175698.1,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.08,deciduous,10.0,20.0
+27579,26637264,363052.13,175732.57,Acer campestre,Field Maple,Field maple,Acer campestre,0.13,deciduous,60.05,200.16666666666666
+27684,26637370,363121.69,175721.72,Chamaecyparis lawsoniana cv,Cypress,Lawson's cypress cultivar,Chamaecyparis lawsoniana cv,0.27,evergreen,60.05,200.16666666666666
+27685,26637371,363107.7,175738.83,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.08,deciduous,10.0,20.0
+28026,26637714,359429.51,173976.31,Prunus Amanogawa,Cherry,Japanese flowering cherry,Prunus Amanogawa,0.07,deciduous,10.0,26.666666666666664
+28027,26637715,359425.07,173972.24,Prunus Amanogawa,Cherry,Japanese flowering cherry,Prunus Amanogawa,0.06,deciduous,10.0,26.666666666666664
+28028,26637716,359421.88,173969.7,Prunus Amanogawa,Cherry,Japanese flowering cherry,Prunus Amanogawa,0.06,deciduous,10.0,26.666666666666664
+28029,26637717,359425.94,173973.27,Prunus sargentii 'Rancho',Sargent's cherry,Sargent's cherry,Prunus sargentii 'Rancho',0.06,deciduous,2.8045902645908924,2.9041047316020596
+28052,26637740,359413.27,173962.71,Prunus Amanogawa,Cherry,Japanese flowering cherry,Prunus Amanogawa,0.08,deciduous,10.0,26.666666666666664
+28053,26637741,359382.03,173941.42,Prunus Amanogawa,Cherry,Japanese flowering cherry,Prunus Amanogawa,0.05,deciduous,10.0,20.0
+28054,26637742,359372.28,173957.92,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.06,deciduous,10.0,20.0
+28055,26637743,359369.91,173961.08,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.05,deciduous,10.0,20.0
+30030,26639738,358825.9,173619.53,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.5700000000000001,deciduous,150.05,1400.4666666666667
+30035,26639743,358792.45,173591.35,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.24,deciduous,60.05,280.2333333333333
+30036,26639744,358800.58,173597.92,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.4,deciduous,60.05,400.3333333333333
+30037,26639745,358807.21,173602.27,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.3,deciduous,60.05,360.29999999999995
+30038,26639746,358814.28,173602.91,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.45,deciduous,60.05,480.3999999999999
+30039,26639747,358809.71,173609.54,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.42,deciduous,60.05,520.4333333333333
+30040,26639748,358815.14,173609.54,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.37,deciduous,60.05,480.3999999999999
+30041,26639749,358819.98,173620.67,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.35,deciduous,60.05,400.3333333333333
+30042,26639750,358829.69,173627.81,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.42,deciduous,150.05,1400.4666666666667
+30043,26639751,358834.75,173637.16,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.44,deciduous,150.05,1400.4666666666667
+30044,26639752,358846.45,173655.7,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.35,deciduous,60.05,440.3666666666666
+30045,26639753,358846.73,173659.41,Prunus avium,Cherry,Wild cherry,Prunus avium,0.5,deciduous,60.05,400.3333333333333
+30318,26640027,361107.54,169827.82,Larix decidua,Larch,European larch,Larix decidua,0.3,deciduous,60.05,320.26666666666665
+30319,26640028,361104.42,169826.48,Larix decidua,Larch,European larch,Larix decidua,0.22,deciduous,60.05,240.19999999999996
+30320,26640029,361004.98,169832.09,Larix decidua,Larch,European larch,Larix decidua,0.32,deciduous,150.05,1200.4
+30325,26640034,361032.62,169833.11,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.44,deciduous,150.05,1200.4
+30326,26640035,361027.93,169832.6,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.24,deciduous,60.05,400.3333333333333
+30327,26640036,361024.38,169832.6,Larix decidua,Larch,European larch,Larix decidua,0.21,deciduous,60.05,440.3666666666666
+30328,26640037,361017.15,169832.22,Larix decidua,Larch,European larch,Larix decidua,0.17,deciduous,60.05,240.19999999999996
+30329,26640038,361008.65,169832.22,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.31,deciduous,150.05,1200.4
+30330,26640039,361001.82,169831.46,Larix decidua,Larch,European larch,Larix decidua,0.27,deciduous,150.05,1200.4
+30331,26640040,360998.01,169831.46,Larix decidua,Larch,European larch,Larix decidua,0.18,deciduous,60.05,280.2333333333333
+30332,26640041,360991.42,169830.7,Larix decidua,Larch,European larch,Larix decidua,0.21,deciduous,60.05,320.26666666666665
+30333,26640042,360986.47,169830.19,Larix decidua,Larch,European larch,Larix decidua,0.33,deciduous,60.05,400.3333333333333
+30334,26640043,360983.81,169830.32,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.16,deciduous,60.05,280.2333333333333
+30335,26640044,360981.4,169830.57,Larix decidua,Larch,European larch,Larix decidua,0.36,deciduous,150.05,1300.4333333333334
+30336,26640045,360975.95,169830.07,Larix decidua,Larch,European larch,Larix decidua,0.34,deciduous,150.05,1000.3333333333333
+30337,26640046,360972.78,169829.81,Larix decidua,Larch,European larch,Larix decidua,0.25,deciduous,60.05,360.29999999999995
+30338,26640053,360960.47,169853.83,Larix decidua,Larch,European larch,Larix decidua,0.48,deciduous,60.05,360.29999999999995
+30339,26640054,360964.54,169858.97,Larix decidua,Larch,European larch,Larix decidua,0.36,deciduous,60.05,360.29999999999995
+30340,26640056,361110.04,169836.16,Acer platanoides,Maple,Norway maple,Acer platanoides,0.22,deciduous,60.05,240.19999999999996
+30341,26640057,361109.47,169841.6,Acer platanoides,Maple,Norway maple,Acer platanoides,0.22,deciduous,60.05,240.19999999999996
+30342,26640059,361098.55,169826.26,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.41,deciduous,60.05,400.3333333333333
+30343,26640061,361094.1,169826.64,Larix decidua,Larch,European larch,Larix decidua,0.25,deciduous,60.05,400.3333333333333
+30344,26640062,361091.45,169826.39,Larix decidua,Larch,European larch,Larix decidua,0.25,deciduous,60.05,360.29999999999995
+30345,26640063,361089.17,169826.64,Larix decidua,Larch,European larch,Larix decidua,0.32,deciduous,60.05,400.3333333333333
+30346,26640064,361085.99,169826.77,Larix decidua,Larch,European larch,Larix decidua,0.23,deciduous,60.05,240.19999999999996
+30347,26640065,361082.95,169826.64,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.25,deciduous,150.05,1200.4
+30348,26640066,361080.04,169826.52,Larix decidua,Larch,European larch,Larix decidua,0.19,deciduous,60.05,400.3333333333333
+30349,26640067,361077.0,169826.9,Larix decidua,Larch,European larch,Larix decidua,0.32,deciduous,60.05,400.3333333333333
+30350,26640068,361069.39,169827.91,Larix decidua,Larch,European larch,Larix decidua,0.26,deciduous,60.05,240.19999999999996
+30351,26640069,361066.47,169828.42,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.38,deciduous,150.05,1200.4
+30352,26640070,361063.56,169828.8,Larix decidua,Larch,European larch,Larix decidua,0.27,deciduous,60.05,240.19999999999996
+30353,26640071,361058.73,169829.56,Larix decidua,Larch,European larch,Larix decidua,0.22,deciduous,60.05,200.16666666666666
+30354,26640072,361049.61,169831.08,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.25,deciduous,60.05,480.3999999999999
+30355,26640073,361046.06,169831.72,Larix decidua,Larch,European larch,Larix decidua,0.29,deciduous,60.05,400.3333333333333
+30356,26640074,361043.52,169832.1,Larix decidua,Larch,European larch,Larix decidua,0.26,deciduous,60.05,240.19999999999996
+30357,26640075,361040.1,169832.73,Larix decidua,Larch,European larch,Larix decidua,0.26,deciduous,60.05,240.19999999999996
+30358,26640076,361036.3,169832.86,Larix decidua,Larch,European larch,Larix decidua,0.23,deciduous,60.05,200.16666666666666
+30359,26640077,360956.28,169861.24,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.85,deciduous,275.05,2567.133333333333
+30360,26640078,360952.75,169867.97,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.4,deciduous,60.05,280.2333333333333
+30361,26640079,360944.38,169867.97,Prunus laurocerasus,Laurel,Cherry Laurel,Prunus laurocerasus,0.14,evergreen,60.05,120.09999999999998
+30362,26640080,360929.77,169859.98,Populus nigra,Poplar,Black poplar,Populus nigra,0.6,deciduous,275.05,3667.333333333333
+30363,26640081,360928.73,169862.09,Populus nigra,Poplar,Black poplar,Populus nigra,0.7000000000000001,deciduous,275.05,4034.0666666666666
+30364,26640082,360927.79,169865.09,Populus nigra,Poplar,Black poplar,Populus nigra,0.7000000000000001,deciduous,150.05,1200.4
+30365,26640083,360946.5,169920.32,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.7000000000000001,deciduous,60.05,480.3999999999999
+30366,26640084,360925.21,169869.23,Populus nigra,Poplar,Black poplar,Populus nigra,0.81,deciduous,275.05,3667.333333333333
+30367,26640085,360949.16,169975.94,Populus nigra,Poplar,Black poplar,Populus nigra,0.93,deciduous,60.05,240.19999999999996
+30368,26640086,361055.19,169829.81,Larix decidua,Larch,European larch,Larix decidua,0.22,deciduous,60.05,240.19999999999996
+30369,26640088,360927.06,169867.71,Populus nigra,Poplar,Black poplar,Populus nigra,0.76,deciduous,275.05,4217.433333333333
+30370,26640089,360927.83,169972.74,Populus nigra,Poplar,Black poplar,Populus nigra,0.87,deciduous,528.55,8456.8
+30371,26640090,360924.04,169970.78,Populus nigra,Poplar,Black poplar,Populus nigra,0.87,deciduous,528.55,8456.8
+30372,26640091,360933.66,169974.37,Populus nigra,Poplar,Black poplar,Populus nigra,0.85,deciduous,275.05,4034.0666666666666
+30373,26640092,360938.59,169976.06,Populus nigra,Poplar,Black poplar,Populus nigra,0.96,deciduous,528.55,9866.266666666665
+30374,26640093,360923.65,169886.82,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30375,26640094,360934.01,169895.33,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30376,26640095,360925.3,169888.68,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30377,26640096,360925.99,169885.84,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30378,26640097,360930.19,169882.91,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30379,26640098,360935.57,169888.0,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30380,26640099,360931.46,169876.94,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30381,26640100,360937.33,169881.05,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30382,26640101,360933.13,169870.19,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30383,26640102,360938.6,169874.11,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30384,26640103,360940.95,169866.49,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30385,26640104,360954.85,169976.4,Populus nigra,Poplar,Black poplar,Populus nigra,0.87,deciduous,60.05,240.19999999999996
+30386,26640105,361124.45,169845.7,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30387,26640106,361139.6,169844.4,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30390,26640109,361151.0,169859.69,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30391,26640110,361145.17,169866.43,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30392,26640111,361152.95,169871.48,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30393,26640112,361152.69,169877.18,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.02,deciduous,10.0,20.0
+30394,26640113,361126.26,169830.41,Tilia x euchlora,Lime,Crimean lime,Tilia x euchlora,0.02,deciduous,10.0,20.0
+30456,26640175,361162.81,169911.83,Quercus robur,Oak,English oak,Quercus robur,1.12,deciduous,275.05,1650.3000000000002
+30457,26640176,361181.04,169916.58,Quercus robur,Oak,English oak,Quercus robur,0.06,deciduous,10.0,20.0
+30458,26640177,361177.4,169931.16,Quercus robur,Oak,English oak,Quercus robur,0.06,deciduous,10.0,20.0
+30466,26640185,361195.63,169959.24,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30467,26640186,361190.52,169967.26,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30468,26640187,361140.2,169914.75,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30469,26640188,361142.4,169923.87,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30470,26640189,361135.47,169924.96,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30471,26640190,361132.55,169916.21,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30472,26640191,361149.68,169887.77,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,20.0
+30473,26640192,360952.07,169877.38,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.45,deciduous,150.05,1000.3333333333333
+30474,26640193,361076.19,169835.09,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30475,26640194,361073.35,169832.07,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30476,26640195,361061.81,169831.28,Prunus padus,Cherry,Bird cherry,Prunus padus,0.09,deciduous,10.0,20.0
+30477,26640196,361059.85,169834.21,Prunus padus,Cherry,Bird cherry,Prunus padus,0.09,deciduous,10.0,20.0
+30478,26640197,361032.97,169835.19,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30479,26640198,361005.3,169835.09,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.09,deciduous,10.0,20.0
+30480,26640199,360995.32,169834.01,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.09,deciduous,10.0,20.0
+30481,26640200,361077.85,169832.75,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30482,26640201,360926.09,169926.72,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30483,26640202,360924.42,169933.96,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30484,26640203,360933.42,169935.72,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,20.0
+30485,26640204,360919.14,169929.56,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,20.0
+30486,26640205,360927.46,169921.05,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30487,26640206,360922.37,169917.82,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30488,26640207,360919.24,169914.88,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30489,26640208,360919.93,169912.05,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30490,26640209,360917.48,169912.73,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30491,26640210,360923.93,169910.58,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30492,26640211,360930.69,169909.21,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30493,26640212,360924.92,169904.52,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30494,26640213,360922.08,169902.08,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30495,26640214,360920.22,169900.32,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30496,26640215,360931.76,169902.77,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30497,26640216,360926.67,169897.39,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30498,26640217,360927.85,169891.13,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30499,26640218,360929.02,169914.88,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+30500,26640219,360922.76,169899.54,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.09,deciduous,10.0,33.33333333333333
+30501,26640220,361020.95,169832.35,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.24,deciduous,150.05,1200.4
+30502,26640221,360995.35,169830.83,Larix decidua,Larch,European larch,Larix decidua,0.28,deciduous,60.05,480.3999999999999
+30503,26640223,360943.8,169976.49,Populus nigra,Poplar,Black poplar,Populus nigra,0.95,deciduous,60.05,400.3333333333333
+30510,26640230,361173.38,169944.65,Quercus robur,Oak,English oak,Quercus robur,0.06,deciduous,10.0,20.0
+30511,26640231,360920.61,169923.59,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,26.666666666666664
+30513,26640233,361057.12,169832.07,Prunus padus,Cherry,Bird cherry,Prunus padus,0.09,deciduous,10.0,20.0
+30514,26640234,361038.64,169835.09,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30515,26640235,361035.9,169836.56,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.09,deciduous,10.0,20.0
+30782,26640502,359811.89,173439.27,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.21,deciduous,10.0,46.666666666666664
+30783,26640503,359777.19,173401.39,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.2,deciduous,10.0,40.0
+30784,26640504,359769.05,173393.25,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.21,deciduous,10.0,46.666666666666664
+30785,26640505,359757.25,173380.03,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.25,deciduous,10.0,46.666666666666664
+30786,26640506,359755.25,173377.68,Juniperus communis,Juniper,Common juniper,Juniperus communis,0.08,evergreen,10.0,13.333333333333332
+30787,26640507,359806.35,173367.2,Sambucus nigra,Elder,Elder,Sambucus nigra,0.08,deciduous,60.05,240.19999999999996
+30788,26640508,359798.91,173362.57,Salix - Species Unknown,Willow,Unidentified willow,Salix - Species Unknown,0.08,deciduous,60.05,240.19999999999996
+30789,26640509,359803.05,173362.57,Acer platanoides,Maple,Norway maple,Acer platanoides,0.32,deciduous,150.05,1100.3666666666668
+30790,26640510,359806.24,173369.29,Acer platanoides Drummondii,Maple,Norway maple 'Drummondii',Acer platanoides Drummondii,0.08,deciduous,10.0,26.666666666666664
+30791,26640511,359802.72,173372.82,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,10.0,26.666666666666664
+30817,26640539,359515.11,173085.47,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.75,deciduous,275.05,3117.2333333333336
+32617,26642350,358746.5,173724.04,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.42,deciduous,60.05,440.3666666666666
+32618,26642351,358760.99,173751.72,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.36,deciduous,60.05,440.3666666666666
+32619,26642352,358776.54,173741.17,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.48,deciduous,150.05,1400.4666666666667
+32620,26642353,358754.14,173741.74,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.46,deciduous,60.05,480.3999999999999
+32621,26642354,358750.64,173714.98,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.38,deciduous,60.05,400.3333333333333
+32622,26642355,358755.14,173708.28,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.42,deciduous,60.05,440.3666666666666
+32623,26642356,358762.27,173704.78,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.41,deciduous,60.05,440.3666666666666
+32624,26642357,358770.33,173703.93,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.45,deciduous,60.05,480.3999999999999
+32625,26642358,358777.68,173706.21,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.4,deciduous,60.05,440.3666666666666
+32626,26642359,358782.6,173709.56,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.4,deciduous,60.05,400.3333333333333
+32627,26642360,358775.9,173712.62,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.43,deciduous,60.05,440.3666666666666
+32628,26642361,358771.9,173720.19,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.29,deciduous,60.05,320.26666666666665
+32629,26642362,358777.04,173727.11,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.37,deciduous,60.05,400.3333333333333
+32630,26642363,358740.05,173698.17,Prunus Tai-haku,Cherry,Japanese flowering cherry,Prunus Tai-haku,0.15,deciduous,10.0,33.33333333333333
+32631,26642364,358730.86,173711.99,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.65,deciduous,150.05,1100.3666666666668
+32632,26642365,358729.88,173720.4,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.66,deciduous,150.05,1200.4
+32633,26642366,358731.72,173728.07,Prunus Tai-haku,Cherry,Japanese flowering cherry,Prunus Tai-haku,0.14,deciduous,10.0,20.0
+32634,26642367,358798.01,173722.68,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.41,deciduous,60.05,320.26666666666665
+32635,26642368,358785.31,173731.68,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.31,deciduous,60.05,400.3333333333333
+32636,26642369,358747.36,173732.67,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.44,deciduous,60.05,480.3999999999999
+34274,26644018,362917.58,175437.41,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.23,deciduous,47.18599756762115,377.4879805409692
+34275,26644019,363007.81,175489.87,Viburnum tinus,Viburnam,Viburnum,Viburnum tinus,0.14,deciduous,47.5375,174.30416666666667
+34280,26644024,363209.28,175531.27,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,599.5711955782352
+34285,26644029,363217.76,175531.99,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,599.5711955782352
+34286,26644030,363211.7,175530.48,Sambucus nigra,Elder,Elder,Sambucus nigra,0.2483333333333333,deciduous,36.1595549228223,192.8509595883856
+34287,26644031,363204.26,175529.75,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,599.5711955782352
+34288,26644032,363196.63,175529.47,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,599.5711955782352
+34289,26644033,363187.39,175528.65,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,599.5711955782352
+34290,26644034,363143.6,175524.31,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.214763121226196,deciduous,42.83990504852654,285.5993669901769
+34291,26644035,363136.22,175522.8,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.214763121226196,deciduous,42.83990504852654,228.47949359214152
+34292,26644036,363133.37,175522.49,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.44,deciduous,157.92067636146905,842.2436072611682
+34293,26644037,363129.27,175522.07,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.35,deciduous,104.5047743705082,557.3587966427103
+34294,26644038,363124.75,175521.33,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.32,deciduous,88.4829550649067,471.9090936795024
+34295,26644039,363123.16,175523.23,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.25,deciduous,55.40509910209366,295.49386187783284
+34296,26644040,363132.64,175522.0,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,2.8045902645908924,2.9041047316020596
+34297,26644041,363127.78,175522.06,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,2.8045902645908924,2.9041047316020596
+34298,26644042,363111.26,175519.92,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,2.8045902645908924,2.9041047316020596
+34299,26644043,363099.58,175516.71,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,2.8045902645908924,2.9041047316020596
+34306,26644050,363145.29,175517.4,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,10.0,26.666666666666664
+34307,26644051,363161.28,175516.91,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,10.0,26.666666666666664
+34308,26644052,363207.06,175521.37,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,10.0,26.666666666666664
+34330,26644074,363177.23,175527.07,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,374.731997236397
+34331,26644075,363153.53,175524.9,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.214763121226196,deciduous,42.83990504852654,285.5993669901769
+34332,26644076,363171.26,175527.33,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.4169710075284318,deciduous,112.41959917091911,374.731997236397
+34333,26644077,363176.77,175518.69,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,10.0,26.666666666666664
+34334,26644078,363195.74,175520.68,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,10.0,26.666666666666664
+35554,26645298,359524.18,173772.66,Prunus avium,Cherry,Wild cherry,Prunus avium,0.44,deciduous,150.05,1200.4
+35555,26645299,359508.89,173745.99,Prunus padus,Cherry,Bird cherry,Prunus padus,0.36,deciduous,60.05,400.3333333333333
+35556,26645300,359505.82,173755.92,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.66,deciduous,275.05,3483.9666666666662
+35557,26645301,359515.42,173766.45,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.37,deciduous,60.05,400.3333333333333
+35558,26645302,359551.05,173749.78,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.33,deciduous,60.05,480.3999999999999
+35559,26645303,359536.02,173743.6,Quercus robur,Oak,English oak,Quercus robur,0.05,deciduous,10.0,13.333333333333332
+35560,26645304,359557.51,173755.07,Araucaria araucana,Monkey Puzzle,Monkey puzzle,Araucaria araucana,0.05,evergreen,10.0,6.666666666666666
+35561,26645305,359572.4,173756.83,Tilia x europea,Lime,European lime,Tilia x europea,0.6900000000000001,deciduous,275.05,3850.7
+35562,26645306,359580.19,173760.59,Tilia x europea,Lime,European lime,Tilia x europea,0.71,deciduous,275.05,3850.7
+35563,26645307,359587.02,173763.37,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.59,deciduous,275.05,3667.333333333333
+35564,26645308,359546.19,173786.86,Prunus avium,Cherry,Wild cherry,Prunus avium,0.46,deciduous,150.05,1100.3666666666668
+35565,26645309,359582.55,173773.7,Tilia x europea,Lime,European lime,Tilia x europea,0.52,deciduous,275.05,3667.333333333333
+35566,26645310,359578.42,173780.41,Tilia x europea,Lime,European lime,Tilia x europea,0.59,deciduous,275.05,3667.333333333333
+35567,26645311,359539.92,173775.31,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.1,deciduous,10.0,40.0
+35568,26645312,359508.12,173745.05,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,1.270951453170266,2.1676543620783213
+35571,26645315,359536.3,173787.54,Fraxinus excelsior Diversifoli,Ash,Single-leafed ash ,Fraxinus excelsior Diversifoli,0.43,deciduous,150.05,1600.5333333333333
+35572,26645316,359529.74,173797.17,Tilia x europea,Lime,European lime,Tilia x europea,0.46,deciduous,150.05,1700.5666666666668
+36138,26645884,360748.64,170233.97,Acer pseudoplatanus Leopoldii,Sycamore,Sycamore 'Leopoldii',Acer pseudoplatanus Leopoldii,0.66,deciduous,275.05,2383.7666666666664
+36139,26645885,360736.9,170195.23,Pyrus communis,Pear,Common pear,Pyrus communis,0.39,deciduous,150.05,1100.3666666666668
+36140,26645886,360766.73,170233.5,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.54,deciduous,275.05,2933.866666666667
+36141,26645887,360759.24,170237.2,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.43,deciduous,150.05,1500.5
+36142,26645888,360750.05,170222.47,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.36,deciduous,60.05,320.26666666666665
+36143,26645889,360743.48,170226.45,Pyrus communis,Pear,Common pear,Pyrus communis,0.36,deciduous,60.05,320.26666666666665
+36144,26645890,360740.19,170231.15,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.34,deciduous,60.05,400.3333333333333
+36145,26645891,360734.84,170227.12,Pyrus communis,Pear,Common pear,Pyrus communis,0.33,deciduous,60.05,360.29999999999995
+36437,26646183,359699.83,173925.67,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.32,deciduous,60.05,240.19999999999996
+36438,26646184,359696.58,173927.89,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.19,deciduous,60.05,240.19999999999996
+36439,26646185,359699.83,173916.1,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.06,deciduous,10.0,26.666666666666664
+36440,26646186,359701.88,173898.82,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.07,deciduous,10.0,33.33333333333333
+36441,26646187,359705.31,173896.6,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.07,deciduous,10.0,33.33333333333333
+36442,26646188,359721.9,173897.45,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,10.0,26.666666666666664
+36443,26646189,359714.89,173885.99,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.07,deciduous,10.0,33.33333333333333
+36444,26646190,359752.51,173925.5,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.9,deciduous,150.05,900.3
+36446,26646192,359779.2,173988.96,Populus alba,Poplar,White poplar,Populus alba,0.66,deciduous,150.05,1400.4666666666667
+36447,26646193,359780.15,173986.55,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.42,deciduous,150.05,1400.4666666666667
+36448,26646194,359775.33,173992.8,Populus nigra,Poplar,Black poplar,Populus nigra,0.75,deciduous,275.05,3300.6000000000004
+36449,26646195,359751.02,173949.69,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8,deciduous,275.05,2933.866666666667
+36450,26646196,359749.73,173968.58,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.47,deciduous,150.05,1400.4666666666667
+36456,26646202,359734.69,174004.21,Populus nigra - Unkown Species,Poplar,Unidentified black poplar,Populus nigra - Unkown Species,0.56,deciduous,150.05,1200.4
+36457,26646203,359763.02,173997.56,Prunus avium,Cherry,Wild cherry,Prunus avium,0.68,deciduous,150.05,1100.3666666666668
+36458,26646204,359769.32,173984.91,Populus alba,Poplar,White poplar,Populus alba,0.5403364269141531,deciduous,60.05,400.3333333333333
+36459,26646205,359748.84,173962.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.61,deciduous,275.05,3300.6000000000004
+36462,26646208,359506.06,173888.01,Salix x sepulcralis chrysocoma,Willow,Golden weeping willow,Salix x sepulcralis chrysocoma,0.6,deciduous,150.05,1000.3333333333333
+36470,26646216,359525.81,173889.46,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.53,deciduous,150.05,1300.4333333333334
+36471,26646217,359521.82,173886.2,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.6,deciduous,150.05,1300.4333333333334
+36472,26646218,359521.46,173891.09,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.92,deciduous,150.05,1300.4333333333334
+36473,26646219,359511.56,173891.64,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.91,deciduous,275.05,2567.133333333333
+36474,26646220,359505.7,173867.55,Populus - Species Unknown,Poplar,Unidentified poplar,Populus - Species Unknown,1.22,deciduous,10.0,6.666666666666666
+36475,26646221,359496.32,173865.75,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.4219803278688524,deciduous,119.89169079720703,479.5667631888281
+36476,26646222,359492.36,173869.55,Acer platanoides Drummondii,Maple,Norway maple 'Drummondii',Acer platanoides Drummondii,0.33,deciduous,150.05,1000.3333333333333
+36477,26646223,359471.29,173902.69,Malus Golden Hornet,Apple,Crabapple,Malus Golden Hornet,0.15,deciduous,60.05,200.16666666666666
+36478,26646224,359538.29,173891.57,Prunus pissardii,Plum,Cherry plum,Prunus pissardii,0.27,deciduous,60.05,200.16666666666666
+36479,26646225,359541.99,173887.39,Prunus pissardii,Plum,Cherry plum,Prunus pissardii,0.39,deciduous,60.05,240.19999999999996
+36480,26646226,359537.39,173881.99,Prunus pissardii,Plum,Cherry plum,Prunus pissardii,0.27,deciduous,60.05,240.19999999999996
+36481,26646227,359538.8,173887.09,Prunus pissardii,Plum,Cherry plum,Prunus pissardii,0.25,deciduous,60.05,200.16666666666666
+36482,26646228,359533.14,173888.63,Prunus pissardii,Plum,Cherry plum,Prunus pissardii,0.37,deciduous,60.05,200.16666666666666
+36483,26646229,359534.84,173896.15,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.9,deciduous,150.05,1000.3333333333333
+36484,26646230,359527.3,173881.09,Acer platanoides,Maple,Norway maple,Acer platanoides,0.2,deciduous,60.05,240.19999999999996
+36485,26646231,359525.4,173878.78,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.16,deciduous,60.05,200.16666666666666
+36486,26646232,359528.03,173877.67,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.27,deciduous,60.05,200.16666666666666
+36487,26646233,359513.56,173869.79,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.1628802153432032,deciduous,10.0,26.666666666666664
+36488,26646234,359524.26,173872.34,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.2,deciduous,10.0,26.666666666666664
+36489,26646235,359506.39,173861.83,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.17,deciduous,60.05,120.09999999999998
+36490,26646236,359516.43,173864.65,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.15,deciduous,10.0,20.0
+36491,26646237,359515.89,173855.59,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.17,deciduous,60.05,120.09999999999998
+36492,26646238,359511.18,173857.8,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.17,deciduous,60.05,120.09999999999998
+36493,26646239,359508.73,173858.89,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.15,deciduous,60.05,120.09999999999998
+36494,26646240,359504.54,173858.54,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.14,deciduous,10.0,20.0
+36495,26646241,359505.32,173854.76,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.14,deciduous,10.0,6.666666666666666
+36496,26646242,359509.66,173854.6,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.2,deciduous,10.0,20.0
+36497,26646243,359508.82,173850.2,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.16,deciduous,10.0,20.0
+36498,26646244,359521.52,173820.37,Corylus avellana,Hazel,Hazel,Corylus avellana,0.1533333333333333,deciduous,60.05,160.13333333333333
+36499,26646245,359524.11,173815.2,Salix fragilis,Willow,Crack willow,Salix fragilis,0.88,deciduous,150.05,900.3
+36500,26646246,359527.77,173810.79,Alnus glutinosa,Alder,Black alder,Alnus glutinosa,0.21,deciduous,60.05,240.19999999999996
+36501,26646247,359541.92,173814.47,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.35,deciduous,10.0,20.0
+36502,26646248,359549.52,173819.76,Alnus glutinosa,Alder,Black alder,Alnus glutinosa,0.2,deciduous,60.05,240.19999999999996
+36503,26646249,359538.87,173812.76,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.2,evergreen,10.0,16.666666666666664
+36504,26646250,359549.52,173819.76,Alnus glutinosa,Alder,Black alder,Alnus glutinosa,0.22,deciduous,10.0,53.33333333333333
+36505,26646251,359559.57,173830.87,Alnus glutinosa,Alder,Black alder,Alnus glutinosa,0.16,deciduous,60.05,320.26666666666665
+36506,26646252,359554.25,173828.89,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.45,deciduous,150.05,800.2666666666667
+36507,26646253,359550.9,173837.72,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.26,deciduous,60.05,320.26666666666665
+36508,26646254,359544.2,173834.37,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.65,deciduous,150.05,1100.3666666666668
+36509,26646255,359538.42,173832.39,Juniperus squamata,Juniper,Flaky juniper,Juniperus squamata,0.17,evergreen,60.05,120.09999999999998
+36510,26646256,359533.85,173845.94,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.11,deciduous,60.05,160.13333333333333
+36511,26646257,359531.11,173843.05,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.29,evergreen,10.0,3.333333333333333
+36512,26646258,359538.11,173848.53,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.26,evergreen,10.0,3.333333333333333
+36513,26646259,359535.78,173898.39,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.5,deciduous,150.05,1200.4
+36701,26646451,358926.77,173025.93,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.67,deciduous,150.05,1500.5
+36702,26646452,358926.54,173033.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.3,deciduous,60.05,320.26666666666665
+36718,26646468,358722.45,173134.01,Acer platanoides cv,Maple,Norway maple cultivar,Acer platanoides cv,0.24,deciduous,60.05,480.3999999999999
+38294,26648057,358568.01,172828.66,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.17,deciduous,60.05,280.2333333333333
+38296,26648059,358565.0,172803.48,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.37,deciduous,150.05,800.2666666666667
+38297,26648060,358566.36,172816.08,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.38,deciduous,150.05,800.2666666666667
+38298,26648061,358569.33,172841.57,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.35,deciduous,150.05,800.2666666666667
+38299,26648062,358581.77,172913.8,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.36,deciduous,150.05,800.2666666666667
+38300,26648063,358584.73,172925.55,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.38,deciduous,150.05,800.2666666666667
+38301,26648064,358587.83,172938.35,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.35,deciduous,150.05,800.2666666666667
+38302,26648065,358615.58,172980.52,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.15,deciduous,60.05,200.16666666666666
+38303,26648066,358605.11,172956.4,Platanus - Species Unknown,Plane,Unidentified plane,Platanus - Species Unknown,0.5775173928963749,deciduous,196.3076778986982,1758.8031838574716
+38304,26648067,358598.42,172934.72,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.25,deciduous,150.05,800.2666666666667
+38305,26648068,358596.56,172926.13,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.26,deciduous,150.05,800.2666666666667
+38306,26648069,358593.0,172912.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.3,deciduous,150.05,800.2666666666667
+38307,26648070,358597.22,172871.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.21,deciduous,150.05,800.2666666666667
+38308,26648071,358572.67,172880.59,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.12,deciduous,12.39546621179074,16.52728828238765
+38309,26648072,358597.33,172966.07,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.9,deciduous,377.7512949307859,5540.352325651526
+38310,26648073,358602.92,172980.97,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.9,deciduous,377.7512949307859,5540.352325651526
+38311,26648074,358570.23,172855.37,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.12,deciduous,9.540406671654324,19.080813343308648
+38312,26648075,358661.45,173015.0,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38313,26648076,358653.78,173003.5,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38314,26648077,358633.13,173000.66,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38315,26648078,358670.25,173029.5,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38316,26648079,358676.5,173037.12,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38317,26648080,358681.79,173045.98,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.1,deciduous,9.76097741298083,13.014636550641107
+38318,26648081,358636.68,173053.9,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.1,deciduous,9.830250286317868,13.107000381757157
+38319,26648082,358639.93,173051.43,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38320,26648083,358656.44,173040.07,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38321,26648084,358651.46,173042.67,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38322,26648085,358642.99,173059.64,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38323,26648086,358661.59,173049.14,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.13,deciduous,16.45167328821358,21.935564384284774
+38324,26648087,358667.72,173059.44,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38325,26648088,358647.86,173069.94,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.13,deciduous,16.45167328821358,21.935564384284774
+38326,26648089,358593.79,172956.39,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.9,deciduous,377.7512949307859,5540.352325651526
+38327,26648090,358653.76,173078.24,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38328,26648091,358656.51,173074.1,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38329,26648092,358660.13,173091.53,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.1,deciduous,7.763086407383792,10.350781876511721
+38330,26648093,358678.52,173113.96,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.1,deciduous,7.763086407383792,10.350781876511721
+38331,26648094,358690.41,173107.63,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.1,deciduous,7.763086407383792,10.350781876511721
+38332,26648095,358682.35,173081.23,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.1,deciduous,7.763086407383792,10.350781876511721
+38333,26648096,358672.65,173067.52,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,8.431437773070298
+38334,26648097,358665.22,173068.8,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.1,deciduous,9.830250286317868,13.107000381757157
+38335,26648098,359443.82,173698.44,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.66,deciduous,275.05,3117.2333333333336
+38336,26648099,359443.48,173725.11,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.21,deciduous,60.05,280.2333333333333
+38337,26648100,359444.17,173721.5,Prunus padus,Cherry,Bird cherry,Prunus padus,0.33,deciduous,60.05,400.3333333333333
+38338,26648101,359445.37,173711.52,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.4082701812191103,deciduous,275.05,3667.333333333333
+38339,26648102,359440.38,173693.28,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.35,deciduous,60.05,360.29999999999995
+38340,26648103,359434.7,173688.46,Prunus padus,Cherry,Bird cherry,Prunus padus,0.41,deciduous,60.05,360.29999999999995
+38341,26648104,359419.36,173683.33,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.78,deciduous,275.05,2933.866666666667
+38342,26648105,359411.44,173684.88,Prunus padus,Cherry,Bird cherry,Prunus padus,0.31,deciduous,60.05,360.29999999999995
+38343,26648106,359406.5,173687.55,Prunus padus,Cherry,Bird cherry,Prunus padus,0.29,deciduous,60.05,360.29999999999995
+38344,26648107,359400.31,173692.8,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.8300000000000001,deciduous,275.05,2933.866666666667
+38345,26648108,359393.68,173700.81,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.39,deciduous,60.05,280.2333333333333
+38346,26648109,359389.26,173711.17,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.41,deciduous,60.05,320.26666666666665
+38347,26648110,359387.03,173722.01,Crataegus laevigata 'Paul's Sc,Hawthorn,Midland hawthorn cultivar,Crataegus laevigata 'Paul's Sc,0.24,deciduous,60.05,280.2333333333333
+38348,26648111,359395.98,173746.11,Prunus padus,Cherry,Bird cherry,Prunus padus,0.43,deciduous,150.05,1000.3333333333333
+38349,26648112,359424.14,173749.2,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5775173928963749,deciduous,275.05,3667.333333333333
+38350,26648113,359429.2,173745.43,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.53,deciduous,150.05,1500.5
+38351,26648114,359434.53,173740.26,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.38,deciduous,60.05,320.26666666666665
+38352,26648115,359438.65,173735.1,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.28,deciduous,60.05,240.19999999999996
+38353,26648116,359427.5,173696.0,Tilia x europea,Lime,European lime,Tilia x europea,0.97,deciduous,275.05,3850.7
+38354,26648117,359422.14,173705.84,Prunus avium,Cherry,Wild cherry,Prunus avium,0.39,deciduous,60.05,440.3666666666666
+38355,26648118,359414.64,173704.79,Prunus avium,Cherry,Wild cherry,Prunus avium,0.42,deciduous,60.05,440.3666666666666
+38356,26648119,359417.66,173711.52,Prunus avium,Cherry,Wild cherry,Prunus avium,0.55,deciduous,150.05,1300.4333333333334
+38357,26648120,359400.96,173723.74,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.4082701812191103,deciduous,275.05,3667.333333333333
+38358,26648121,359405.79,173732.0,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.4082701812191103,deciduous,275.05,3667.333333333333
+38359,26648122,359405.95,173739.23,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.8,deciduous,275.05,3667.333333333333
+38360,26648123,359414.21,173738.37,Tilia - Species Unknown,Lime,Unidentified lime,Tilia - Species Unknown,0.8,deciduous,275.05,4034.0666666666666
+38361,26648124,359390.1,173738.57,Crataegus laev 'Crimson Cloud',Hawthorn,,Crataegus laev 'Crimson Cloud',0.06,deciduous,2.8045902645908924,2.9041047316020596
+39881,26649652,359391.96,173117.31,Quercus robur,Oak,English oak,Quercus robur,0.25,deciduous,60.05,320.26666666666665
+39886,26649657,359385.51,173118.14,Acer platanoides Goldsworth Pu,Maple,Norway maple 'Goldsworth Purpl,Acer platanoides Goldsworth Pu,0.36,deciduous,60.05,280.2333333333333
+39887,26649658,359388.18,173121.68,Quercus robur,Oak,English oak,Quercus robur,0.25,deciduous,60.05,400.3333333333333
+39888,26649659,359405.29,173129.2,Tilia x europea,Lime,European lime,Tilia x europea,0.4,deciduous,275.05,2383.7666666666664
+39889,26649660,359388.12,173139.92,Quercus robur,Oak,English oak,Quercus robur,0.18,deciduous,60.05,160.13333333333333
+39890,26649661,359393.77,173143.99,Picea - Unknown Species,Spruce,Unidentified spruce,Picea - Unknown Species,0.11,evergreen,10.0,10.0
+39891,26649662,359407.04,173142.66,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.35,evergreen,60.05,180.14999999999998
+39892,26649663,359414.68,173148.77,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.2,evergreen,60.05,120.09999999999998
+39893,26649664,359409.61,173149.27,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.15,deciduous,60.05,320.26666666666665
+39894,26649665,359405.29,173149.53,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.23,evergreen,60.05,160.13333333333333
+39895,26649666,359402.75,173153.84,Quercus robur,Oak,English oak,Quercus robur,0.31,deciduous,150.05,1000.3333333333333
+39896,26649667,359403.26,173157.14,Juglans regia,Walnut,Common walnut,Juglans regia,0.15,deciduous,60.05,280.2333333333333
+39897,26649668,359401.99,173161.97,Quercus robur,Oak,English oak,Quercus robur,0.11,deciduous,60.05,360.29999999999995
+39898,26649669,359397.92,173164.77,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,60.05,360.29999999999995
+39899,26649670,359401.73,173167.31,Quercus robur,Oak,English oak,Quercus robur,0.17,deciduous,60.05,360.29999999999995
+39900,26649671,359397.16,173169.6,Quercus robur,Oak,English oak,Quercus robur,0.33,deciduous,60.05,440.3666666666666
+39901,26649672,359387.12,173171.85,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.46,deciduous,275.05,2750.5
+39902,26649673,359385.69,173167.3,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.5,deciduous,150.05,1400.4666666666667
+39903,26649674,359398.17,173178.24,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.46,deciduous,150.05,1000.3333333333333
+39904,26649675,359395.13,173182.56,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.2,evergreen,60.05,120.09999999999998
+39905,26649676,359406.05,173182.94,Prunus avium,Cherry,Wild cherry,Prunus avium,0.52,deciduous,150.05,1200.4
+39906,26649677,359406.05,173190.3,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.35,deciduous,60.05,360.29999999999995
+39907,26649678,359397.16,173193.23,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.38,deciduous,60.05,320.26666666666665
+39908,26649679,359395.84,173195.57,Quercus robur,Oak,English oak,Quercus robur,0.25,deciduous,33.174145425921175,243.27706645675528
+39909,26649680,359356.76,173203.77,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.42,evergreen,60.05,200.16666666666666
+39910,26649681,359392.08,173207.58,Quercus robur,Oak,English oak,Quercus robur,0.32,deciduous,60.05,440.3666666666666
+39911,26649682,359368.4,173195.35,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.4,evergreen,60.05,160.13333333333333
+39912,26649683,359363.37,173199.19,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.46,deciduous,150.05,900.3
+39913,26649684,359351.08,173209.17,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.4,evergreen,60.05,200.16666666666666
+39914,26649685,359310.84,173199.48,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.6,deciduous,150.05,1300.4333333333334
+39915,26649686,359324.42,173218.76,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.34,deciduous,150.05,1000.3333333333333
+39916,26649687,359333.49,173198.63,Quercus x hispanica Lucombeana,Oak,Luccombe oak,Quercus x hispanica Lucombeana,0.45,deciduous,150.05,1100.3666666666668
+39917,26649688,359328.03,173203.24,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.47,deciduous,150.05,1100.3666666666668
+39918,26649689,359305.81,173198.41,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.62,deciduous,150.05,1200.4
+39919,26649690,359302.12,173195.44,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.35,deciduous,60.05,360.29999999999995
+39920,26649691,359327.74,173175.77,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.1080555555555555,deciduous,14.846957440687154,39.587722573792156
+39935,26649707,359311.08,173180.56,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.58,deciduous,150.05,1500.5
+39936,26649708,359310.34,173186.5,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.46,deciduous,150.05,1300.4333333333334
+39937,26649709,359325.73,173160.63,Ulmus x hollandica,Elm,Dutch elm cultivar,Ulmus x hollandica,0.75,deciduous,528.55,6342.599999999999
+39938,26649710,359313.06,173172.14,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.45,deciduous,150.05,1300.4333333333334
+39939,26649711,359315.09,173165.53,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.43,deciduous,150.05,900.3
+39945,26649717,359371.59,173149.95,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.5,deciduous,150.05,800.2666666666667
+39946,26649718,359316.49,173227.52,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.47,deciduous,10.0,53.33333333333333
+39947,26649719,359311.16,173215.08,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.56,deciduous,150.05,1200.4
+39950,26649722,359299.72,173219.4,Crataegus laevigata,Hawthorn,Midland hawthorn,Crataegus laevigata,0.2,deciduous,60.05,160.13333333333333
+39952,26649724,359382.8,173212.79,Quercus robur,Oak,English oak,Quercus robur,0.24,deciduous,60.05,360.29999999999995
+39953,26649725,359384.58,173211.26,Quercus robur,Oak,English oak,Quercus robur,0.24,deciduous,60.05,360.29999999999995
+39954,26649726,359381.28,173209.23,Quercus robur,Oak,English oak,Quercus robur,0.24,deciduous,60.05,360.29999999999995
+39955,26649727,359380.25,173212.53,Quercus robur,Oak,English oak,Quercus robur,0.24,deciduous,60.05,360.29999999999995
+39956,26649728,359388.9,173216.35,Quercus robur,Oak,English oak,Quercus robur,0.24,deciduous,60.05,360.29999999999995
+39957,26649729,359375.18,173215.08,Prunus avium,Cherry,Wild cherry,Prunus avium,0.71,deciduous,150.05,1000.3333333333333
+39958,26649730,359372.9,173221.43,Prunus avium,Cherry,Wild cherry,Prunus avium,0.55,deciduous,275.05,2383.7666666666664
+39959,26649731,359378.99,173223.45,Corylus colurna,Hazel,Turkish hazel,Corylus colurna,0.33,deciduous,150.05,1600.5333333333333
+39960,26649732,359373.4,173228.28,Corylus colurna,Hazel,Turkish hazel,Corylus colurna,0.34,deciduous,150.05,1600.5333333333333
+39961,26649733,359365.53,173225.74,Corylus colurna,Hazel,Turkish hazel,Corylus colurna,0.34,deciduous,150.05,1600.5333333333333
+39962,26649734,359367.05,173231.59,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39963,26649735,359363.24,173230.57,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39964,26649736,359362.73,173233.11,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39965,26649737,359356.38,173235.65,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39966,26649738,359351.81,173235.4,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39967,26649739,359358.41,173224.47,Quercus robur,Oak,English oak,Quercus robur,0.21,deciduous,60.05,400.3333333333333
+39968,26649740,359364.0,173221.43,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.16,deciduous,150.05,1200.4
+39969,26649741,359361.72,173228.03,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.16,deciduous,150.05,1200.4
+39970,26649742,359359.18,173232.6,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.16,deciduous,150.05,1200.4
+39971,26649743,359369.85,173226.76,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.16,deciduous,150.05,1200.4
+39972,26649744,359348.25,173232.6,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.29,deciduous,60.05,280.2333333333333
+39973,26649745,359344.44,173231.84,Quercus robur,Oak,English oak,Quercus robur,0.18,deciduous,60.05,440.3666666666666
+39974,26649746,359406.18,173176.46,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,60.05,480.3999999999999
+39975,26649747,359412.28,173175.44,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,60.05,480.3999999999999
+39976,26649748,359409.74,173170.36,Quercus robur,Oak,English oak,Quercus robur,0.15,deciduous,60.05,480.3999999999999
+39977,26649749,359418.37,173171.88,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.27,evergreen,60.05,180.14999999999998
+39978,26649750,359415.57,173164.51,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.26,evergreen,60.05,200.16666666666666
+39979,26649751,359410.75,173161.72,Prunus avium,Cherry,Wild cherry,Prunus avium,0.22,deciduous,60.05,400.3333333333333
+39980,26649752,359409.99,173155.87,Prunus avium,Cherry,Wild cherry,Prunus avium,0.47,deciduous,150.05,1000.3333333333333
+39981,26649753,359423.96,173130.47,Quercus robur,Oak,English oak,Quercus robur,0.2,deciduous,60.05,440.3666666666666
+39982,26649754,359420.41,173123.86,Quercus robur,Oak,English oak,Quercus robur,0.22,deciduous,60.05,440.3666666666666
+39987,26649759,359386.27,173178.97,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.58,deciduous,150.05,1100.3666666666668
+39988,26649760,359396.3,173180.42,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.31,evergreen,60.05,160.13333333333333
+39989,26649761,359392.9,173190.36,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.42,deciduous,60.05,280.2333333333333
+39990,26649762,359381.55,173196.69,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.45,deciduous,60.05,160.13333333333333
+39991,26649763,359342.41,173221.04,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.66,deciduous,150.05,900.3
+39992,26649764,359334.8,173219.28,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.2,deciduous,60.05,280.2333333333333
+39994,26649766,359322.56,173185.8,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.41,deciduous,60.05,400.3333333333333
+40008,26649780,359329.54,173185.21,Ulmus x hollandica,Elm,Dutch elm cultivar,Ulmus x hollandica,0.2,deciduous,39.25503439668426,130.8501146556142
+40010,26649782,359382.43,173143.63,Magnolia - Species Unknown,Magnolia,Unidentified magnolia,Magnolia - Species Unknown,0.2,deciduous,30.54463220513983,61.089264410279654
+40038,26649810,359398.94,173124.37,Tilia x europea,Lime,European lime,Tilia x europea,0.48,deciduous,150.05,1200.4
+40039,26649811,359392.92,173140.77,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.37,evergreen,60.05,160.13333333333333
+40040,26649812,359340.35,173205.48,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.44,deciduous,150.05,1100.3666666666668
+40042,26649814,359340.88,173230.82,Acer campestre,Field Maple,Field maple,Acer campestre,0.25,deciduous,150.05,1000.3333333333333
+40043,26649815,359411.51,173179.76,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.23,evergreen,60.05,200.16666666666666
+40629,26650410,358456.44,173258.63,Salix babylonica,Willow,Weeping willow,Salix babylonica,0.59,deciduous,275.05,2200.4
+40630,26650411,358489.48,173250.7,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.41,evergreen,60.05,260.21666666666664
+40631,26650412,358481.7,173211.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.81,deciduous,275.05,3117.2333333333336
+40632,26650413,358500.66,173243.07,Prunus serrula,Cherry,Tibetan cherry,Prunus serrula,0.14,deciduous,10.0,26.666666666666664
+40633,26650414,358505.19,173241.03,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.14,deciduous,10.0,26.666666666666664
+40634,26650415,358509.43,173239.4,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.15,deciduous,10.0,26.666666666666664
+40635,26650416,358513.98,173237.65,Betula utilis,Birch,Himalayan birch,Betula utilis,0.15,deciduous,10.0,33.33333333333333
+40636,26650417,358521.42,173245.58,Prunus avium,Cherry,Wild cherry,Prunus avium,0.16,deciduous,60.05,160.13333333333333
+40637,26650418,358526.57,173251.74,Acer platanoides,Maple,Norway maple,Acer platanoides,0.44,deciduous,150.05,1100.3666666666668
+40638,26650419,358528.36,173255.89,Acer platanoides,Maple,Norway maple,Acer platanoides,0.31,deciduous,60.05,400.3333333333333
+40639,26650420,358515.15,173265.84,Betula pendula Dalecarlica,Birch,Swedish birch,Betula pendula Dalecarlica,0.25,deciduous,60.05,400.3333333333333
+40640,26650421,358510.21,173270.53,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.14,deciduous,10.0,20.0
+40641,26650422,358501.73,173280.23,Corylus avellana,Hazel,Hazel,Corylus avellana,0.06,deciduous,10.0,20.0
+40642,26650423,358496.15,173285.92,Sorbus hupehensis,Rowan,Hupeh rowan,Sorbus hupehensis,0.15,deciduous,10.0,20.0
+40643,26650424,358494.35,173288.48,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.18,deciduous,60.05,160.13333333333333
+40644,26650425,358519.56,173277.31,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.37,deciduous,60.05,560.4666666666666
+40645,26650426,358522.17,173281.45,Prunus avium,Cherry,Wild cherry,Prunus avium,0.61,deciduous,60.05,640.5333333333333
+40646,26650427,358491.11,173230.49,Salix caprea,Willow,Goat willow,Salix caprea,0.51,deciduous,161.52703460054522,646.1081384021809
+40647,26650428,358511.55,173275.32,Tilia tomentosa,Lime,Silver lime,Tilia tomentosa,0.65,deciduous,150.05,1200.4
+40802,26650583,359289.86,173771.51,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.17,deciduous,10.0,26.666666666666664
+40803,26650584,359287.88,173778.22,Pittosporum tenuifolium,Pittosporum,Pittosporum,Pittosporum tenuifolium,0.3536009683311034,evergreen,75.25159014254479,75.25159014254479
+40804,26650585,359280.35,173759.91,Tilia - Species Unknown,Lime,European lime,Tilia - Species Unknown,0.22,deciduous,60.05,280.2333333333333
+40805,26650586,359287.13,173754.44,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.11,evergreen,10.0,13.333333333333332
+40806,26650587,359298.72,173738.94,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.3,deciduous,60.05,360.29999999999995
+40807,26650588,359310.97,173707.14,Tilia - Species Unknown,Lime,European lime,Tilia - Species Unknown,0.26,deciduous,60.05,320.26666666666665
+40808,26650589,359302.63,173704.4,Tilia - Species Unknown,Lime,European lime,Tilia - Species Unknown,0.25,deciduous,60.05,280.2333333333333
+40809,26650590,359298.2,173715.21,Tilia - Species Unknown,Lime,European lime,Tilia - Species Unknown,0.24,deciduous,60.05,480.3999999999999
+40810,26650591,359271.62,173737.7,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.21,deciduous,60.05,320.26666666666665
+40811,26650592,359266.02,173733.66,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.18,deciduous,60.05,320.26666666666665
+40812,26650593,359264.32,173738.61,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.19,deciduous,60.05,320.26666666666665
+40823,26650604,359302.77,173738.02,Acer capillipes,Maple,Kyushu maple,Acer capillipes,0.16,deciduous,20.99072443490335,83.9628977396134
+40824,26650605,359308.9,173724.88,Prunus serrula,Cherry,Tibetan cherry,Prunus serrula,0.2,deciduous,37.69522183791905,201.04118313556825
+40825,26650606,359313.46,173712.12,Salix caprea,Willow,Goat willow,Salix caprea,0.22,deciduous,33.31332764435677,168.60837111859337
+40827,26650608,359257.74,173733.61,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.2,deciduous,37.79892838941243,151.19571355764973
+40854,26650636,359575.98,173978.38,Betula pendula 'Obelisk',Birch,"Birch ""Obelisk""",Betula pendula 'Obelisk',0.09,deciduous,10.0,20.0
+40855,26650637,359580.91,173983.2,Betula pendula 'Obelisk',Birch,"Birch ""Obelisk""",Betula pendula 'Obelisk',0.1,deciduous,10.0,20.0
+40856,26650638,359586.06,173987.96,Betula pendula 'Obelisk',Birch,"Birch ""Obelisk""",Betula pendula 'Obelisk',0.09,deciduous,10.0,20.0
+40857,26650639,359590.51,173992.97,Betula pendula 'Obelisk',Birch,"Birch ""Obelisk""",Betula pendula 'Obelisk',0.11,deciduous,10.0,26.666666666666664
+41167,26650958,361175.9,171349.97,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.9,deciduous,275.05,3117.2333333333336
+41168,26650959,361181.33,171355.1,Acer platanoides,Maple,Norway maple,Acer platanoides,0.88,deciduous,275.05,3117.2333333333336
+41169,26650960,361189.48,171364.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.96,deciduous,275.05,3117.2333333333336
+41172,26650963,361198.53,171371.99,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.59,deciduous,275.05,2933.866666666667
+41173,26650964,361209.09,171384.67,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.7000000000000001,deciduous,150.05,1600.5333333333333
+41174,26650965,361200.94,171384.07,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.18,deciduous,60.05,160.13333333333333
+41175,26650966,361201.84,171388.6,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.16,deciduous,60.05,160.13333333333333
+41176,26650967,361173.95,171463.31,Robinia pseudoacacia Frisia,Acacia,False acacia cultivar,Robinia pseudoacacia Frisia,0.04,deciduous,1.0875759730351469,0.3356506663466121
+41177,26650968,361196.11,171398.56,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.65,deciduous,275.05,3117.2333333333336
+41178,26650969,361189.05,171420.48,Cedrus atlantica,Cedar,Atlas cedar,Cedrus atlantica,0.07,evergreen,2.383392637206868,2.193200872582487
+41179,26650970,361183.13,171424.51,Prunus sargentii,Cherry,Sargent's cherry,Prunus sargentii,0.24,deciduous,60.05,240.19999999999996
+41180,26650971,361184.35,171431.75,Prunus avium,Cherry,Wild cherry,Prunus avium,0.2,deciduous,60.05,240.19999999999996
+41181,26650972,361190.37,171434.17,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.68,deciduous,150.05,1400.4666666666667
+41182,26650973,361181.33,171468.42,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.6900000000000001,deciduous,275.05,2933.866666666667
+41183,26650974,361173.03,171472.64,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.22,evergreen,60.05,240.19999999999996
+41184,26650975,361170.92,171470.53,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.6,evergreen,60.05,280.2333333333333
+41185,26650976,361167.44,171467.06,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.38,evergreen,60.05,280.2333333333333
+41186,26650977,361162.92,171464.04,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.36,evergreen,60.05,240.19999999999996
+41187,26650978,361151.76,171452.8,Pinus ponderosa,Pine,Ponderosa pine,Pinus ponderosa,0.06,evergreen,1.9603783392251184,0.24805694217031543
+41188,26650979,361161.44,171381.55,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.06,deciduous,2.4152713188738577,4.099666834014899
+41189,26650980,361160.73,171379.33,Paulownia tomentosa,Foxglove Tree,Foxglove tree,Paulownia tomentosa,0.06,deciduous,2.8045902645908924,2.861496001911473
+41190,26650981,361161.86,171354.2,Crataegus - Species Unknown,Hawthorn,Unidentified hawthorn,Crataegus - Species Unknown,0.24,deciduous,10.0,26.666666666666664
+41191,26650982,361168.5,171343.33,Tilia x europea,Lime,European lime,Tilia x europea,0.65,deciduous,150.05,1400.4666666666667
+41192,26650983,361157.34,171335.78,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.93,deciduous,275.05,2933.866666666667
+41193,26650984,361148.58,171326.44,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.73,deciduous,275.05,2933.866666666667
+41194,26650985,361144.05,171321.0,Acer platanoides,Maple,Norway maple,Acer platanoides,0.73,deciduous,275.05,2933.866666666667
+41195,26650986,361132.14,171309.08,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.97,deciduous,275.05,3117.2333333333336
+41196,26650987,361112.67,171321.46,Tilia x europea,Lime,European lime,Tilia x europea,0.96,deciduous,275.05,3483.9666666666662
+41197,26650988,361116.75,171330.66,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.72,deciduous,275.05,3300.6000000000004
+41198,26650989,361109.05,171333.08,Tilia x europea,Lime,European lime,Tilia x europea,0.68,deciduous,275.05,3667.333333333333
+41199,26650990,361104.83,171344.24,Tilia x europea,Lime,European lime,Tilia x europea,1.02,deciduous,275.05,3667.333333333333
+41200,26650991,361107.09,171292.64,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.93,deciduous,275.05,2750.5
+41201,26650992,361094.11,171288.71,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.89,deciduous,275.05,2750.5
+41202,26650993,361080.84,171282.53,Tilia x europea,Lime,European lime,Tilia x europea,0.8,deciduous,275.05,3117.2333333333336
+41223,26651014,360995.07,171345.27,Robinia pseudoacacia,Acacia,False acacia,Robinia pseudoacacia,0.13,deciduous,10.0,26.666666666666664
+41240,26651031,360926.45,171403.74,Tilia x europea,Lime,European lime,Tilia x europea,0.56,deciduous,150.05,1500.5
+41241,26651032,360925.11,171408.41,Tilia x europea,Lime,European lime,Tilia x europea,0.39,deciduous,150.05,1200.4
+41245,26651036,360957.83,171421.84,Acer platanoides,Maple,Norway maple,Acer platanoides,0.29,deciduous,60.05,320.26666666666665
+41246,26651037,360952.88,171430.4,Acer platanoides,Maple,Norway maple,Acer platanoides,0.35,deciduous,60.05,360.29999999999995
+41247,26651038,360959.57,171439.62,Acer platanoides,Maple,Norway maple,Acer platanoides,0.35,deciduous,60.05,360.29999999999995
+41248,26651039,360964.9,171464.72,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.07,deciduous,10.0,20.0
+41249,26651040,361011.88,171484.23,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.06,deciduous,2.4152713188738577,4.099666834014899
+41250,26651041,360966.53,171496.09,Tilia x europea,Lime,European lime,Tilia x europea,0.8300000000000001,deciduous,150.05,1600.5333333333333
+41251,26651042,360982.16,171491.68,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.75,deciduous,275.05,2750.5
+41252,26651043,360987.64,171490.35,Tilia x europea,Lime,European lime,Tilia x europea,0.8,deciduous,275.05,2750.5
+41253,26651044,360995.93,171488.34,Tilia x europea,Lime,European lime,Tilia x europea,0.52,deciduous,150.05,1400.4666666666667
+41254,26651045,360999.67,171487.27,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.89,deciduous,275.05,2750.5
+41255,26651046,361023.6,171481.21,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.6900000000000001,deciduous,275.05,2750.5
+41256,26651047,361054.21,171473.38,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.7000000000000001,deciduous,150.05,1400.4666666666667
+41257,26651048,361088.79,171465.07,Tilia x europea,Lime,European lime,Tilia x europea,0.76,deciduous,275.05,2933.866666666667
+41258,26651049,361101.22,171461.86,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.8,deciduous,275.05,2750.5
+41259,26651050,361132.72,171461.56,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.4,deciduous,275.05,2750.5
+41260,26651051,361136.87,171464.63,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.5,deciduous,150.05,1400.4666666666667
+41261,26651052,361142.21,171468.64,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.4,deciduous,150.05,1300.4333333333334
+41262,26651053,361145.82,171471.45,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.26,deciduous,150.05,1300.4333333333334
+41263,26651054,361149.96,171474.79,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.27,deciduous,150.05,1300.4333333333334
+41264,26651055,361153.84,171477.59,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.45,deciduous,275.05,2933.866666666667
+41265,26651056,361157.85,171480.39,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.38,deciduous,275.05,2933.866666666667
+41266,26651057,361160.79,171482.67,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.4,deciduous,275.05,2933.866666666667
+41267,26651058,361149.28,171425.08,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.2332533589251439,deciduous,60.05,280.2333333333333
+41268,26651059,361116.63,171422.89,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.09,deciduous,10.0,20.0
+41269,26651060,361116.18,171415.45,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.09,deciduous,10.0,20.0
+41270,26651061,361117.22,171408.45,Prunus avium Plena,Cherry,Double white cherry,Prunus avium Plena,0.09,deciduous,10.0,20.0
+41271,26651062,361123.33,171400.27,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,20.0
+41272,26651063,361130.77,171396.99,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,20.0
+41273,26651064,361137.62,171395.65,Acer campestre,Field Maple,Field maple,Acer campestre,0.09,deciduous,10.0,20.0
+41274,26651065,361137.62,171419.62,Quercus robur,Oak,English oak,Quercus robur,0.09,deciduous,10.0,20.0
+41288,26651079,361193.09,171365.67,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.39,deciduous,60.05,400.3333333333333
+41289,26651080,361204.26,171378.64,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.85,deciduous,275.05,2933.866666666667
+41290,26651081,361165.33,171465.7,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.32,evergreen,60.05,240.19999999999996
+41294,26651085,360977.35,171493.02,Tilia x europea,Lime,European lime,Tilia x europea,0.8,deciduous,275.05,3117.2333333333336
+41295,26651086,361119.66,171454.64,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,1.2,deciduous,275.05,2933.866666666667
+41297,26651088,361026.26,171309.12,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.1941304347826087,deciduous,38.35736252780788,155.5815098385792
+41298,26651089,361097.28,171404.11,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41299,26651090,361101.97,171400.94,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41300,26651091,361205.23,171405.32,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.305455333429082,deciduous,2.80459,2.9041043321066664
+41301,26651092,361155.05,171425.38,Corylus avellana,Hazel,Hazel,Corylus avellana,0.1533333333333333,deciduous,31.148969347409068,88.05589832178015
+41302,26651093,361208.19,171397.94,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.06,deciduous,2.8045902645908924,2.9041047316020596
+41304,26651095,361046.53,171343.49,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41305,26651096,361108.36,171408.95,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41306,26651097,361198.32,171424.12,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.06,deciduous,2.8045902645908924,2.9041047316020596
+41307,26651098,361187.9,171385.73,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.06,deciduous,2.8045902645908924,7.565196602875309
+41308,26651099,360949.52,171392.37,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.06,deciduous,2.8045902645908924,7.565196602875309
+41309,26651100,361129.85,171346.23,Quercus frainetto,Oak,Hungarian oak,Quercus frainetto,0.06,deciduous,1.954408476669983,2.962029984834877
+41310,26651101,361036.59,171472.74,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,3.593896579522947,8.579590388482538
+41311,26651102,361042.05,171460.09,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.06,deciduous,3.593896579522947,8.579590388482538
+41312,26651103,361017.49,171313.08,Metasequoia glyptostroboides,Dawn Redwood,Dawn redwood,Metasequoia glyptostroboides,0.06,deciduous,2.8045902645908924,7.565196602875309
+41315,26651106,361090.61,171395.75,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41316,26651107,361095.4,171390.9,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41317,26651108,361201.72,171415.14,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.06,deciduous,2.8045902645908924,2.9041047316020596
+41320,26651111,361000.02,171453.89,Parrotia persica,Ironwood,Persian ironwood,Parrotia persica,0.06,deciduous,2.8045902645908924,2.861496001911473
+41321,26651112,361011.28,171475.1,Liriodendron tulipifera Fastig,Tulip Tree,Tulip tree cultivar,Liriodendron tulipifera Fastig,0.1356,deciduous,20.997442227712423,62.9927940692239
+41322,26651113,361057.97,171358.14,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41323,26651114,361067.96,171368.39,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41324,26651115,361076.54,171365.07,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41325,26651116,361075.83,171378.07,Juglans nigra,Walnut,Black walnut,Juglans nigra,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41326,26651117,361103.52,171412.17,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41327,26651118,361165.89,171371.66,Paulownia tomentosa,Foxglove Tree,Foxglove tree,Paulownia tomentosa,0.0670689655172413,deciduous,3.1836432335161797,3.7629653127676677
+41328,26651119,361089.42,171382.74,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41329,26651120,361196.91,171424.74,Liquidambar styraciflua ’Worp',American sweetgum,American sweetgum,Liquidambar styraciflua ’Worp',0.305455333429082,deciduous,2.80459,2.9041043321066664
+41335,26651126,361031.06,171325.54,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41336,26651127,361056.34,171338.01,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41337,26651128,361083.44,171387.04,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41338,26651129,361187.06,171388.23,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.06,deciduous,1.270951453170266,2.1676543620783213
+41339,26651130,361013.09,171456.2,Parrotia persica,Ironwood,Persian ironwood,Parrotia persica,0.06,deciduous,2.8045902645908924,2.861496001911473
+41397,26651188,361065.99,171351.38,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41398,26651189,361040.75,171319.91,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+41399,26651190,361083.19,171373.37,Juglans regia,Walnut,Common walnut,Juglans regia,0.2323333333333333,deciduous,52.4840971378605,214.21390763537602
+42068,26651861,361111.68,170162.65,Populus alba,Poplar,White poplar,Populus alba,0.5403364269141531,deciduous,159.95172661770152,1567.1257586955367
+42723,26652524,358632.92,173035.94,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.38,deciduous,528.55,7752.066666666666
+42724,26652525,358646.27,173028.82,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.41,deciduous,528.55,7752.066666666666
+42850,26652651,358103.93,170624.21,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.3,deciduous,60.05,280.2333333333333
+42851,26652652,358105.74,170620.39,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.3,deciduous,150.05,1300.4333333333334
+42852,26652653,358107.01,170615.49,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.32,deciduous,150.05,1300.4333333333334
+42853,26652654,358104.29,170611.31,Robinia pseudoacacia,Acacia,False acacia,Robinia pseudoacacia,0.67,deciduous,275.05,2750.5
+42854,26652655,358101.2,170605.86,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.47,deciduous,275.05,2933.866666666667
+42855,26652656,358105.2,170613.49,Robinia pseudoacacia,Acacia,False acacia,Robinia pseudoacacia,0.51,deciduous,150.05,1400.4666666666667
+42856,26652657,358102.29,170608.22,Carpinus betulus,Hornbeam,Hornbeam,Carpinus betulus,0.42,deciduous,150.05,1200.4
+42857,26652658,358096.84,170598.6,Prunus avium,Cherry,Wild cherry,Prunus avium,0.47,deciduous,275.05,2383.7666666666664
+42858,26652659,358095.02,170594.42,Prunus avium,Cherry,Wild cherry,Prunus avium,0.41,deciduous,150.05,1300.4333333333334
+42859,26652660,358088.66,170581.7,Acer platanoides,Maple,Norway maple,Acer platanoides,0.59,deciduous,275.05,2383.7666666666664
+42860,26652661,358086.48,170578.24,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.3607193515704154,evergreen,150.05,750.25
+42861,26652662,358084.12,170574.43,Cedrus atlantica Glauca,Cedar,Blue atlas cedar,Cedrus atlantica Glauca,0.59,evergreen,150.05,550.1833333333334
+42862,26652663,358071.04,170555.72,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.23,evergreen,60.05,160.13333333333333
+42863,26652664,358068.68,170552.81,Acer platanoides,Maple,Norway maple,Acer platanoides,0.2,deciduous,60.05,240.19999999999996
+42864,26652665,358055.78,170548.45,Amelanchier canadensis,Amelanchier,Snowy mespilus,Amelanchier canadensis,0.07,deciduous,10.0,20.0
+42865,26652666,358037.79,170538.46,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.28,deciduous,60.05,480.3999999999999
+42866,26652667,358023.26,170495.95,Acer platanoides,Maple,Norway maple,Acer platanoides,0.61,deciduous,150.05,1400.4666666666667
+42867,26652668,358020.72,170498.12,Acer platanoides,Maple,Norway maple,Acer platanoides,0.41,deciduous,275.05,2567.133333333333
+42868,26652669,358016.9,170503.21,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.45,deciduous,150.05,1500.5
+42869,26652670,358020.17,170492.68,Acer campestre,Field Maple,Field maple,Acer campestre,0.2012831858407079,deciduous,150.05,1000.3333333333333
+42870,26652671,357994.01,170491.41,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.42,deciduous,150.05,1500.5
+42871,26652672,357991.83,170493.95,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.66,deciduous,150.05,1500.5
+42872,26652673,357989.65,170497.03,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.41,deciduous,150.05,1500.5
+42873,26652674,358017.05,170566.6,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.19,deciduous,60.05,360.29999999999995
+42874,26652675,358023.81,170538.09,Acer davidii,Maple,David's maple,Acer davidii,0.16,deciduous,60.05,200.16666666666666
+43133,26652936,358843.46,173765.24,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.36,deciduous,60.05,440.3666666666666
+43134,26652937,358837.09,173758.45,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.39,deciduous,60.05,440.3666666666666
+43135,26652938,358831.89,173753.45,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.3,deciduous,60.05,320.26666666666665
+43136,26652939,358826.99,173747.82,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.28,deciduous,60.05,320.26666666666665
+43137,26652940,358818.67,173741.38,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.4,deciduous,60.05,360.29999999999995
+43138,26652941,358814.57,173737.3,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.4,deciduous,60.05,400.3333333333333
+43139,26652942,358808.93,173731.69,Fraxinus excelsior Westhof's G,Ash,Common ash 'Westhof's Glory',Fraxinus excelsior Westhof's G,0.35,deciduous,60.05,360.29999999999995
+43905,26653719,359511.63,174187.77,Quercus ilex,Oak,Holm oak,Quercus ilex,0.5700000000000001,deciduous,150.05,1500.5
+43906,26653720,359486.11,174185.98,Quercus cerris,Oak,Turkey oak,Quercus cerris,0.73,deciduous,275.05,2750.5
+43907,26653721,359497.92,174186.49,Tilia x europea,Lime,European lime,Tilia x europea,0.44,deciduous,150.05,1400.4666666666667
+43908,26653722,359508.62,174187.56,Tilia x europea,Lime,European lime,Tilia x europea,0.35,deciduous,60.05,520.4333333333333
+43909,26653723,359511.23,174149.77,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.68,deciduous,275.05,2933.866666666667
+43910,26653724,359501.17,174141.85,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.73,deciduous,275.05,2933.866666666667
+44291,26654107,359749.76,173476.45,Malus tschonoskii,Apple,Pillar apple,Malus tschonoskii,0.25,deciduous,60.05,320.26666666666665
+44292,26654108,359741.08,173500.23,Sorbus intermedia,Whitebeam,Swedish whitebeam,Sorbus intermedia,0.4,deciduous,60.05,400.3333333333333
+44293,26654109,359743.05,173502.48,Sorbus intermedia,Whitebeam,Swedish whitebeam,Sorbus intermedia,0.4,deciduous,60.05,400.3333333333333
+44294,26654110,359759.13,173486.64,Sorbus intermedia,Whitebeam,Swedish whitebeam,Sorbus intermedia,0.4,deciduous,60.05,240.19999999999996
+44629,26654447,358899.58,173434.7,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.73,deciduous,275.05,3483.9666666666662
+44630,26654448,358886.44,173429.34,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.67,deciduous,275.05,3483.9666666666662
+44631,26654449,358869.22,173424.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.01,deciduous,275.05,3483.9666666666662
+44632,26654450,358874.12,173421.0,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8,deciduous,275.05,3483.9666666666662
+44633,26654451,358881.39,173417.16,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8,deciduous,275.05,3300.6000000000004
+44634,26654452,358888.99,173412.09,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.39,deciduous,528.55,7047.333333333333
+44635,26654453,358893.34,173408.83,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.11,deciduous,275.05,3667.333333333333
+44636,26654454,358897.97,173406.01,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.08,deciduous,275.05,3667.333333333333
+44637,26654455,358900.24,173412.68,Ulmus glabra,Elm,Wych elm,Ulmus glabra,0.49,deciduous,60.05,280.2333333333333
+44638,26654456,358909.66,173399.46,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.78,deciduous,275.05,3300.6000000000004
+44639,26654457,358909.22,173412.13,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.51,deciduous,150.05,2100.7
+44640,26654458,358908.89,173415.64,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.39,deciduous,150.05,2100.7
+44641,26654459,358908.78,173419.15,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.41,deciduous,150.05,2100.7
+44642,26654460,358908.57,173422.33,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.45,deciduous,150.05,2100.7
+44643,26654461,358907.8,173426.05,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.53,deciduous,150.05,2100.7
+44644,26654462,358915.48,173432.11,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.62,deciduous,275.05,3850.7
+44645,26654463,358916.67,173411.37,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.55,deciduous,150.05,2000.6666666666665
+44646,26654464,358917.47,173405.15,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.53,deciduous,150.05,600.2
+44647,26654465,358923.01,173400.94,Prunus serrulata,Cherry,Japanese cherry,Prunus serrulata,0.27,deciduous,60.05,200.16666666666666
+44648,26654466,358915.83,173397.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.35,deciduous,275.05,3483.9666666666662
+44649,26654467,358926.48,173399.99,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.98,deciduous,275.05,3483.9666666666662
+44650,26654468,358937.56,173403.69,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.1,deciduous,275.05,3483.9666666666662
+44651,26654469,358944.64,173412.09,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.12,deciduous,275.05,3667.333333333333
+44652,26654470,358951.96,173422.48,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.12,deciduous,275.05,3667.333333333333
+44653,26654471,358961.01,173434.53,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.3,deciduous,275.05,3667.333333333333
+44654,26654472,358966.85,173443.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.01,deciduous,275.05,3667.333333333333
+44655,26654473,358972.91,173453.9,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.98,deciduous,275.05,3667.333333333333
+44656,26654474,358969.59,173458.81,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.13,deciduous,10.0,26.666666666666664
+44657,26654475,358959.94,173457.93,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.65,deciduous,150.05,1700.5666666666668
+44658,26654476,358954.25,173456.83,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.43,deciduous,60.05,480.3999999999999
+44659,26654477,358950.2,173455.74,Prunus avium,Cherry,Wild cherry,Prunus avium,0.21,deciduous,60.05,240.19999999999996
+44660,26654478,358935.3,173447.63,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.67,deciduous,275.05,3117.2333333333336
+44661,26654479,358849.31,173180.41,Prunus avium,Cherry,Wild cherry,Prunus avium,0.7000000000000001,deciduous,150.05,1200.4
+44666,26654484,358924.12,173441.49,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.42,deciduous,60.05,520.4333333333333
+44667,26654485,358949.28,173445.85,Prunus avium,Cherry,Wild cherry,Prunus avium,0.06,deciduous,3.5711940284285486,5.939568080153556
+44668,26654486,358909.86,173407.03,Tilia x europea,Lime,European lime,Tilia x europea,0.45,deciduous,155.6922472393976,2179.6914613515664
+44669,26654487,358835.81,173177.41,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.31,deciduous,60.05,160.13333333333333
+44670,26654488,358842.38,173182.47,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.37,deciduous,60.05,280.2333333333333
+44671,26654489,358847.21,173187.1,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.31,deciduous,60.05,320.26666666666665
+44672,26654490,358860.36,173189.74,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.4,deciduous,60.05,160.13333333333333
+44673,26654491,358862.66,173186.62,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.45,deciduous,60.05,160.13333333333333
+44674,26654492,358864.75,173183.17,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.51,deciduous,60.05,160.13333333333333
+46258,26656085,359794.81,173421.56,Liriodendron tulipifera Fastig,Tulip Tree,Tulip tree cultivar,Liriodendron tulipifera Fastig,0.13,deciduous,10.0,33.33333333333333
+46259,26656086,359804.57,173432.4,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.2,deciduous,10.0,40.0
+46293,26656120,359629.95,173314.52,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.17,deciduous,60.05,200.16666666666666
+46294,26656121,359614.61,173325.53,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.09,deciduous,10.0,26.666666666666664
+46295,26656122,359580.31,173317.36,Prunus avium,Cherry,Wild cherry,Prunus avium,0.48,deciduous,150.05,1300.4333333333334
+46296,26656123,359546.06,173319.85,Prunus padus,Cherry,Bird cherry,Prunus padus,0.15,deciduous,60.05,200.16666666666666
+46297,26656124,359592.04,173293.89,Ilex aquifolium,Holly,Common holly,Ilex aquifolium,0.2388931297709924,evergreen,60.05,180.14999999999998
+46298,26656125,359593.21,173298.33,Tilia x europea,Lime,European lime,Tilia x europea,0.4,deciduous,150.05,1400.4666666666667
+46299,26656126,359599.66,173286.82,Cupressus - Species Unknown,Cypress,Cypress species,Cupressus - Species Unknown,0.14,evergreen,8.632623225565387,14.387705375942312
+46300,26656127,359578.56,173328.44,Ilex aquifolium Aureomarginata,Witch Hazel,Common holly cultivar,Ilex aquifolium Aureomarginata,0.3,deciduous,60.05,360.29999999999995
+46301,26656128,359591.34,173328.88,Tilia x europea,Lime,European lime,Tilia x europea,0.41,deciduous,150.05,1300.4333333333334
+46302,26656129,359628.72,173310.13,Taxus baccata,Yew,Yew,Taxus baccata,0.3,evergreen,60.05,140.11666666666665
+46303,26656130,359581.23,173310.84,Chamaecyparis lawsoniana,Cypress,Lawson's cypress,Chamaecyparis lawsoniana,0.4,evergreen,60.05,320.26666666666665
+46304,26656131,359583.31,173305.1,Taxus baccata,Yew,Yew,Taxus baccata,0.48,evergreen,150.05,500.16666666666663
+46305,26656132,359584.75,173301.59,Taxus baccata,Yew,Yew,Taxus baccata,0.45,evergreen,150.05,600.2
+46306,26656133,359587.61,173298.98,Taxus baccata,Yew,Yew,Taxus baccata,0.5,evergreen,150.05,600.2
+46307,26656134,359588.39,173293.11,Ilex aquifolium,Holly,Common holly,Ilex aquifolium,0.2388931297709924,evergreen,60.05,180.14999999999998
+46308,26656135,359628.73,173264.67,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.5,deciduous,528.55,7752.066666666666
+46309,26656136,359620.86,173262.48,Tilia x europea,Lime,European lime,Tilia x europea,0.95,deciduous,528.55,8104.4333333333325
+46310,26656137,359617.8,173260.97,Ilex aquifolium,Holly,Common holly,Ilex aquifolium,0.2,evergreen,60.05,160.13333333333333
+46311,26656138,359617.08,173261.92,Ilex aquifolium,Holly,Common holly,Ilex aquifolium,0.25,evergreen,60.05,160.13333333333333
+46312,26656139,359607.38,173258.79,Sorbus aria,Whitebeam,Whitebeam,Sorbus aria,0.24,deciduous,60.05,400.3333333333333
+46313,26656140,359618.5,173281.18,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.29,deciduous,60.05,440.3666666666666
+46314,26656141,359624.1,173280.31,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.3,deciduous,60.05,440.3666666666666
+46315,26656142,359622.31,173286.72,Sorbus aucuparia Fastigiata,Rowan,Fastigiate rowan,Sorbus aucuparia Fastigiata,0.2,deciduous,60.05,360.29999999999995
+46316,26656143,359621.42,173292.39,Taxus baccata,Yew,Yew,Taxus baccata,0.28,evergreen,60.05,100.08333333333333
+46317,26656144,359623.44,173296.86,Sorbus hupehensis,Rowan,Hupeh rowan,Sorbus hupehensis,0.28,deciduous,60.05,480.3999999999999
+46318,26656145,359625.31,173302.14,Crataegus x persimilis Prunifo,Hawthorn,Broad-leaved cockspur thorn,Crataegus x persimilis Prunifo,0.15,deciduous,60.05,200.16666666666666
+46319,26656146,359627.0,173305.16,Taxus baccata,Yew,Yew,Taxus baccata,0.17,evergreen,60.05,140.11666666666665
+46320,26656147,359625.0,173305.57,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.18,deciduous,60.05,200.16666666666666
+46321,26656148,359610.95,173277.53,Prunus avium,Cherry,Wild cherry,Prunus avium,0.4,deciduous,150.05,1200.4
+46322,26656149,359613.45,173291.61,Pyrus calleryana Chanticleer,Pear,Chanticleer pear,Pyrus calleryana Chanticleer,0.38,deciduous,60.05,520.4333333333333
+46323,26656150,359599.34,173288.56,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.5,deciduous,60.05,440.3666666666666
+46324,26656151,359581.23,173313.58,Ilex aquifolium,Holly,Common holly,Ilex aquifolium,0.37,evergreen,150.05,650.2166666666667
+46415,26656253,358540.83,173280.64,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.77,deciduous,150.05,1700.5666666666668
+46417,26656255,358518.37,173320.19,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,1.1,deciduous,150.05,600.2
+46418,26656256,358523.01,173315.41,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.67,deciduous,10.0,13.333333333333332
+46419,26656257,358541.33,173294.25,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.75,deciduous,275.05,3117.2333333333336
+46420,26656258,358541.33,173286.0,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,0.67,deciduous,275.05,3117.2333333333336
+46700,26656542,362697.13,175554.12,Sambucus nigra,Elder,,Sambucus nigra,0.2,deciduous,30.54463220513983,101.81544068379942
+46868,26656712,359589.23,173782.29,Robinia - Species Unknown,Acacia,Unidentified false acacia,Robinia - Species Unknown,0.26,deciduous,150.05,1200.4
+46869,26656713,359602.82,173768.53,Fraxinus - Species Unknown,Ash,Unidentified ash,Fraxinus - Species Unknown,0.3,deciduous,150.05,1000.3333333333333
+46870,26656714,359599.38,173771.97,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.36,deciduous,150.05,1200.4
+47173,26657020,359490.3,173738.68,Ailanthus altissima,Tree of Heaven,Tree of heaven,Ailanthus altissima,0.325609756097561,deciduous,73.07251727985278,682.0101612786259
+47192,26657039,359531.76,174145.14,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.34,deciduous,150.05,1000.3333333333333
+47193,26657040,359569.61,174139.95,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.12,deciduous,10.0,26.666666666666664
+47194,26657041,359568.03,174147.14,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.15,deciduous,60.05,160.13333333333333
+47195,26657042,359581.47,174158.08,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.17,deciduous,10.0,26.666666666666664
+47196,26657043,359591.85,174154.78,Robinia - Species Unknown,Acacia,Unidentified false acacia,Robinia - Species Unknown,0.25,deciduous,60.05,200.16666666666666
+47197,26657044,359597.58,174145.88,Robinia pseudoacacia,Acacia,Unidentified false acacia,Robinia pseudoacacia,0.23,deciduous,60.05,200.16666666666666
+47198,26657045,359609.61,174140.18,Robinia pseudoacacia,Acacia,Unidentified false acacia,Robinia pseudoacacia,0.22,deciduous,60.05,200.16666666666666
+47199,26657046,359589.21,174144.36,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.11,deciduous,10.0,20.0
+47200,26657047,359592.52,174123.35,Robinia pseudoacacia,Acacia,False acacia,Robinia pseudoacacia,0.22,deciduous,60.05,200.16666666666666
+47201,26657048,359576.98,174133.67,Carpinus betulus Fastigiata,Hornbeam,Fastigiate hornbeam,Carpinus betulus Fastigiata,0.15,deciduous,60.05,200.16666666666666
+47202,26657049,359610.55,174194.44,Acer platanoides,Maple,Norway maple,Acer platanoides,0.48,deciduous,150.05,1100.3666666666668
+47203,26657050,359531.48,174141.56,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.41,deciduous,150.05,1200.4
+47204,26657051,359672.32,174025.32,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.42,deciduous,150.05,1100.3666666666668
+47205,26657052,359685.75,174006.15,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.45,deciduous,150.05,900.3
+47206,26657053,359679.47,174000.53,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.2,deciduous,60.05,200.16666666666666
+47207,26657054,359636.22,173974.71,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6,deciduous,275.05,2383.7666666666664
+47208,26657055,359601.6,173924.1,Fraxinus excelsior Pendula,Weeping Ash,Weeping ash,Fraxinus excelsior Pendula,0.29,deciduous,60.05,240.19999999999996
+47209,26657056,359608.91,173932.55,Sorbus aucuparia,Sorbus,Rowan,Sorbus aucuparia,0.33,deciduous,60.05,240.19999999999996
+47210,26657057,359613.81,173933.93,Sorbus aucuparia,Sorbus,Rowan,Sorbus aucuparia,0.21,deciduous,60.05,200.16666666666666
+47211,26657058,359627.36,173953.03,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.86,deciduous,528.55,5637.866666666666
+47212,26657059,359639.68,173964.85,Platanus x acerifolia,Plane,Unidentified plane,Platanus x acerifolia,0.77,deciduous,528.55,5285.499999999999
+47213,26657060,359614.0,173958.98,Ginkgo biloba,Gingko,Maidenhair tree,Ginkgo biloba,0.04,deciduous,10.0,13.333333333333332
+47214,26657061,359608.37,173930.44,Magnolia Kobus,Kobushi magnolia,Kobushi magnolia,Magnolia Kobus,0.06,deciduous,2.8045902645908924,2.9041047316020596
+47693,26657545,358584.68,173751.32,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.34,deciduous,60.05,320.26666666666665
+47694,26657546,358566.13,173759.25,Tilia cordata,Lime,Small-leaved lime,Tilia cordata,1.0,deciduous,275.05,4034.0666666666666
+47695,26657547,358572.69,173747.47,Acer platanoides,Maple,Norway maple,Acer platanoides,0.56,deciduous,150.05,1400.4666666666667
+47696,26657548,358561.78,173740.7,Acer platanoides,Maple,Norway maple,Acer platanoides,0.63,deciduous,150.05,1800.6
+47697,26657549,358558.21,173719.79,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.3,deciduous,60.05,400.3333333333333
+47698,26657550,358581.61,173744.27,Catalpa bignonioides,Handkerchief Tree,Indian bean tree,Catalpa bignonioides,0.15,deciduous,10.0,33.33333333333333
+47699,26657551,358562.28,173728.21,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.7000000000000001,deciduous,150.05,1800.6
+48614,26658479,357959.13,170485.78,Prunus avium,Cherry,Wild cherry,Prunus avium,0.28,deciduous,60.05,320.26666666666665
+48621,26658486,357952.17,170508.08,Acer platanoides,Maple,Norway maple,Acer platanoides,0.41,deciduous,60.05,440.3666666666666
+48622,26658487,357954.01,170505.22,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.3,deciduous,60.05,240.19999999999996
+48623,26658488,357957.07,170489.87,Prunus avium,Cherry,Wild cherry,Prunus avium,0.32,deciduous,60.05,320.26666666666665
+48624,26658489,357994.33,170429.48,Prunus avium,Cherry,Wild cherry,Prunus avium,0.39,deciduous,60.05,360.29999999999995
+48625,26658490,357996.99,170424.58,Prunus avium,Cherry,Wild cherry,Prunus avium,0.3,deciduous,60.05,360.29999999999995
+48626,26658491,358003.13,170420.48,Acer platanoides,Maple,Norway maple,Acer platanoides,0.37,deciduous,60.05,360.29999999999995
+48627,26658492,358007.84,170416.39,Acer platanoides,Maple,Norway maple,Acer platanoides,0.37,deciduous,60.05,360.29999999999995
+48628,26658493,357968.95,170483.93,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.8200000000000001,deciduous,150.05,1400.4666666666667
+48629,26658494,357973.25,170476.77,Acer platanoides,Maple,Norway maple,Acer platanoides,0.35,deciduous,60.05,440.3666666666666
+48630,26658495,357971.82,170471.24,Acer platanoides,Maple,Norway maple,Acer platanoides,0.38,deciduous,150.05,1100.3666666666668
+48631,26658496,357990.03,170441.77,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.49,deciduous,150.05,1400.4666666666667
+48632,26658497,358058.79,170368.27,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.54,deciduous,275.05,2750.5
+48633,26658498,358060.26,170357.41,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.55,deciduous,275.05,2750.5
+48634,26658499,358063.2,170362.7,Sorbus x thuringiaca Fastigiat,Service Tree,Fastigiate hybrid Service tree,Sorbus x thuringiaca Fastigiat,0.21,deciduous,60.05,200.16666666666666
+48635,26658500,358060.85,170374.04,Sorbus x thuringiaca Fastigiat,Service Tree,Fastigiate hybrid Service tree,Sorbus x thuringiaca Fastigiat,0.25,deciduous,60.05,200.16666666666666
+48636,26658501,358076.65,170383.96,Magnolia x loebneri,Magnolia,Hybrid magnolia,Magnolia x loebneri,0.1036931818181818,deciduous,13.458249254001192,29.79719271998848
+48637,26658502,357982.66,170459.78,Prunus Kanzan,Cherry,Kanzan cherry,Prunus Kanzan,0.43,deciduous,60.05,320.26666666666665
+48638,26658503,357976.11,170458.76,Prunus avium,Cherry,Wild cherry,Prunus avium,0.09,deciduous,10.0,26.666666666666664
+48639,26658504,357979.38,170453.44,Prunus Kanzan,Cherry,Kanzan cherry,Prunus Kanzan,0.32,deciduous,60.05,240.19999999999996
+48640,26658505,358099.15,170387.59,Crataegus x persimilis Prunifo,Hawthorn,Broad-leaved cockspur thorn,Crataegus x persimilis Prunifo,0.17,deciduous,60.05,160.13333333333333
+48641,26658506,358083.32,170384.99,Magnolia x loebneri,Magnolia,Hybrid magnolia,Magnolia x loebneri,0.1036931818181818,deciduous,13.458249254001192,29.79719271998848
+48642,26658507,358069.82,170382.87,Magnolia x loebneri,Magnolia,Hybrid magnolia,Magnolia x loebneri,0.1036931818181818,deciduous,13.458249254001192,29.79719271998848
+48643,26658508,358064.92,170381.38,Magnolia x loebneri,Magnolia,Hybrid magnolia,Magnolia x loebneri,0.1036931818181818,deciduous,13.458249254001192,29.79719271998848
+48644,26658509,358090.08,170386.41,Magnolia x loebneri,Magnolia,Hybrid magnolia,Magnolia x loebneri,0.06,deciduous,2.8045902645908924,4.806667908476387
+49158,26659030,359582.21,173848.74,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.28,deciduous,60.05,280.2333333333333
+49160,26659032,359588.97,173835.14,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.44,deciduous,60.05,400.3333333333333
+49161,26659033,359541.01,173913.66,Acer campestre,Field Maple,Field maple,Acer campestre,0.06,deciduous,3.3770012540139502,6.401608481251408
+49162,26659034,359586.05,173886.46,Salix x sepulcralis chrysocoma,Willow,Golden weeping willow,Salix x sepulcralis chrysocoma,0.89,deciduous,275.05,2200.4
+49163,26659035,359606.49,173898.79,Carpinus - Species Unknown,Hornbeam,Unidentified hornbeam,Carpinus - Species Unknown,0.06,deciduous,3.581549018757343,8.420511533991956
+49164,26659036,359604.51,173878.47,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.47,deciduous,150.05,1200.4
+49165,26659037,359620.45,173868.82,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.5,deciduous,150.05,1400.4666666666667
+49431,26659318,359736.39,173443.38,Alnus cordata,Alder,Italian alder,Alnus cordata,0.65,deciduous,150.05,1400.4666666666667
+49432,26659319,359716.05,173416.6,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.15,deciduous,10.0,26.666666666666664
+49433,26659320,359723.14,173409.65,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.84,deciduous,275.05,2567.133333333333
+49434,26659321,359733.34,173401.52,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.15,deciduous,10.0,26.666666666666664
+49435,26659322,359743.96,173390.9,Aesculus hippocastanum,Horse Chestnut,Horse chestnut,Aesculus hippocastanum,0.9,deciduous,275.05,2750.5
+49436,26659323,359756.9,173401.35,Castanea sativa,Sweet Chestnut,Sweet chestnut,Castanea sativa,0.15,deciduous,10.0,26.666666666666664
+49437,26659324,359757.39,173412.06,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.32,deciduous,150.05,1100.3666666666668
+49438,26659325,359770.64,173418.77,Betula utilis jacquemontii,Birch,Jacquemont's birch,Betula utilis jacquemontii,0.23,deciduous,60.05,280.2333333333333
+49439,26659326,359763.32,173433.92,Sorbus - Species Unknown,Sorbus,Unidentified Sorbus,Sorbus - Species Unknown,0.25,deciduous,60.05,280.2333333333333
+49440,26659327,359774.34,173451.95,Alnus - Species Unknown,Alder,Alder species,Alnus - Species Unknown,0.32,deciduous,60.05,280.2333333333333
+49441,26659328,359766.76,173438.73,Sorbus - Species Unknown,Sorbus,Unidentified Sorbus,Sorbus - Species Unknown,0.26,deciduous,60.05,280.2333333333333
+49442,26659329,359768.14,173457.73,Alnus incana,Alder,Grey alder,Alnus incana,0.3,deciduous,150.05,1100.3666666666668
+49443,26659330,359775.44,173449.61,Sorbus - Species Unknown,Sorbus,Unidentified Sorbus,Sorbus - Species Unknown,0.3,deciduous,60.05,280.2333333333333
+49444,26659331,359746.11,173450.58,Alnus cordata,Alder,Italian alder,Alnus cordata,0.65,deciduous,150.05,1400.4666666666667
+49445,26659332,359751.89,173439.7,Alnus - Species Unknown,Alder,Alder species,Alnus - Species Unknown,0.21,deciduous,60.05,320.26666666666665
+49446,26659333,359758.64,173440.8,Alnus - Species Unknown,Alder,Alder species,Alnus - Species Unknown,0.53,deciduous,150.05,1100.3666666666668
+49865,26659755,359664.83,173628.99,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,10.0,46.666666666666664
+49866,26659756,359670.12,173623.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,10.0,46.666666666666664
+49867,26659757,359676.13,173617.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.16,deciduous,10.0,46.666666666666664
+49868,26659758,359683.07,173610.27,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.5,deciduous,10.0,86.66666666666666
+49869,26659759,359714.54,173561.94,Sorbus aucuparia,Rowan,Rowan,Sorbus aucuparia,0.06,deciduous,3.5765601780597613,6.508338586394708
+49892,26659782,359796.48,173455.14,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.25,deciduous,60.05,200.16666666666666
+49893,26659783,359789.12,173470.33,Liriodendron tulipifera,Tulip Tree,Tulip tree,Liriodendron tulipifera,0.06,deciduous,2.4152713188738577,4.099666834014899
+49895,26659785,359803.04,173454.02,Betula pendula Edinburgh,Birch,Betula pendula Edinburgh,Betula pendula Edinburgh,0.06,deciduous,3.584910945524932,6.461429192405113
+49896,26659786,359790.01,173460.95,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.14,deciduous,60.05,120.09999999999998
+49897,26659787,359800.94,173452.6,Prunus avium,Cherry,Wild cherry,Prunus avium,0.06,deciduous,3.5711940284285486,5.939568080153556
+50223,26660122,359665.39,173277.33,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.48,deciduous,150.05,2000.6666666666665
+50224,26660123,359670.87,173283.86,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.47,deciduous,150.05,1500.5
+50225,26660124,359675.97,173289.22,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.87,deciduous,275.05,2933.866666666667
+50226,26660125,359680.93,173295.48,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.2,deciduous,150.05,1000.3333333333333
+50227,26660126,359685.63,173299.92,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.6,deciduous,275.05,3117.2333333333336
+50228,26660127,359691.64,173298.61,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.53,deciduous,275.05,3117.2333333333336
+50229,26660128,359697.25,173296.65,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.47,deciduous,275.05,2750.5
+50230,26660129,359702.87,173294.82,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.21,deciduous,60.05,280.2333333333333
+50231,26660130,359710.18,173293.39,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.45,deciduous,150.05,1200.4
+50232,26660131,359702.73,173290.13,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.67,deciduous,275.05,3117.2333333333336
+50233,26660132,359697.12,173288.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.56,deciduous,275.05,3117.2333333333336
+50234,26660133,359692.16,173286.34,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.53,deciduous,275.05,2750.5
+50235,26660134,359686.28,173284.25,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.68,deciduous,275.05,3117.2333333333336
+50236,26660135,359680.8,173282.3,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.66,deciduous,275.05,2933.866666666667
+50237,26660136,359676.23,173280.6,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.46,deciduous,150.05,1600.5333333333333
+50238,26660137,359671.27,173278.51,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.62,deciduous,150.05,700.2333333333333
+50239,26660138,359694.77,173311.28,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.95,deciduous,528.55,6694.966666666665
+50240,26660139,359705.87,173308.8,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.74,deciduous,528.55,6694.966666666665
+50241,26660140,359718.66,173306.58,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.85,deciduous,528.55,7047.333333333333
+50242,26660141,359730.81,173304.36,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.99,deciduous,528.55,7047.333333333333
+50249,26660148,359715.14,173314.28,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,0.93,deciduous,528.55,7047.333333333333
+50250,26660149,359705.22,173319.51,Platanus x acerifolia,Plane,London plane,Platanus x acerifolia,1.01,deciduous,528.55,7399.699999999999
+50729,26660635,363017.87,175517.47,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.14,deciduous,60.05,280.2333333333333
+50739,26660645,363049.83,175516.72,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.16,deciduous,60.05,240.19999999999996
+50740,26660646,363041.16,175513.76,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.1,deciduous,10.0,26.666666666666664
+50741,26660647,363019.63,175505.85,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.12,deciduous,10.0,33.33333333333333
+50742,26660648,363019.05,175510.81,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.18,deciduous,60.05,240.19999999999996
+50743,26660649,363018.52,175513.77,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.15,deciduous,60.05,240.19999999999996
+50745,26660651,363017.49,175520.66,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.18,deciduous,60.05,320.26666666666665
+50746,26660652,363015.95,175525.2,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.1,deciduous,10.0,26.666666666666664
+50747,26660653,363019.38,175525.69,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.2,deciduous,60.05,240.19999999999996
+50748,26660654,363020.26,175521.58,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.13,deciduous,60.05,240.19999999999996
+50782,26660688,363027.46,175532.48,Salix - Species Unknown,Willow,Unidentified willow,Salix - Species Unknown,0.4526645768025079,deciduous,117.91065159854554,707.4639095912731
+50904,26660810,358591.23,172832.79,Cercis siliquastrum,Judas Tree,,Cercis siliquastrum,0.305455333429082,deciduous,4.000206273689193,4.296094198691209
+50905,26660811,358589.91,172806.52,Cercis siliquastrum,Judas Tree,,Cercis siliquastrum,0.305455333429082,deciduous,4.000206273689193,4.296094198691209
+50906,26660812,358592.46,172845.78,Cercis siliquastrum,Judas Tree,,Cercis siliquastrum,0.305455333429082,deciduous,4.000206273689193,4.296094198691209
+50907,26660813,358593.59,172859.2,Cercis siliquastrum,Judas Tree,,Cercis siliquastrum,0.305455333429082,deciduous,4.000206273689193,4.296094198691209
+50908,26660814,358590.52,172819.59,Cercis siliquastrum,Judas Tree,,Cercis siliquastrum,0.305455333429082,deciduous,4.000206273689193,4.296094198691209
+51455,26661363,359678.02,173396.8,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.4,deciduous,150.05,1200.4
+51456,26661364,359635.68,173422.47,Prunus padus Watereri,Cherry,Bird cherry cultivar,Prunus padus Watereri,0.15,deciduous,10.0,40.0
+51457,26661365,359678.7,173455.36,Pterocarya fraxinifolia,Wingnut,Caucasian wingnut,Pterocarya fraxinifolia,0.25,deciduous,60.05,320.26666666666665
+51458,26661366,359672.0,173394.39,Acer pseudoplatanus,Sycamore,Sycamore,Acer pseudoplatanus,0.6,deciduous,275.05,2567.133333333333
+51459,26661367,359658.74,173400.41,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.86,deciduous,275.05,2567.133333333333
+51460,26661368,359673.89,173415.39,Acer saccharinum,Maple,Silver maple,Acer saccharinum,0.67,deciduous,275.05,2567.133333333333
+51461,26661369,359665.28,173438.83,Prunus cerasifera Pissardii,Plum,Cherry plum,Prunus cerasifera Pissardii,0.15,deciduous,10.0,26.666666666666664
+51462,26661370,359645.98,173430.33,Prunus padus Watereri,Cherry,Bird cherry cultivar,Prunus padus Watereri,0.16,deciduous,10.0,40.0
+51463,26661371,359675.27,173451.92,Pterocarya fraxinifolia,Wingnut,Caucasian wingnut,Pterocarya fraxinifolia,0.25,deciduous,10.0,53.33333333333333
+51860,26661770,359504.93,173953.31,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.26,deciduous,60.05,280.2333333333333
+51878,26661788,359784.75,173337.83,Buddleia davidii,Buddleia,Buddleia,Buddleia davidii,0.08,deciduous,10.0,26.666666666666664
+51879,26661789,359797.53,173356.21,Sambucus nigra,Elder,Elder,Sambucus nigra,0.08,deciduous,60.05,240.19999999999996
+51880,26661790,359795.99,173356.72,Syringa vulgaris,Lilac,Lilac,Syringa vulgaris,0.08,deciduous,60.05,200.16666666666666
+51881,26661791,359797.71,173358.96,Malus - Species Unknown,Apple,Unidentified apple,Malus - Species Unknown,0.32,deciduous,60.05,320.26666666666665
+52987,26662907,360810.61,170138.51,Tilia x europea,Lime,European lime,Tilia x europea,0.71,deciduous,150.05,1100.3666666666668
+52988,26662908,360800.02,170111.08,Prunus shimidsu sakura,Cherry,Cherry,Prunus shimidsu sakura,0.06,deciduous,3.5711940284285486,5.939568080153556
+52989,26662909,360793.03,170120.77,No Code Allocated,,,No Code Allocated,0.305455333429082,deciduous,60.05,200.16666666666666
+52990,26662910,360778.36,170103.8,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.39,deciduous,150.05,900.3
+52991,26662911,360783.7,170114.53,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.08,deciduous,6.323578329802724,13.997870632660597
+52992,26662912,360784.45,170099.53,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.32,deciduous,150.05,1000.3333333333333
+52993,26662913,360777.23,170087.26,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.42,deciduous,150.05,1000.3333333333333
+52994,26662914,360773.1,170098.56,Prunus - Species Unknown,Cherry,Unidentified cherry,Prunus - Species Unknown,0.29,deciduous,60.05,360.29999999999995
+52995,26662915,360771.22,170105.33,Pyrus communis,Pear,Common pear,Pyrus communis,0.35,deciduous,60.05,400.3333333333333
+52996,26662916,360758.23,170111.29,Acer campestre,Field Maple,Field maple,Acer campestre,0.06,deciduous,3.3770012540139502,6.401608481251408
+52998,26662918,360784.59,170150.89,Fraxinus excelsior,Ash,Common ash,Fraxinus excelsior,0.3592134831460674,deciduous,101.5422573046714,338.4741910155713
+52999,26662919,360795.62,170110.0,Sorbus - Species Unknown,Sorbus,Unidentified Sorbus,Sorbus - Species Unknown,0.06,deciduous,3.5716736613426026,7.4145203160369615
+53131,26663051,359689.53,173371.72,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.39,deciduous,60.05,240.19999999999996
+53133,26663053,359709.96,173401.41,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.35,deciduous,60.05,200.16666666666666
+53134,26663054,359690.39,173390.0,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.5,deciduous,60.05,240.19999999999996
+53135,26663055,359681.36,173379.46,Crataegus monogyna,Hawthorn,Common hawthorn,Crataegus monogyna,0.34,deciduous,60.05,200.16666666666666
+53136,26663056,359685.44,173374.94,Crataegus crus-gallii,Hawthorn,Cockspur thorn,Crataegus crus-gallii,0.43,deciduous,60.05,240.19999999999996
+54262,26664198,359581.99,174018.41,Betula pendula,Silver Birch,Silver birch,Betula pendula,0.23,deciduous,60.05,360.29999999999995
+54651,26664595,359381.7,173258.3,Fagus sylvatica,Beech,Common beech,Fagus sylvatica,0.06,deciduous,2.49979064118843,3.8808477985929675
+54652,26664596,359380.34,173244.42,Corylus colurna,Hazel,Turkish hazel,Corylus colurna,0.06,deciduous,3.567793510656264,6.035750595625154
+54653,26664597,359367.89,173260.53,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.06,evergreen,3.0818860274754893,2.3752921706283834
+54654,26664598,359360.97,173255.03,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.06,evergreen,3.0818860274754893,2.3752921706283834
+54655,26664599,359364.66,173247.88,Pinus sylvestris,Scots Pine,Scots pine,Pinus sylvestris,0.06,evergreen,3.0818860274754893,2.3752921706283834
+54667,26664611,359677.68,174100.05,Acer platanoides,Maple,Norway maple,Acer platanoides,0.45,deciduous,150.05,1100.3666666666668
+54669,26664613,359664.87,174077.82,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.11,deciduous,60.05,240.19999999999996
+54670,26664614,359669.24,174082.19,Quercus coccinea,Sweetgum,Scarlet oak,Quercus coccinea,0.11,deciduous,60.05,240.19999999999996
+54671,26664615,359673.01,174091.12,Acer platanoides,Maple,Norway maple,Acer platanoides,0.35,deciduous,60.05,400.3333333333333
+54672,26664616,359681.05,174097.27,Acer platanoides,Maple,Norway maple,Acer platanoides,0.38,deciduous,60.05,440.3666666666666
+54673,26664617,359674.21,174102.53,Acer platanoides,Maple,Norway maple,Acer platanoides,0.29,deciduous,60.05,400.3333333333333
+54674,26664618,359667.65,174107.0,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.08,deciduous,10.0,33.33333333333333
+54675,26664619,359663.58,174110.38,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.08,deciduous,10.0,33.33333333333333
+54676,26664620,359651.57,174108.29,Acer platanoides,Maple,Norway maple,Acer platanoides,0.53,deciduous,60.05,400.3333333333333
+54677,26664621,359647.01,174104.72,Acer platanoides,Maple,Norway maple,Acer platanoides,0.4,deciduous,60.05,400.3333333333333
+54678,26664622,359637.67,174090.53,Ginkgo biloba,Oak,Maidenhair tree,Ginkgo biloba,0.12,deciduous,10.0,26.666666666666664
+54679,26664623,359643.33,174081.7,Trachycarpus fortunei,Chusan Palm,Chusan palm,Trachycarpus fortunei,0.1,evergreen,5.490313132578437,7.342665074318561
+54680,26664624,359658.53,174083.31,Prunus serrulata,Cherry,Japanese cherry,Prunus serrulata,0.06,deciduous,3.5711940284285486,5.939568080153556
+54681,26664625,359656.58,174068.51,Pyrus communis,Pear,Common pear,Pyrus communis,0.06,deciduous,3.568701721456071,6.025968014631191
+54682,26664626,359656.92,174076.65,Malus trilobata,Apple,Maple-leaved crabapple,Malus trilobata,0.06,deciduous,3.57276682092909,6.6201169253625025
+54683,26664627,359670.32,174083.23,Liquidambar orientalis,Oriental sweetgum,Oriental sweetgum,Liquidambar orientalis,0.305455333429082,deciduous,82.17740537522903,445.46452042512533
+54684,26664628,359653.13,174066.1,Liquidambar styraciflua,Sweetgum,Sweetgum,Liquidambar styraciflua,0.06,deciduous,2.8045902645908924,5.035577441077952
+54685,26664629,359635.95,174029.02,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.37,deciduous,150.05,900.3
+54715,26664659,359657.38,174083.13,Prunus serrula Tibetica ,Cherry,Cherry,Prunus serrula Tibetica ,0.305455333429082,deciduous,42.83990504852654,154.36185140492313
+54971,26664915,359699.06,173978.78,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.4,deciduous,150.05,1000.3333333333333
+54972,26664916,359667.49,173958.53,Betula pendula,Birch,Silver birch,Betula pendula,0.52,deciduous,150.05,1100.3666666666668
+54973,26664917,359666.82,173950.79,Betula - Species Unknown,Birch,Birch species,Betula - Species Unknown,0.44,deciduous,150.05,1200.4
+54974,26664918,359685.26,173961.33,Sorbus aucuparia 'Streetwise',Rowan,,Sorbus aucuparia 'Streetwise',0.06,deciduous,2.8045902645908924,2.9041047316020596
